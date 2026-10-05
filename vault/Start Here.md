@@ -1,7 +1,7 @@
 # NUCALORIC project vault
 Reviewed 2026-10-04. Source: `/home/luke/Projects/nucaloric-site`.
 
-NUCALORIC v12 is a static front-end prototype for an AI-assisted Solana token launch platform. It has ten pages, a shared JavaScript file, a shared stylesheet, and SVG identities. There is no backend, package build, real wallet authorization, token deployment, or live market feed in this source.
+NUCALORIC has 13 frontend pages with real public Solana pool observations, primary launchpad listing discovery, public provider checks and local project tools. The live site is hosted on GitHub Pages. Authenticated backend services, wallet signing, token deployment and financial execution remain unconfigured. See [[Working Features]] and [[Flow Map and Launchpad Discovery]] for current behavior and limits.
 
 ## Read next
 - [[Project Workspace Redesign]] — latest homepage, Registry, Rewards and Account changes
@@ -60,3 +60,7 @@ NUCALORIC v12 is a static front-end prototype for an AI-assisted Solana token la
 ## Working product features
 
 [[Working Features]] — live market search, key-free provider checks, saved projects, milestones and portable backups.
+
+## Current roadmap and discovery
+
+[[Flow Map and Launchpad Discovery]] — interactive implementation graph, expanded status evidence and OTC/PAID discovery with scroll-depth motion.

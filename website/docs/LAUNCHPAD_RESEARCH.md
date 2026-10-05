@@ -52,3 +52,7 @@ For a future trend study: capture a dated sample of original official posts, uni
 Real deployments, verified ownership, public project profiles, payouts, and on-chain fee routing still need authenticated backend integrations. The existing Paymenter terminal gate remains in place.
 
 Related: [[Creative Refresh]], [[Ad Asset Pack]], [[Product Brief]], [[Roadmap]].
+
+## Current identification and Explore / October 5
+
+PAID is now identified as UsePaid, https://usepaid.app/ and https://x.com/UsePaid. The historical Ignition reference above is superseded for this task. Explore now uses OTC Desks primary live listings and a dated PAID Solana listing catalog with fresh independent pool observations. See [[Flow Map and Launchpad Discovery]]. Earlier example-project filters describe the previous Explore page. No current X trend ranking is claimed.

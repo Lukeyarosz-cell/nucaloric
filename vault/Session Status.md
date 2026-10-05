@@ -2,7 +2,7 @@
 
 Website refreshed with the original three-color identity, dot motion, monochrome chapter transitions, redesigned Registry, Project Studio, project discovery filters, and a saved-brief shortcut. See [[Creative Refresh]].
 
-Launchpad comparison and evidence limits are documented in [[Launchpad Research]]. Current X trend rankings were not verified. PAID’s exact intended identity remains unconfirmed.
+Launchpad comparison and evidence limits are documented in [[Launchpad Research]]. Current X trend rankings were not verified. PAID is now identified as UsePaid; see [[Flow Map and Launchpad Discovery]].
 
 The reusable creative pack contains nine SVGs, nine PNGs and three silent six-second videos. See [[Ad Asset Pack]].
 
@@ -27,3 +27,7 @@ Recorded all 13 pages with normal animations at 1440 × 900. The silent 2:04 MP4
 ## First working integrations / October 5
 
 Implemented live public Solana pool search and saved watchlists, direct-browser official provider checks on the public site, and a multi-project library with milestones and portable JSON backups. Retired fake wallet connection success. See [[Working Features]] for limits and browser evidence.
+
+## Flow map, richer status and launchpad Explore / October 5
+
+Implemented the seven-node interactive roadmap, full provider overview with component evidence, launchpad-attributed OTC/PAID discovery, a Pump.fun trading-venue view and native scroll-depth dot motion. See [[Flow Map and Launchpad Discovery]] for source attribution, catalog dates and verification.

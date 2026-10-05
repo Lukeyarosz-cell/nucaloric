@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-05T18:16:13.394Z",
+  "base": "https://lukeyarosz-cell.github.io/nucaloric-site",
+  "pages": {
+    "roadmap": {
+      "nodes": 7,
+      "services": 0,
+      "components": 0,
+      "pools": 0,
+      "unindexed": 0,
+      "overflow": 0
+    },
+    "status": {
+      "nodes": 0,
+      "services": 17,
+      "components": 5,
+      "pools": 0,
+      "unindexed": 0,
+      "overflow": 0,
+      "status": "Live public feeds · checked Oct 5, 2:16 PM EDT · Public provider checks"
+    },
+    "explorer": {
+      "nodes": 0,
+      "services": 0,
+      "components": 0,
+      "pools": 28,
+      "unindexed": 4,
+      "overflow": 0,
+      "status": "Pool observations received at 2:16:15 PM. Listings are source-attributed; refresh for new market data.",
+      "evidence": "OTC registry: read live. PAID registry: verified catalog from 10/5/2026, 2:12:42 PM; browser access to its live registry is unavailable. Pool prices are requested separately on each refresh."
+    }
+  },
+  "paidPools": 16,
+  "errors": []
+}

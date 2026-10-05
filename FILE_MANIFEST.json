@@ -806,8 +806,8 @@
   },
   {
     "path": "vault/Design System.md",
-    "bytes": 4887,
-    "sha256": "ada9f49345b8f32aa7c250f2ec2b645d3392df3dbc89e0b0f351522ddb7b0507"
+    "bytes": 5140,
+    "sha256": "712ef884194c282f0e429dbfb164f54a8bf395f7f16c86631466a49aca716516"
   },
   {
     "path": "vault/Dot Motion Update.md",
@@ -1148,6 +1148,106 @@
     "path": "vault/Evidence/Dot Motion Update/registry-dots-390-top.png",
     "bytes": 271357,
     "sha256": "f3fe4075923137cfc15c8eb6ee98ef62ba8c7fee5b9bce315907eeca3000c176"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/creative-workspace.json",
+    "bytes": 2046,
+    "sha256": "8b41fc7278d4c3300489c564899186a237d19965ce097736711bb66a8e60deac"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/explore-top.png",
+    "bytes": 180631,
+    "sha256": "67cf1f154a63c0a6fd287ebba33a552cf989c6c068ce7e2d50559b301202dab5"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/explorer-1440.png",
+    "bytes": 1020366,
+    "sha256": "f38ff48a1b938a165c5b8375acd84624636165850e0f9629bbd3bcaeb0f06421"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/explorer-390.png",
+    "bytes": 1132639,
+    "sha256": "5ed4191f976a6be3a9c636f1bac2715954c374e428618913920f6c163faee303"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/flowmap-launchpads.json",
+    "bytes": 2608,
+    "sha256": "db95410f03417fd9aa023890055264160d3652853701dafe7e325642e8599491"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/graph.png",
+    "bytes": 82207,
+    "sha256": "aebe94edef494877263b4d9c56e9ffb84ac9ccf44b715a454b152b324bfda8a0"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/interactions.json",
+    "bytes": 1611,
+    "sha256": "a86191d056999e808ffefaff303e505f06ff869fd4f94e5e91270bbbfe3f32bc"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/operations.json",
+    "bytes": 2271,
+    "sha256": "3b3662f01a569e2b825c09b0e1ae2a480cf9ab34ce57ac6e2fdd275b6d4eeea0"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/published-explorer-390.png",
+    "bytes": 1133269,
+    "sha256": "b102a8f3377b71d74dfffedca25c5c645d950ea021ccb80e5f6b843b1dfd2628"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/published-roadmap-390.png",
+    "bytes": 164324,
+    "sha256": "38fe6a8b0bf59f502eedf5288a7a20d59c4f67275641def62ca4ebe6648b58bc"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/published-status-390.png",
+    "bytes": 529533,
+    "sha256": "ff400138dacedccefc32ca87d61203f41c4248cc628087fb41e553a5ba9bddc6"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/published.cjs",
+    "bytes": 2232,
+    "sha256": "47b4793d98ed22e5ecb35ec2c5e251074f9c0d035e4501488eb7c33f8f7730ae"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/published.json",
+    "bytes": 1026,
+    "sha256": "4d6456f25a003d4a125d7331dd06cdf688b8929a1c1625656371b3fcf96fb5dd"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/responsive.json",
+    "bytes": 2255,
+    "sha256": "1b29ac21b5a566391d9a29ee57cdbf84bb6e729c600dfccd8e893b9ed0d0f74b"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/roadmap-1440.png",
+    "bytes": 258215,
+    "sha256": "dac98cfd170639ca2e2762faf0d808a37aa358c550817863f45fdd6ca71f59d9"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/roadmap-390.png",
+    "bytes": 191583,
+    "sha256": "184e43f11a99297a9c0b5854bed833248fe2cd8f96082a1f75ae33005f412a4b"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/status-1440.png",
+    "bytes": 643191,
+    "sha256": "5de9843dfb65bb4596e380b2cdb37d4b074f1c8f9ffad2057afbdf8e1b4406ad"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/status-390.png",
+    "bytes": 582228,
+    "sha256": "ae4a697c7084d35f3e3af53a18f292d80e022f1c3ba344a57ad2ff2b52ed48e2"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/validation.json",
+    "bytes": 1986,
+    "sha256": "669342d3adf6a6d3c59221a1641fde41745dc8b600c246b0931451a07235dbeb"
+  },
+  {
+    "path": "vault/Evidence/Flow Map and Launchpad Discovery/working-features.json",
+    "bytes": 3565,
+    "sha256": "c2a712c3cd10202b2dc4811202c827427a9742c809336553baa276300b7014e4"
   },
   {
     "path": "vault/Evidence/Launch Registry Refresh/launchpad-after-1440.png",
@@ -1635,6 +1735,11 @@
     "sha256": "19bb4958286524690e5d444579ccedc6a83db381e1155a1f9a928f3b4420bd18"
   },
   {
+    "path": "vault/Flow Map and Launchpad Discovery.md",
+    "bytes": 4294,
+    "sha256": "9999c30fe57ae39ecf7cb75d8c3ac82952de6e4ee26ca69a53f4a9e36b737cc8"
+  },
+  {
     "path": "vault/Future Site Motion.md",
     "bytes": 7030,
     "sha256": "095ad293923d6b552b8fbb03b34e8e691f680be03bad2695c3b283d628c05032"
@@ -1696,13 +1801,13 @@
   },
   {
     "path": "vault/Integrations/Implementation Roadmap.md",
-    "bytes": 2767,
-    "sha256": "87823acf9d317c4d0786e05fd5fa151a4a7f7363d77b18cd32f04c5abaa27bbb"
+    "bytes": 2963,
+    "sha256": "c044a639df009d70e1a85eea7faeea85a6a4aafd34dae02f9c7e839b58c36d10"
   },
   {
     "path": "vault/Integrations/Integration Index.md",
-    "bytes": 1867,
-    "sha256": "0486cce0fff341eba5bcb0e8b2b872fa3c461195b0b9eeaac552fe887f7080f1"
+    "bytes": 1998,
+    "sha256": "0edf77157491fb150ffa0672f5a1cb607c93fe2229c3fbde3a11434a24dfc573"
   },
   {
     "path": "vault/Integrations/Jupiter.md",
@@ -1715,9 +1820,19 @@
     "sha256": "571e212dd162f3b2a396d4cb6d20f5faa82282cf1765dd35ebabb386b3d4d56b"
   },
   {
+    "path": "vault/Integrations/OTC Desks.md",
+    "bytes": 418,
+    "sha256": "2caaa8ebf06188d589046ead71e1503b0e97e20442d093494a155ad44a8bd89a"
+  },
+  {
     "path": "vault/Integrations/OpenAI.md",
     "bytes": 1220,
     "sha256": "792087b759bf781d57f5b565acdba5e8cc012148ba003ba9dc11790992a72850"
+  },
+  {
+    "path": "vault/Integrations/PAID \u2014 UsePaid.md",
+    "bytes": 547,
+    "sha256": "946f812cb038afb4b05f4ddb55e0f38f7836690c3f9272337c18e022d11ab764"
   },
   {
     "path": "vault/Integrations/Paymenter.md",
@@ -1736,8 +1851,8 @@
   },
   {
     "path": "vault/Integrations/Service Monitoring.md",
-    "bytes": 6098,
-    "sha256": "018c4b64a625c84d52a1bbbf148c4a54c3a112b95634a054e36c1ba35df4f1d6"
+    "bytes": 6294,
+    "sha256": "dfeacf9f673167bda50841d641db774802b8b8a3ee77b9005fd7ae31716b6543"
   },
   {
     "path": "vault/Integrations/Solana.md",
@@ -1766,13 +1881,13 @@
   },
   {
     "path": "vault/Launchpad Research.md",
-    "bytes": 6439,
-    "sha256": "3a42bdf67db2466a25acc2351a9239e55743677948b9fdf913e3add0c8cbc0d3"
+    "bytes": 6923,
+    "sha256": "be92a23925bcb33ff153d7dfb360a0aac90c192f97ad0c462d6604dacaa78e22"
   },
   {
     "path": "vault/Live Website.md",
-    "bytes": 1162,
-    "sha256": "ec3a623a18a4491a50bebfac14013b5b8d9f4444223aa9418019d5bf1bc44dfe"
+    "bytes": 1636,
+    "sha256": "ad87a36a948f2f53fb695fe23182c1e408ede04531fd7ff35109039dd9a2a696"
   },
   {
     "path": "vault/Local Development.md",
@@ -1861,13 +1976,13 @@
   },
   {
     "path": "vault/Session Status.md",
-    "bytes": 2477,
-    "sha256": "9d3e0ebb5b17507b2dcd630a280a4c119e2ab39f5846448f9bb17b3b19d05ebb"
+    "bytes": 2863,
+    "sha256": "47a70f455e398ee6502e2367728bf056b397d982e320cbe7d7c00f7c164327de"
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 2021,
-    "sha256": "8b29c6f0f71249d3974cc3cffbe3f58a7ef3d3f40cec821b68565694f641b55c"
+    "bytes": 2318,
+    "sha256": "13d3b23eb745d3c7d5ccb39bcaeb8d6bb91d361bb60b3673b3491ffeb9db894d"
   },
   {
     "path": "vault/Website Walkthrough.md",
@@ -1876,8 +1991,8 @@
   },
   {
     "path": "vault/Working Features.md",
-    "bytes": 3540,
-    "sha256": "e732071febc24e1a19b36d9da6bb6e2457a5acfcd375553de93948523270494e"
+    "bytes": 3672,
+    "sha256": "ce51f2109f17c307ff1d4c5377d641138c20f526ca5fdb4a466550611e6402af"
   },
   {
     "path": "website/.gitignore",
@@ -2046,8 +2161,8 @@
   },
   {
     "path": "website/coin.html",
-    "bytes": 4435,
-    "sha256": "d05fd8fe99367466e8aac3ffdb95ee92c31a2bcdcae24a2c679791a59c7d9fc1"
+    "bytes": 4526,
+    "sha256": "abc4966b64466e492c6fd82d81ea884ffe6df72a89447cffd36c8854f90ab83e"
   },
   {
     "path": "website/creative-workspace.css",
@@ -2061,8 +2176,13 @@
   },
   {
     "path": "website/dashboard.html",
-    "bytes": 9074,
-    "sha256": "2303f36b5523b1c3a817f62c8193c6d614cf6e3c1ddc6d49408d6265f9930c15"
+    "bytes": 9165,
+    "sha256": "b1757bf0d9133a49cb69f911064e02b98c024a060cf732aa62712c824a7298c5"
+  },
+  {
+    "path": "website/data/launchpads.json",
+    "bytes": 7279,
+    "sha256": "60e87dff02912c651371e1e75509c1942fc113e1cfb40c720dc2ec037ba9c10b"
   },
   {
     "path": "website/data/service-status.json",
@@ -2073,6 +2193,16 @@
     "path": "website/data/services.json",
     "bytes": 16423,
     "sha256": "3f652b3a5ff00826f248d369a691b044f1200053d764174b3348af266b974c77"
+  },
+  {
+    "path": "website/depth-motion.js",
+    "bytes": 1943,
+    "sha256": "ae4da5426cc6f2587249ced73d245812477b70d83dfd98ccee837ad5109f16d9"
+  },
+  {
+    "path": "website/depth-pages.css",
+    "bytes": 7620,
+    "sha256": "011dfaeb2036a15c57cfe6bc67943798f85443939c9b5daac5ff982b803d0974"
   },
   {
     "path": "website/docs/API_ACCESS.md",
@@ -2110,14 +2240,24 @@
     "sha256": "19bb4958286524690e5d444579ccedc6a83db381e1155a1f9a928f3b4420bd18"
   },
   {
+    "path": "website/docs/FLOWMAP_LAUNCHPADS.md",
+    "bytes": 4294,
+    "sha256": "9999c30fe57ae39ecf7cb75d8c3ac82952de6e4ee26ca69a53f4a9e36b737cc8"
+  },
+  {
+    "path": "website/docs/FLOWMAP_LAUNCHPADS_VALIDATION.json",
+    "bytes": 1986,
+    "sha256": "669342d3adf6a6d3c59221a1641fde41745dc8b600c246b0931451a07235dbeb"
+  },
+  {
     "path": "website/docs/LAUNCHPAD_RESEARCH.md",
-    "bytes": 6439,
-    "sha256": "3a42bdf67db2466a25acc2351a9239e55743677948b9fdf913e3add0c8cbc0d3"
+    "bytes": 6923,
+    "sha256": "be92a23925bcb33ff153d7dfb360a0aac90c192f97ad0c462d6604dacaa78e22"
   },
   {
     "path": "website/docs/LIVE_WEBSITE.md",
-    "bytes": 1162,
-    "sha256": "ec3a623a18a4491a50bebfac14013b5b8d9f4444223aa9418019d5bf1bc44dfe"
+    "bytes": 1636,
+    "sha256": "ad87a36a948f2f53fb695fe23182c1e408ede04531fd7ff35109039dd9a2a696"
   },
   {
     "path": "website/docs/LOCAL_DEVELOPMENT.md",
@@ -2146,8 +2286,8 @@
   },
   {
     "path": "website/docs/WORKING_FEATURES.md",
-    "bytes": 3540,
-    "sha256": "e732071febc24e1a19b36d9da6bb6e2457a5acfcd375553de93948523270494e"
+    "bytes": 3671,
+    "sha256": "f4defcfcbd6a785a82c69bf604fafb117ce4ac870afe78b22f197fc5ff658e21"
   },
   {
     "path": "website/docs/paymenter-integration.md",
@@ -2156,13 +2296,18 @@
   },
   {
     "path": "website/ecosystem.html",
-    "bytes": 11480,
-    "sha256": "23828feb00ab26ce2367a157a42fbe0d703a0fd8daa6c3ea4c2fca2943e980a5"
+    "bytes": 11571,
+    "sha256": "14e927a1d5c4cc756257bcaacf0c31f9aff4b48e16c7fc47a8e9ff139b546c41"
   },
   {
     "path": "website/explorer.html",
-    "bytes": 5681,
-    "sha256": "aa199c15a6bdf5a5eb5f51f1661a47425969d1ff48c832e322abc2d3e5a4284f"
+    "bytes": 6200,
+    "sha256": "dfef7031341869af15fe22b043af5d0e06c805f073632ad96c92b86bd24cdfe1"
+  },
+  {
+    "path": "website/flowmap.js",
+    "bytes": 5207,
+    "sha256": "872ecf4ee74e65932090c9741df8f9c984600e11db39b58e2bb139bc54ceaff1"
   },
   {
     "path": "website/hosting-config.js",
@@ -2171,8 +2316,8 @@
   },
   {
     "path": "website/hosting.html",
-    "bytes": 11562,
-    "sha256": "ba86accca999af2ab54b2388a1a90430f5a00e41b6cfb4517299b344e0c6433f"
+    "bytes": 11653,
+    "sha256": "d36bb90a4432a6e5e6140ec0d438b411ac1eb9fed058640478185ba6eb6deac4"
   },
   {
     "path": "website/hosting.js",
@@ -2181,18 +2326,23 @@
   },
   {
     "path": "website/index.html",
-    "bytes": 42510,
-    "sha256": "0d876f694bacca7e10b3f74e4c12b0e14976e7f5b9536a1a93ea895079b29c15"
+    "bytes": 42601,
+    "sha256": "2f81eb6be5bb83d16f08d6a72e400b529dff81acac2843de3d6ee367022d4ad4"
+  },
+  {
+    "path": "website/launchpad-market.js",
+    "bytes": 1509,
+    "sha256": "663ec0b334182bfaebcde7dbdae2f2e4faf361fc29115f976f7a3e925f47ace5"
   },
   {
     "path": "website/launchpad.html",
-    "bytes": 23940,
-    "sha256": "16190b058a421d72942270580b7caf9e805edb9b59a1f3034b4dd9066b844b80"
+    "bytes": 24031,
+    "sha256": "1600abbc8aceff119e3db8434d8b0193889eca59793024fc6b6e5c557d260b97"
   },
   {
     "path": "website/live-market.js",
-    "bytes": 8991,
-    "sha256": "89fb46a79a816e055578dc411c44e5f197b6d300c6748b125c562fbc4e703a27"
+    "bytes": 12921,
+    "sha256": "ddfdb74d428de641229803a9b6c0471c053d02b540f141d8b6f817186bef44d1"
   },
   {
     "path": "website/motion.js",
@@ -2206,13 +2356,13 @@
   },
   {
     "path": "website/operations.js",
-    "bytes": 11170,
-    "sha256": "a1257ce3132ea8eb9f523f5ec793f4cbd8d40a24822f0d880cec307d5e0c6b60"
+    "bytes": 14379,
+    "sha256": "b51b2c77433c72b3de3f2c2f0cb3b9db679b29207d364231cab7e65c8b372b62"
   },
   {
     "path": "website/optimizer.html",
-    "bytes": 9758,
-    "sha256": "8e64c986ded1c097bfa14e7c7b1e6b700a40d48dab818600a2c1d7425d271535"
+    "bytes": 9849,
+    "sha256": "9f653b21412ab384681a4426745a7c360dd73d3ff6c5a7cc8b5f05713394ffe8"
   },
   {
     "path": "website/projects.js",
@@ -2236,28 +2386,28 @@
   },
   {
     "path": "website/registry.html",
-    "bytes": 45766,
-    "sha256": "34da35137d2cb59b08f871674bce43d77b623dae472338b069601fcca8fc7ac4"
+    "bytes": 45857,
+    "sha256": "560e83311d38266258d1b784272b5daf318220f3c13a8314f109c94e11b4cb51"
   },
   {
     "path": "website/rewards.html",
-    "bytes": 10383,
-    "sha256": "7372b8b357753cc92ac9d131126929382ed357e2332b337c7e82427eb8303b8f"
+    "bytes": 10474,
+    "sha256": "c745d2642f1ffaa4443acc0e2f745c494755dafb50798ef3105becee2e4ca7d6"
   },
   {
     "path": "website/roadmap.html",
-    "bytes": 5892,
-    "sha256": "6cfae7dccc45a942e8d71383d32a34682315fe98df06b9ceba12ec735e0596e3"
+    "bytes": 6013,
+    "sha256": "8335da4377315d6538485ea660bb5518eda1bf66c80059da03adacde0c06ac94"
   },
   {
     "path": "website/status.html",
-    "bytes": 6944,
-    "sha256": "520d5bb20f1141c2eb7f0e94da3c210d5f32bd260c338e7ba9de1c79b074b3aa"
+    "bytes": 7839,
+    "sha256": "d5b6048fdf16fa75fde252e7b6b2f5360ca268a9a46485b57edd11ad8bb0db2a"
   },
   {
     "path": "website/studio.html",
-    "bytes": 10702,
-    "sha256": "fe22e9008476ade3200d896ff1c2833e4bd650207d16e6d5cea530ddd0ce5374"
+    "bytes": 10793,
+    "sha256": "f4dc80973bd43d2277bd76f078d5a6d269a9cada2e8272f2b0492816e3cc4ff8"
   },
   {
     "path": "website/styles.css",
@@ -2320,14 +2470,19 @@
     "sha256": "48e0c818bb8cc479dd47a69344d9b1be74134ae38718fc152f9561a7195c2b2f"
   },
   {
+    "path": "website/tools/review/flowmap-launchpads.cjs",
+    "bytes": 7918,
+    "sha256": "37a05eddd6f3e815aef1324ab7ed223f3de039794f79270116da7b210f88aace"
+  },
+  {
     "path": "website/tools/review/interactions.cjs",
-    "bytes": 6544,
-    "sha256": "a37d857e1049dec362b54821d8409f8deb2d3d74870d56d698207850b5621fce"
+    "bytes": 6584,
+    "sha256": "9de7524d8599743c3583bd2f713a700a0d8285a98d9060541c89260efc5e4e6d"
   },
   {
     "path": "website/tools/review/operations.cjs",
-    "bytes": 7065,
-    "sha256": "8d2d0f178d5a5f9d710f097a0a95a081293a5301433feb5277d75bf508655319"
+    "bytes": 7136,
+    "sha256": "34c1cd9811a2af44fbd38221e5d9e9bcfdbd8f096daf1f1f03f02043013c06cc"
   },
   {
     "path": "website/tools/review/record-walkthrough.cjs",
@@ -2341,8 +2496,8 @@
   },
   {
     "path": "website/tools/review/working-features.cjs",
-    "bytes": 12000,
-    "sha256": "b0f1811a835a217541b3415483d24870d1519715fc03f4d931b61290795fa9cb"
+    "bytes": 12417,
+    "sha256": "b4d08e43ee236fcd6a3f5fba53642dba8ae72b941eb5afa5f62dc4cfa82cbe2f"
   },
   {
     "path": "website/tools/status/.env.example",
@@ -2368,6 +2523,11 @@
     "path": "website/tools/status/snapshot.cjs",
     "bytes": 516,
     "sha256": "d876d3138cda9998f157bc0b23eca2a7d5c828e6c37c4b229f36a302284f65a0"
+  },
+  {
+    "path": "website/tools/status/update-launchpads.cjs",
+    "bytes": 1879,
+    "sha256": "00cfe62a9ee9d82fa5494641bca10d98e40a8717f02c578160516be078798bca"
   },
   {
     "path": "website/working-features.css",

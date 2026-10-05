@@ -13,3 +13,7 @@ GitHub Pages publishes the root of the `main` branch automatically. HTTPS is enf
 ## Runtime limits
 
 GitHub Pages hosts the website frontend. The Node status monitor remains local. The public site now checks verified official provider feeds directly in the browser; the local Node status API is still preferred in local preview. Backend connections remain explicitly unconfigured. Live backend checkout, provisioning, terminals and financial execution remain unconfigured. The local preview still provides the live public-feed monitor.
+
+## Published flow map and discovery / October 5
+
+Public deployment `a504fe15be85e55cc85b1fc27a3d6a359e3ef06e` built successfully. Browser verification at 18:16 UTC confirmed seven roadmap nodes, 17 service signals, five readable component feeds, 28 indexed primary-listed coins and four unindexed listings. PAID-only view returned 16 pools; mobile pages had no horizontal overflow or runtime errors. See [[Flow Map and Launchpad Discovery]] for catalog dates and evidence.

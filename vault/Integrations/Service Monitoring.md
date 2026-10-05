@@ -76,3 +76,7 @@ Tests cover outage scope, malformed feeds, incident state, stale and future inte
 ## Verified local review
 
 18 monitor tests, 23 operations UI checks, 18 existing interactions, and 22 existing-page responsive checks passed. The two new pages also passed mobile overflow checks. JavaScript syntax and local links pass. Evidence: `Evidence/Service Integrations/`.
+
+## Current interface
+
+See [[Flow Map and Launchpad Discovery]] for the selectable animated implementation network and expanded status board, component evidence and actual observed check history.

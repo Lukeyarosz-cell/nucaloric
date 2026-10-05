@@ -1,0 +1,165 @@
+{
+  "checks": [
+    {
+      "name": "brief creates a persisted project and first milestone",
+      "passed": true
+    },
+    {
+      "name": "milestones persist through reload",
+      "passed": true
+    },
+    {
+      "name": "new project keeps previous project",
+      "passed": true
+    },
+    {
+      "name": "saving current project updates instead of duplicating",
+      "passed": true
+    },
+    {
+      "name": "opening a saved project restores its fields",
+      "passed": true
+    },
+    {
+      "name": "project search narrows the library",
+      "passed": true
+    },
+    {
+      "name": "archiving hides a project without deleting it",
+      "passed": true
+    },
+    {
+      "name": "archived project restores intact",
+      "passed": true
+    },
+    {
+      "name": "backup contains complete project data and milestones",
+      "passed": true
+    },
+    {
+      "name": "backup restores work in a fresh browser",
+      "passed": true
+    },
+    {
+      "name": "invalid backup cannot partially import",
+      "passed": true
+    },
+    {
+      "name": "unsafe imported URLs are rejected",
+      "passed": true
+    },
+    {
+      "name": "imported project text is rendered safely",
+      "passed": true
+    },
+    {
+      "name": "storage failure never reports successful save",
+      "passed": true
+    },
+    {
+      "name": "dashboard displays the active saved project",
+      "passed": true
+    },
+    {
+      "name": "Explorer filters to real Solana-shaped pools",
+      "passed": true
+    },
+    {
+      "name": "liquidity sorting and zero changes are preserved",
+      "passed": true
+    },
+    {
+      "name": "real pool watchlist persists",
+      "passed": true
+    },
+    {
+      "name": "saved pool filter works",
+      "passed": true
+    },
+    {
+      "name": "watchlist can refresh saved pool data",
+      "passed": true
+    },
+    {
+      "name": "account drawer includes actual watched pool",
+      "passed": true
+    },
+    {
+      "name": "pool detail uses live pair identity and unavailable market cap",
+      "passed": true
+    },
+    {
+      "name": "rate-limit failure removes old prices rather than substituting examples",
+      "passed": true
+    },
+    {
+      "name": "invalid pool address fails without invented coin profile",
+      "passed": true
+    },
+    {
+      "name": "static-host fallback performs current provider checks",
+      "passed": true
+    },
+    {
+      "name": "provider outage remains separate from unconfigured backend",
+      "passed": true
+    },
+    {
+      "name": "feed failure is unknown availability, not a fabricated outage",
+      "passed": true
+    },
+    {
+      "name": "studio fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "status fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 390px",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 390px",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 390px",
+      "passed": true
+    },
+    {
+      "name": "status fits 390px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 320px",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 320px",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 320px",
+      "passed": true
+    },
+    {
+      "name": "status fits 320px",
+      "passed": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

@@ -71,3 +71,7 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 ## Latest dark workspace direction / October 5
 
 [[Dark Creative Rebuild]] supersedes the cream Registry and Studio surfaces. Use ink surfaces, cream type, pale pink accents, bold local Manrope headlines, and visibility-managed dot motion for Status, Studio, Registry and the matching roadmap.
+
+## Flow map and depth / October 5
+
+[[Flow Map and Launchpad Discovery]] adds native scroll depth on dot artwork and reading progress. Keep content stable, respect reduced motion and the motion pause control, and retain the ink/cream/pale-pink palette.

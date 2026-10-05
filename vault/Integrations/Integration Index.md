@@ -31,3 +31,7 @@ Canonical website register: `data/services.json`. Update this register and the c
 ## Implemented public market access
 
 [[DEX Screener]] supplies the live read-only Explore and pool-detail workflow. This supplements the deployment/status register above. See [[Working Features]].
+
+## Launchpad discovery sources
+
+[[OTC Desks]] · [[PAID — UsePaid]] · [[DEX Screener]] · [[Flow Map and Launchpad Discovery]]

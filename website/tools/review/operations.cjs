@@ -14,8 +14,8 @@ const base=process.env.REVIEW_BASE_URL||'http://127.0.0.1:8080',dir=process.env.
   await page.locator('#statusFilter').selectOption('ours');check('no fake connector failures before connection',await page.locator('.service-row').count()===0);
   await page.locator('#statusFilter').selectOption('all');await page.screenshot({path:path.join(dir,'status-1440.png'),fullPage:true});
   await page.goto(base+'/roadmap.html');await page.locator('.roadmap-stage').first().waitFor();check('seven stages render',await page.locator('.roadmap-stage').count()===7);
-  check('roadmap exposes completion gates',await page.locator('.stage-gates li').count()===21);
-  await page.locator('#roadmapFilter').selectOption('access');check('access focus shows the four blocked-on-access tracks',await page.locator('.roadmap-stage').count()===4);
+  check('roadmap exposes completion gates',await page.locator('.stage-gates li').count()===3);
+  await page.locator('#roadmapFilter').selectOption('access');check('access focus highlights four tracks while retaining graph context',await page.locator('.flow-node:not(.flow-muted)').count()===4&&await page.locator('.flow-node').count()===7);
   await page.locator('#roadmapFilter').selectOption('all');await page.locator('[data-xpay]').click();await page.waitForURL('**/roadmap.html#phase-6');await page.locator('#phase-6').waitFor();check('X Pay leads to the conditional payments plan',(await page.locator('#phase-6').innerText()).includes('Access unconfirmed'));
   await page.goto(base+'/roadmap.html');await page.locator('.roadmap-stage').first().waitFor();await page.screenshot({path:path.join(dir,'roadmap-1440.png'),fullPage:true});
   const fixture=await (await page.request.get(base+'/api/service-status')).json();fixture.generatedAt=new Date().toISOString();
