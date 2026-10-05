@@ -40,3 +40,7 @@ NUCALORIC v12 is a static front-end prototype for an AI-assisted Solana token la
 - [[Creative Refresh]]
 - [[Launchpad Research]]
 - [[Ad Asset Pack]]
+
+## Service integrations
+
+[[Integration Index]] · [[Implementation Roadmap]] · [[Service Monitoring]] · [[API Access Setup]]

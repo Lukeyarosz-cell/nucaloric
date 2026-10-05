@@ -1,0 +1,38 @@
+{
+  "reviewedAt": "2026-10-05",
+  "monitorTests": {
+    "passed": 18,
+    "failed": 0
+  },
+  "operations": {
+    "passed": 23,
+    "failed": 0,
+    "browserErrors": 0
+  },
+  "responsive": {
+    "passed": 22,
+    "failed": 0,
+    "widths": [
+      1440,
+      390
+    ]
+  },
+  "existingInteractions": {
+    "passed": 18,
+    "failed": 0
+  },
+  "localLinks": {
+    "pages": 13,
+    "missing": 0
+  },
+  "providerFeeds": 5,
+  "documentedServices": 17,
+  "productionConnectors": 0,
+  "readOnlySDKImportCheck": true,
+  "solanaDevnetHealth": "ok",
+  "sdkAudit": {
+    "moderate": 7,
+    "high": 6,
+    "productionGate": "Unresolved SDK dependency review; server uses no SDK dependencies."
+  }
+}

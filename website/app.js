@@ -27,7 +27,7 @@ const modal=$('#walletModal');
 $$('[data-wallet]').forEach(b=>b.addEventListener('click',()=>{modal?.classList.add('open');modal?.setAttribute('aria-hidden','false');setTimeout(()=>$('button',modal||document)?.focus(),30)}));
 $$('[data-close-modal]').forEach(b=>b.addEventListener('click',()=>{modal?.classList.remove('open');modal?.setAttribute('aria-hidden','true')}));
 $$('.wallet-choice').forEach(b=>b.addEventListener('click',()=>{modal?.classList.remove('open');try{localStorage.setItem('nucWallet',b.dataset.name||'Phantom')}catch(e){};showToast(`${b.dataset.name} connected in prototype`);window.dispatchEvent(new Event('nucWalletChange'))}));
-$$('[data-xpay]').forEach(b=>b.addEventListener('click',()=>showToast('X / X Pay rail selected — production API access required')));
+$$('[data-xpay]').forEach(b=>b.addEventListener('click',()=>navigateWithTransition('roadmap.html#phase-6')));
 
 /* logo fallback */
 $$('img[data-fallback]').forEach(img=>{function fallback(){img.style.display='none';const p=img.parentElement;if(p&&!p.querySelector('.logo-fallback')){const mark=document.createElement('span');mark.className='logo-fallback';mark.textContent=img.dataset.fallback;mark.setAttribute('aria-label',img.alt||img.dataset.fallback);p.prepend(mark)}}img.addEventListener('error',fallback);if(img.complete&&!img.naturalWidth)fallback()});
@@ -192,6 +192,8 @@ scrim.addEventListener('click',closeDrawers);$$('[data-drawer-close]').forEach(b
 $('.account-btn')?.addEventListener('click',e=>{if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();if(location.pathname.endsWith('/dashboard.html')){scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});return}navigateWithTransition('dashboard.html')});
 
 const commands=[
+  ['PAGE','Service status','Provider incidents and NUCALORIC connector health','status.html'],
+  ['PAGE','Implementation roadmap','API access, integration dependencies and acceptance gates','roadmap.html'],
   ['PAGE','Project Studio','Creative project kits, capability shortlist, evidence, and exportable briefs','studio.html'],
   ['PAGE','Project hosting','Paymenter hosting, developer workspaces, CLI and self-hosted models','hosting.html'],
   ['PAGE','Explore coins','Market browser, watchlist and compare','explorer.html'],['PAGE','Build a coin','Guided genesis builder with AI recommendations','launchpad.html'],['PAGE','Personal dashboard','Holdings, rewards, watchlist and launches','dashboard.html'],['PAGE','Capability registry','49 example capabilities, project kits, and a useful toolset','registry.html'],['PAGE','Rewards','Missions, referrals and X Pay rewards','rewards.html'],['PAGE','AI optimizer','Allocation and launch structure model','optimizer.html'],['PAGE','Ecosystem','Wallets, X Pay, routing and integrations','ecosystem.html'],

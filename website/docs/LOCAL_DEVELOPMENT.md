@@ -1,17 +1,19 @@
 # Local development
-No build step is needed for this static website.
+
+The website has no frontend build step. For the live service-status API use Node.js 22+:
 
 ```bash
 cd /home/luke/Projects/nucaloric-site
-python3 -m http.server 3000 --bind 127.0.0.1
+node tools/status/server.cjs
 ```
 
-Open http://127.0.0.1:3000/. In VS Code use Ctrl+Shift+P → Live Preview: Show Preview (Internal Browser). Microsoft Live Preview (`ms-vscode.live-server`) and GitHub Pull Requests (`github.vscode-pull-request-github`) are installed.
+Open http://127.0.0.1:8080/. This PC currently runs the same server through the user service `nucaloric-preview.service`; do not start a second process on that port. Use `systemctl --user restart nucaloric-preview.service` after backend edits.
+
+A plain Python/VS Code static preview can still render the site, but its status page explicitly falls back to the dated snapshot and cannot verify current server health. See [SERVICE_MONITORING.md](SERVICE_MONITORING.md) and [API_ACCESS.md](API_ACCESS.md).
 
 ```bash
 node --check app.js
+node --test tools/status/monitor.test.cjs
 ```
 
-Saved browser evidence is in `Evidence/`; the audit runner uses Playwright and Brave and expects port 3000. Its selectors need correction before claiming comprehensive interaction passes.
-
-The current session cannot bind the server socket or launch Brave/Obsidian. Run the preview in a normal desktop terminal. The project was sent to the VS Code CLI, but visible UI state cannot be verified here.
+Browser review scripts live under `tools/review/`; see that README for Playwright setup. Evidence for the service update is stored in the Obsidian vault under `Evidence/Service Integrations/`. Brave, VS Code and Obsidian were opened on the PC for review.

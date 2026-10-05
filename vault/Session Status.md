@@ -11,3 +11,7 @@ GitHub repository: https://github.com/Lukeyarosz-cell/nucaloric (private). Origi
 Local preview: http://127.0.0.1:8080. VS Code, Obsidian, Brave, and the project folders were opened for remote observation.
 
 Paymenter checkout, provisioning, live CLI access, ownership verification, and real financial execution still require a backend. New Studio drafts and toolsets persist only in the current browser.
+
+## Service documentation and visibility / 2026-10-05
+
+Added 17 official-source integration notes, a live public-feed monitor, a separate provider/NUCALORIC status page, and a seven-stage implementation roadmap. Installed isolated read-only Solana/Meteora/X tools. Production account/merchant access and Paymenter portal remain unconfigured. See [[Integration Index]], [[Service Monitoring]], and [[API Access Setup]].

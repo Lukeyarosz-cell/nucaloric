@@ -1,0 +1,22 @@
+const {test}=require('node:test'),assert=require('node:assert/strict');
+const {parseProvider,providerObservation,normalizeConnector,internalURL}=require('./monitor.cjs');
+const source={kind:'statuspage',page:'https://status.example.com',components:['API']};
+function report(status='operational',incidents=[]){return {page:{updated_at:'2026-10-05T15:00:00Z'},components:[{id:'api',name:'API',status},{id:'web',name:'Consumer website',status:'major_outage'}],incidents,status:{description:'Major consumer website outage'}};}
+test('consumer-product outage does not become API outage',()=>assert.equal(parseProvider(report(),source).status,'operational'));
+test('relevant component partial outage is degraded',()=>assert.equal(parseProvider(report('partial_outage'),source).status,'degraded'));
+test('relevant component major outage is outage',()=>assert.equal(parseProvider(report('major_outage'),source).status,'outage'));
+test('missing configured component is unknown',()=>assert.equal(parseProvider(report(),{...source,components:['Missing']}).status,'unknown'));
+test('unrecognized provider state is unknown',()=>assert.equal(parseProvider(report('new_vendor_state'),source).status,'unknown'));
+test('invalid feed cannot become operational',()=>assert.throws(()=>parseProvider({},source)));
+test('selected incident is shown despite delayed component change',()=>assert.equal(parseProvider(report('operational',[{name:'Failure',status:'investigating',components:[{id:'api'}]}]),source).status,'degraded'));
+test('unscoped incident remains unconfirmed rather than assigned to API',()=>{const p=parseProvider(report('operational',[{name:'Incident',status:'investigating',components:[]}]),source);assert.equal(p.status,'operational');assert.equal(p.incidents[0].scope,'unconfirmed')});
+test('resolved incident does not count as downtime',()=>assert.equal(parseProvider(report('operational',[{name:'Old',status:'resolved',components:[{id:'api'}]}]),source).incidents.length,0));
+test('Jupiter status adapter uses public resource names',()=>assert.equal(parseProvider({data:{attributes:{aggregate_state:'operational'}},included:[{id:'j',type:'status_page_resource',attributes:{public_name:'Swap API V2',status:'operational'}}]},{kind:'statuspal',page:'https://status.jup.ag',components:['Swap API V2']}).status,'operational'));
+test('Jupiter missing resource is unknown',()=>assert.equal(parseProvider({data:{attributes:{}},included:[]},{kind:'statuspal',components:['Swap API V2']}).status,'unknown'));
+test('fresh internal authentication failure stays on connector',()=>{const r=normalizeConnector({status:'degraded',reason:'authentication',checkedAt:new Date().toISOString()});assert.equal(r.status,'degraded');assert.equal(r.reason,'authentication')});
+test('stale internal health is unknown',()=>assert.equal(normalizeConnector({status:'operational',reason:'healthy',checkedAt:'2020-01-01'}).status,'unknown'));
+test('future internal observation is invalid evidence',()=>assert.equal(normalizeConnector({status:'operational',checkedAt:new Date(Date.now()+120_000).toISOString()}).status,'unknown'));
+test('invalid health shape and private details are discarded',()=>{assert.equal(normalizeConnector({status:'green'}).status,'unknown');assert.equal(normalizeConnector({status:'operational',reason:'secret-api-key',checkedAt:new Date().toISOString()}).reason,'unknown')});
+test('internal health URLs disallow embedded secrets and remote HTTP',()=>{for(const u of ['https://user:pass@host/health','https://host/health?token=secret','http://remote/health'])assert.throws(()=>internalURL(u));assert.equal(internalURL('http://127.0.0.1:9000/health'),'http://127.0.0.1:9000/health')});
+test('network failure is unavailable evidence, not provider outage',async()=>{const original=global.fetch;global.fetch=async()=>{throw new Error('connection failed')};try{const p=await providerObservation({statusSource:{...source,url:'https://status.example.com/api'}});assert.equal(p.status,'unknown');assert.equal(p.reason,'feed_unavailable');assert.equal(p.source,source.page);}finally{global.fetch=original}});
+test('unconfigured provider has no invented observation time',async()=>{const p=await providerObservation({statusSource:null});assert.equal(p.status,'unknown');assert.equal(p.checkedAt,null);assert.equal(p.reason,'no_verified_feed')});

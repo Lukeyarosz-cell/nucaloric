@@ -1,0 +1,14 @@
+{
+  "name": "nucaloric-integration-tools",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Isolated, read-only integration tooling; not a production launch or payment backend",
+  "scripts": {
+    "check": "node access-check.cjs"
+  },
+  "dependencies": {
+    "@meteora-ag/dynamic-bonding-curve-sdk": "1.5.13",
+    "@solana/web3.js": "1.99.0",
+    "@xdevplatform/xdk": "0.6.6"
+  }
+}

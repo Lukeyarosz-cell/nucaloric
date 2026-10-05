@@ -19,3 +19,7 @@ Project hosting: `hosting.html` provides saved workspace plans and setup script 
 Latest redesign: the homepage has an interactive project starter, Registry has a dark searchable catalog, Rewards has readable example progress, and Account opens a clearer workspace dashboard. Page transitions have a slower stripe reveal and respect reduced motion. See [redesign notes](docs/PROJECT_WORKSPACE_REDESIGN.md).
 
 Creative refresh (October 5): monochrome chapter transitions, neutral three-color surfaces, purposeful dot motion, an editorial Registry with a capability shortlist, and `studio.html` for locally saved/exportable project briefs. See [refresh notes](docs/CREATIVE_REFRESH.md) and [launchpad research](docs/LAUNCHPAD_RESEARCH.md).
+
+## Service visibility and implementation
+
+Open `status.html` and `roadmap.html`. Run `node tools/status/server.cjs` for live provider observations; static previews show a clearly dated snapshot. See [service monitoring](docs/SERVICE_MONITORING.md), [API access](docs/API_ACCESS.md), and the canonical [service register](data/services.json). SDK tooling is separate from the dependency-free website server.

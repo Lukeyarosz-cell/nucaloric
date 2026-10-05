@@ -40,3 +40,7 @@ The first five items have an implemented site adaptation; Registry uses the sphe
 - Track real project milestones and useful releases in discovery.
 - Design audited income routing only after backend and program requirements are specified.
 - Validate adoption hypotheses with dated original social posts and real usage, not price rankings.
+
+## Service implementation plan / 2026-10-05
+
+[[Implementation Roadmap]] is the current ordered integration plan, with API access gates, monitoring, and verified completion criteria.
