@@ -59,4 +59,3 @@ Ordered by dependencies, without promised release dates. A stage is complete onl
 - [ ] Obtain official merchant eligibility and API reference from X.
 - [ ] Define settlement, refund, dispute, and reconciliation requirements.
 - [ ] Validate the authorized payment integration before enabling checkout.
-
