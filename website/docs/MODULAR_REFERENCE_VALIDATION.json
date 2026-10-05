@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-05",
+  "suites": {
+    "modular-workbench": {
+      "checks": 45,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "working-features": {
+      "checks": 40,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "creative-workspace": {
+      "checks": 25,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "operations": {
+      "checks": 23,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "flowmap-launchpads": {
+      "checks": 26,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "interactions": {
+      "checks": 18,
+      "failed": 0,
+      "runtimeErrors": []
+    },
+    "responsive": {
+      "checks": 22,
+      "failed": 0,
+      "runtimeErrors": []
+    }
+  },
+  "publishedVerification": {
+    "date": "2026-10-05T18:52:55.881Z",
+    "base": "https://lukeyarosz-cell.github.io/nucaloric-site",
+    "pages": {
+      "index": {
+        "overflow": 0,
+        "nodes": 0,
+        "services": 0,
+        "pools": 0,
+        "coinDesk": false,
+        "workspace": true,
+        "pixelLabels": 1
+      },
+      "launchpad": {
+        "overflow": 0,
+        "nodes": 0,
+        "services": 0,
+        "pools": 0,
+        "coinDesk": true,
+        "workspace": true,
+        "pixelLabels": 1
+      },
+      "roadmap": {
+        "overflow": 0,
+        "nodes": 7,
+        "services": 0,
+        "pools": 0,
+        "coinDesk": false,
+        "workspace": true,
+        "pixelLabels": 1
+      },
+      "status": {
+        "overflow": 0,
+        "nodes": 0,
+        "services": 17,
+        "pools": 0,
+        "coinDesk": false,
+        "workspace": true,
+        "pixelLabels": 1
+      },
+      "explorer": {
+        "overflow": 0,
+        "nodes": 0,
+        "services": 0,
+        "pools": 28,
+        "coinDesk": false,
+        "workspace": true,
+        "pixelLabels": 0
+      }
+    },
+    "draftReload": "passed",
+    "errors": [],
+    "missingAssets": []
+  },
+  "publicCommit": "8415b0799977131042e506b7c4712ec88b929693"
+}

@@ -1,0 +1,185 @@
+{
+  "checks": [
+    {
+      "name": "local name and module spacing apply",
+      "passed": true
+    },
+    {
+      "name": "workspace focus moves selected homepage module first",
+      "passed": true
+    },
+    {
+      "name": "pinning takes precedence while preserving keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "preferences persist across pages",
+      "passed": true
+    },
+    {
+      "name": "identity edits update both real preview cards",
+      "passed": true
+    },
+    {
+      "name": "budget reflects real planned amounts and over-limit state",
+      "passed": true
+    },
+    {
+      "name": "optional modules can be independently added",
+      "passed": true
+    },
+    {
+      "name": "hiding a module preserves its draft inputs",
+      "passed": true
+    },
+    {
+      "name": "distribution totals update without a fake AI score",
+      "passed": true
+    },
+    {
+      "name": "artwork is decoded and included in three previews",
+      "passed": true
+    },
+    {
+      "name": "draft, artwork and module choices restore",
+      "passed": true
+    },
+    {
+      "name": "export is a complete portable local plan",
+      "passed": true
+    },
+    {
+      "name": "import restores the full plan in a fresh browser",
+      "passed": true
+    },
+    {
+      "name": "invalid imports leave the current plan unchanged",
+      "passed": true
+    },
+    {
+      "name": "unsafe self-reported links cannot be exported",
+      "passed": true
+    },
+    {
+      "name": "fractional supplies cannot be exported",
+      "passed": true
+    },
+    {
+      "name": "unsupported artwork leaves existing artwork intact",
+      "passed": true
+    },
+    {
+      "name": "personalized homepage reflects actual saved coin",
+      "passed": true
+    },
+    {
+      "name": "reference-inspired pixel field animates",
+      "passed": true
+    },
+    {
+      "name": "workspace motion control freezes the shared pixel clock",
+      "passed": true
+    },
+    {
+      "name": "native scroll changes opposing background and foreground depth",
+      "passed": true
+    },
+    {
+      "name": "scroll narrative follows document position",
+      "passed": true
+    },
+    {
+      "name": "reduced motion disables animation and sticky staging",
+      "passed": true
+    },
+    {
+      "name": "previous launch draft migrates while retaining the original",
+      "passed": true
+    },
+    {
+      "name": "storage failures do not claim successful coin saves",
+      "passed": true
+    },
+    {
+      "name": "preference storage failures explain page-only state",
+      "passed": true
+    },
+    {
+      "name": "index fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "status fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "index fits 390px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 390px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 390px",
+      "passed": true
+    },
+    {
+      "name": "status fits 390px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 390px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 390px",
+      "passed": true
+    },
+    {
+      "name": "index fits 320px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 320px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 320px",
+      "passed": true
+    },
+    {
+      "name": "status fits 320px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 320px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 320px",
+      "passed": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

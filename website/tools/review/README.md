@@ -31,3 +31,7 @@ python tools/review/assemble-walkthrough.py /home/luke/Projects/nucaloric-walkth
 ```
 
 The lower-left page labels exist only in the recording. Browser preferences, wallet state, and private project drafts are not used. Delivery files are archived in the vault under `Evidence/Website Walkthrough/`; raw clips remain in the local walkthrough directory.
+
+## Modular workspace and coin desk
+
+`modular-workbench.cjs` verifies personalized module order, focus and spacing, coin identity and budget updates, artwork upload, draft reload, portable export/import, invalid imports, legacy draft migration, blocked storage, native scroll depth, reduced motion and primary pages at 1440/390/320 pixels. Evidence: `Evidence/Modular Reference Refit/` in the vault.

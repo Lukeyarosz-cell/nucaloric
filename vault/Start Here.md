@@ -64,3 +64,7 @@ NUCALORIC has 13 frontend pages with real public Solana pool observations, prima
 ## Current roadmap and discovery
 
 [[Flow Map and Launchpad Discovery]] — interactive implementation graph, expanded status evidence and OTC/PAID discovery with scroll-depth motion.
+
+## Modular reference direction / October 5
+
+[[Modular Reference Refit]] — latest site direction based on the supplied Home_X image: floating dark modules, square halftone, matrix headings, a personalized workspace, modular coin planning and native scroll depth. This supersedes the previous flat page treatment and eight-step launch interface.

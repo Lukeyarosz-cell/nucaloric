@@ -75,3 +75,7 @@ Source: `/home/luke/Projects/nucaloric-site/launchpad.html`. Shared behavior: [[
 
 ## Review
 See [[Audit Findings]] for recorded checks and limits. Static markup can differ from the live DOM created by app.js.
+
+## Current coin desk
+
+[[Modular Reference Refit]] replaces the previous step-by-step interface with local editable modules and a live planning card, portable JSON plans and artwork. Launch execution remains unconfigured.

@@ -31,3 +31,7 @@ Implemented live public Solana pool search and saved watchlists, direct-browser 
 ## Flow map, richer status and launchpad Explore / October 5
 
 Implemented the seven-node interactive roadmap, full provider overview with component evidence, launchpad-attributed OTC/PAID discovery, a Pump.fun trading-venue view and native scroll-depth dot motion. See [[Flow Map and Launchpad Discovery]] for source attribution, catalog dates and verification.
+
+## Modular reference direction / October 5
+
+[[Modular Reference Refit]] — latest site direction based on the supplied Home_X image: floating dark modules, square halftone, matrix headings, a personalized workspace, modular coin planning and native scroll depth. This supersedes the previous flat page treatment and eight-step launch interface.

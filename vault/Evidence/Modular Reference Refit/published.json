@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-05T18:52:55.881Z",
+  "base": "https://lukeyarosz-cell.github.io/nucaloric-site",
+  "pages": {
+    "index": {
+      "overflow": 0,
+      "nodes": 0,
+      "services": 0,
+      "pools": 0,
+      "coinDesk": false,
+      "workspace": true,
+      "pixelLabels": 1
+    },
+    "launchpad": {
+      "overflow": 0,
+      "nodes": 0,
+      "services": 0,
+      "pools": 0,
+      "coinDesk": true,
+      "workspace": true,
+      "pixelLabels": 1
+    },
+    "roadmap": {
+      "overflow": 0,
+      "nodes": 7,
+      "services": 0,
+      "pools": 0,
+      "coinDesk": false,
+      "workspace": true,
+      "pixelLabels": 1
+    },
+    "status": {
+      "overflow": 0,
+      "nodes": 0,
+      "services": 17,
+      "pools": 0,
+      "coinDesk": false,
+      "workspace": true,
+      "pixelLabels": 1
+    },
+    "explorer": {
+      "overflow": 0,
+      "nodes": 0,
+      "services": 0,
+      "pools": 28,
+      "coinDesk": false,
+      "workspace": true,
+      "pixelLabels": 0
+    }
+  },
+  "draftReload": "passed",
+  "errors": [],
+  "missingAssets": []
+}

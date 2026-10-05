@@ -25,3 +25,7 @@ Evidence: `Evidence/Working Features/`. Real browser requests were verified sepa
 Official API reference: [DEX Screener API](https://docs.dexscreener.com/api/reference). Public pool search, pair and token-pool endpoints require no key in the verified browser calls. Solana, Jupiter, OpenAI, Claude and GitHub status sources remain the verified feeds recorded in [[Service Monitoring]].
 
 Live website: https://lukeyarosz-cell.github.io/nucaloric-site/
+
+## Personalized workspace and coin planning
+
+[[Modular Reference Refit]] adds local display-name/focus/spacing preferences, pinned homepage modules, and a modular coin desk with artwork, live budget preview, saved drafts and portable JSON plans. Previous launch drafts migrate without deleting the original. This is local planning; token deployment and wallet execution remain unconfigured.

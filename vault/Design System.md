@@ -75,3 +75,7 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 ## Flow map and depth / October 5
 
 [[Flow Map and Launchpad Discovery]] adds native scroll depth on dot artwork and reading progress. Keep content stable, respect reduced motion and the motion pause control, and retain the ink/cream/pale-pink palette.
+
+## Modular reference direction / October 5
+
+[[Modular Reference Refit]] — latest site direction based on the supplied Home_X image: floating dark modules, square halftone, matrix headings, a personalized workspace, modular coin planning and native scroll depth. This supersedes the previous flat page treatment and eight-step launch interface.

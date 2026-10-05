@@ -17,3 +17,7 @@ GitHub Pages hosts the website frontend. The Node status monitor remains local. 
 ## Published flow map and discovery / October 5
 
 Public deployment `a504fe15be85e55cc85b1fc27a3d6a359e3ef06e` built successfully. Browser verification at 18:16 UTC confirmed seven roadmap nodes, 17 service signals, five readable component feeds, 28 indexed primary-listed coins and four unindexed listings. PAID-only view returned 16 pools; mobile pages had no horizontal overflow or runtime errors. See [[Flow Map and Launchpad Discovery]] for catalog dates and evidence.
+
+## Published modular refit / October 5
+
+Deployment `8415b0799977131042e506b7c4712ec88b929693` built successfully. Live browser verification at 18:52 UTC confirmed the homepage, modular coin desk, seven-node roadmap, 17-service board and 28 indexed Explore pools. The local coin plan survived reload on the published origin. All checked mobile pages had zero horizontal overflow, missing frontend assets or runtime errors. See [[Modular Reference Refit]].
