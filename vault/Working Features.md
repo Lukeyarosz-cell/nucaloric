@@ -1,7 +1,7 @@
 # Working features — October 5, 2026
 
 ## Available without keys
-	
+
 - **Explore:** real Solana pool search by token name, symbol, or mint address, with provider-reported price, 24h change, liquidity and volume. Explore now defaults to primary-listed OTC Desks and PAID coins, with independently requested pool quotes. The dated PAID catalog and separate Pump.fun venue view are explained in [[Flow Map and Launchpad Discovery]]. Sort returned pools, inspect a pool, save up to 20 pools, and refresh a saved watchlist. Account and Dashboard display these saved live pools.
 - **Pool details:** real pair-specific observations, token/pool addresses, market cap and FDV when returned, buy/sell counts, creation date, and source/explorer links. Missing metrics display Unavailable. Former example coin URLs direct people back to live Explore.
 - **Status:** the public GitHub Pages site can read the five verified official provider feeds directly. Backend status API remains preferred where available. Browser and server collectors share the same component parsing; a feed failure means Unknown, never a fabricated provider outage. Twelve services still have no verified public status feed. Our 17 documented backend connectors remain unconfigured.
