@@ -1,0 +1,97 @@
+{
+  "checks": [
+    {
+      "name": "all documented services appear",
+      "passed": true
+    },
+    {
+      "name": "website connectors remain explicitly not connected",
+      "passed": true
+    },
+    {
+      "name": "verified provider feeds have current observations",
+      "passed": true
+    },
+    {
+      "name": "search isolates intended provider",
+      "passed": true
+    },
+    {
+      "name": "Meteora has no invented green feed",
+      "passed": true
+    },
+    {
+      "name": "pending integrations are not classified as outages",
+      "passed": true
+    },
+    {
+      "name": "no fake connector failures before connection",
+      "passed": true
+    },
+    {
+      "name": "seven stages render",
+      "passed": true
+    },
+    {
+      "name": "roadmap exposes completion gates",
+      "passed": true
+    },
+    {
+      "name": "access focus highlights four tracks while retaining graph context",
+      "passed": true
+    },
+    {
+      "name": "X Pay leads to the conditional payments plan",
+      "passed": true
+    },
+    {
+      "name": "provider outage view isolates external Solana incident",
+      "passed": true
+    },
+    {
+      "name": "our failure view isolates Paymenter authentication failure",
+      "passed": true
+    },
+    {
+      "name": "internal authentication error has explicit attribution",
+      "passed": true
+    },
+    {
+      "name": "internal failure does not invent Paymenter provider outage",
+      "passed": true
+    },
+    {
+      "name": "stale monitor exposes expired evidence warning",
+      "passed": true
+    },
+    {
+      "name": "stale snapshot cannot show green provider health",
+      "passed": true
+    },
+    {
+      "name": "stale monitor does not claim current website health",
+      "passed": true
+    },
+    {
+      "name": "snapshot preserves integration readiness separately",
+      "passed": true
+    },
+    {
+      "name": "unreadable public feeds are unknown, never all operational",
+      "passed": true
+    },
+    {
+      "name": "status mobile has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "roadmap mobile has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "no browser execution errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

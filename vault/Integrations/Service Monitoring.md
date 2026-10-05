@@ -80,3 +80,7 @@ Tests cover outage scope, malformed feeds, incident state, stale and future inte
 ## Current interface
 
 See [[Flow Map and Launchpad Discovery]] for the selectable animated implementation network and expanded status board, component evidence and actual observed check history.
+
+## Developer infrastructure expansion / October 5
+
+See [[Branding and Own Hardware]]. The service catalog now has 25 entries and ten configured official feeds. Stage 3 covers Paymenter and future PC/Raspberry Pi enrollment. The Own-hardware bridge is separately Not connected. Actual browser feed coverage may be lower, including Cloudflare CORS restrictions.

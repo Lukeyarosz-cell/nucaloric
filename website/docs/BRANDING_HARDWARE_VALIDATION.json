@@ -1,0 +1,22 @@
+[
+  {
+    "suite": "branding-hardware",
+    "checks": 105,
+    "errors": []
+  },
+  {
+    "suite": "operations",
+    "checks": 23,
+    "errors": []
+  },
+  {
+    "suite": "working-features",
+    "checks": 40,
+    "errors": []
+  },
+  {
+    "suite": "flowmap-launchpads",
+    "checks": 26,
+    "errors": []
+  }
+]

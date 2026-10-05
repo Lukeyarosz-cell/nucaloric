@@ -39,3 +39,7 @@ The lower-left page labels exist only in the recording. Browser preferences, wal
 ## Targeted page refinement
 
 `targeted-refinement.cjs` checks Studio’s actual project identity, Launch’s supply/venue portrait, and the restored Explore console against live network data. It checks twelve-card pagination, compact view at 1440/390/320px, accessible source dates and empty search. It requires the current catalog to contain more than 24 observed listings; deterministic market and failure handling are covered by `working-features.cjs` and `flowmap-launchpads.cjs`.
+
+## Branding and own hardware
+
+`branding-hardware.cjs` verifies managed checkout versus own-machine planning, persistence, exports, URL validation, directory filters, branded service identities, the machine bridge boundary, and full X Pay labels/layout across 13 pages at 1440/390/320px. Uses a configured Paymenter fixture without performing checkout.

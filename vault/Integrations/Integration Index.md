@@ -17,7 +17,7 @@ Website: [service status](http://127.0.0.1:8080/status.html) · [implementation 
 | [[Jupiter|Jupiter]] | Liquidity | Launch & liquidity |
 | [[Raydium|Raydium]] | Liquidity | Launch & liquidity |
 | [[Birdeye|Birdeye]] | Market data | Launch & liquidity |
-| [[Paymenter|Paymenter]] | Hosting & billing | Billing & workspaces |
+| [[Paymenter|Paymenter]] | Hosting & billing | Hosting & your own hardware |
 | [[OpenAI|OpenAI]] | AI | AI service gateways |
 | [[Claude|Claude]] | AI | AI service gateways |
 | [[Gemini|Gemini]] | AI | AI service gateways |
@@ -35,3 +35,18 @@ Canonical website register: `data/services.json`. Update this register and the c
 ## Launchpad discovery sources
 
 [[OTC Desks]] · [[PAID — UsePaid]] · [[DEX Screener]] · [[Flow Map and Launchpad Discovery]]
+
+## Expanded developer stack / October 5
+
+The canonical deployment/status catalog now contains 25 services. GitHub was already documented and is now visibly branded. Added eight developer infrastructure services:
+
+- [[Cloudflare]] — Network & access
+- [[Docker]] — Self-hosting
+- [[Tailscale]] — Network & access
+- [[Raspberry Pi]] — Self-hosting
+- [[Supabase]] — Data & authentication
+- [[Vercel]] — Deployment
+- [[Netlify]] — Deployment
+- [[PostgreSQL]] — Data & authentication
+
+See [[Branding and Own Hardware]] for the own-machine plan, connection choices and future pairing boundary.

@@ -83,3 +83,7 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 ## Targeted refinements / October 5
 
 [[Targeted Page Refinement]] is the current direction. Restore the familiar homepage, Registry and Explore structures; keep Hosting and Rewards intact; refine Studio’s project sheet and Launch’s identity preview. Refresh the accepted design with dot motion rather than replacing each page.
+
+## Branding and developer infrastructure / October 5
+
+[[Branding and Own Hardware]] adds local provider marks, full X Pay labels, a 25-service developer directory, and a saved own-hardware planning path alongside Paymenter. Retain existing page structures. Pairing and execution remain future work.

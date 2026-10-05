@@ -4,6 +4,7 @@ Reviewed 2026-10-05. Source: `/home/luke/Projects/nucaloric-site`.
 NUCALORIC has 13 frontend pages with real public Solana pool observations, primary launchpad listing discovery, public provider checks and local project tools. The live site is hosted on GitHub Pages. Authenticated backend services, wallet signing, token deployment and financial execution remain unconfigured. See [[Working Features]] and [[Flow Map and Launchpad Discovery]] for current behavior and limits.
 
 ## Read next
+- [[Branding and Own Hardware]] — current branding, expanded services and own-server planning
 - [[Targeted Page Refinement]] — current founder feedback and retained page structures
 - [[Project Workspace Redesign]] — latest homepage, Registry, Rewards and Account changes
 - [[Approved Site Motion]] — reel-inspired effects now implemented in the website

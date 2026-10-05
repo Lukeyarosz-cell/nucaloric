@@ -785,6 +785,11 @@
     "sha256": "1f997d477db0079efdd2bf0cc5ed6df25aa5e07300826ecd9003347e95910988"
   },
   {
+    "path": "vault/Branding and Own Hardware.md",
+    "bytes": 4221,
+    "sha256": "c2a6564add05d4927a9a8de12ce63b63cca424e3988e23575686e55e343b2136"
+  },
+  {
     "path": "vault/Capability Registry.md",
     "bytes": 1169,
     "sha256": "888c954026e92d4f737884160553eb541ab99fc08aa4b4a3ae46953b0f9e27ee"
@@ -806,8 +811,8 @@
   },
   {
     "path": "vault/Design System.md",
-    "bytes": 5814,
-    "sha256": "655ab804a448015fa1782d277346aa59d9ecf1ca399bc2503d96345799938b12"
+    "bytes": 6114,
+    "sha256": "67fc5f825da3fa1a621e0b10501be42027e48ff4d67a5e39b0f8b9c3ee2487c4"
   },
   {
     "path": "vault/Dot Motion Update.md",
@@ -918,6 +923,136 @@
     "path": "vault/Evidence/Approved Site Motion/results.json",
     "bytes": 1807,
     "sha256": "3200d769fd0a66ceac695371783290c74572447bcd57184775c1d836c3385ce1"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/flowmap-launchpads-flowmap-launchpads.json",
+    "bytes": 2616,
+    "sha256": "3f24765256cd052fa2e69ab743a8100e826799483c5bd2b12a1156a843fecdda"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-branding-hardware.json",
+    "bytes": 8929,
+    "sha256": "2419f9434d20a1ed8c0da7f09b6cd7a922f0d0e72e2d74194dfdb5ecf0081525"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-ecosystem-1440.png",
+    "bytes": 823415,
+    "sha256": "961993224bd5df5e8f5a573d80263398c3ec2174fd06f4adcbb8c567163c1ccc"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-ecosystem-390.png",
+    "bytes": 660733,
+    "sha256": "7bf9d20c7c679b2dc0c91ec7f97f8e16bc67279368b6d7b65ded4263d02f849e"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-hosting-1440.png",
+    "bytes": 531056,
+    "sha256": "fd865691c11f4f684f4c69277c8976126a35d0a109ce074cc94051903d803c0c"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-hosting-390.png",
+    "bytes": 409223,
+    "sha256": "aeb666f948d8dfa653ff9c10f5f2209097ecedcea81ec2f311d60a3a25e3f3a0"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-index-1440.png",
+    "bytes": 719040,
+    "sha256": "1ab2127b06959da78302c8095412323c92d8103b3e17f580d25433b1f385b7c7"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-index-390.png",
+    "bytes": 475709,
+    "sha256": "20b2481a7f42f89da89fd080614ec3513fcace1825eba2545bffe3d24691b89f"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-roadmap-1440.png",
+    "bytes": 426771,
+    "sha256": "6399443e511772061adaa41a1368ba4212a43357406678914551dd6c638a5335"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-roadmap-390.png",
+    "bytes": 265322,
+    "sha256": "996f637112de89dd6dd2c7444ac4a33174fa196c17f3dfb6abc044a6b514bbe8"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-status-1440.png",
+    "bytes": 911231,
+    "sha256": "5be60cc782c2e279023c6074762bb78addd30151e3cdcb42a52b71c265e5a267"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-status-390.png",
+    "bytes": 944232,
+    "sha256": "ae22ce34023fde36386b07a844555a3cc637292d2f9af3cb153ff4245307ce94"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/operations-operations.json",
+    "bytes": 2268,
+    "sha256": "9d7dc974bd8bb4c42f4a4465e4eed22160e364764fe280766decb8ea11e30d22"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/operations-roadmap-1440.png",
+    "bytes": 460485,
+    "sha256": "ad846a966d0c02a9917f80a93efa92c69ccc5bcaa9e0261e9245cb21e3a39b18"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/operations-roadmap-390.png",
+    "bytes": 294516,
+    "sha256": "3302f2534b159cd3ebd05307a1ee1b5dc03f70f3e3e8a16df7f14b7178625a9d"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/operations-status-1440.png",
+    "bytes": 991373,
+    "sha256": "39dd63d904e63a60114bdce465e9af4b0aa2cadde4398fc89df91e7cd9958266"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/operations-status-390.png",
+    "bytes": 1019825,
+    "sha256": "753190bfac6f41cb42be4466765b6dc7e7d27d91f8c1d65ba458890cf96a6e6c"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-dashboard-working-1440.png",
+    "bytes": 450271,
+    "sha256": "23a32bca06b74c793b0d2d361f6ee000c152433ac55861a6e93375228462b7df"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-dashboard-working-390.png",
+    "bytes": 367512,
+    "sha256": "2b747821bb0399b95f70dd08e0223b36d8270aaa9534a45356b2870700783729"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-explorer-working-1440.png",
+    "bytes": 351114,
+    "sha256": "5b8aafb82dc18ca51aca941abb5abd039a7062aff05e3217f76056a438efaf89"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-explorer-working-390.png",
+    "bytes": 277157,
+    "sha256": "492176f0cd9d5803f4c8362a5e79bcb37dc6f99ae3794b6fa50ac62701332030"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-status-working-1440.png",
+    "bytes": 734431,
+    "sha256": "5cdb723ee137b31d5e1f0b0d196f48cbee00af8b0a256aadc23ffe9f4eafae6a"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-status-working-390.png",
+    "bytes": 799345,
+    "sha256": "224ffd07aacb8a59f028a649c9a01d7ab85432a16b32e04d99565e1c597b79ce"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-studio-working-1440.png",
+    "bytes": 471062,
+    "sha256": "767dc7c533b5a56d9192151ce571962ba2ae7f8dcad0467940122c1428fc5b9b"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-studio-working-390.png",
+    "bytes": 350166,
+    "sha256": "82e9b784a1adbb67e73ddd1ca85fa4be22804b7dff7b596586908906b4deb5d8"
+  },
+  {
+    "path": "vault/Evidence/Branding and Own Hardware/working-features-working-features.json",
+    "bytes": 3565,
+    "sha256": "c2a712c3cd10202b2dc4811202c827427a9742c809336553baa276300b7014e4"
   },
   {
     "path": "vault/Evidence/Creative Refresh/Research/BONK.png",
@@ -2225,9 +2360,19 @@
     "sha256": "4ac65880ac5afafbbc6a0e1ef60c969d826da280b935b86a08c27bb6fcecc742"
   },
   {
+    "path": "vault/Integrations/Cloudflare.md",
+    "bytes": 1047,
+    "sha256": "01ce63a539c93383b771317951d6d9d95aef2fa27d1fe8996595993715c942fc"
+  },
+  {
     "path": "vault/Integrations/DEX Screener.md",
     "bytes": 1051,
     "sha256": "90953e3c28e471ce09f0b01b1c0f172deb7eb1be754972daaddc3e4beb11e299"
+  },
+  {
+    "path": "vault/Integrations/Docker.md",
+    "bytes": 856,
+    "sha256": "dae03a98d0814148d47d9dda774481a166a82baa1bd71b50e5fd0a311978891e"
   },
   {
     "path": "vault/Integrations/Gemini.md",
@@ -2251,13 +2396,13 @@
   },
   {
     "path": "vault/Integrations/Implementation Roadmap.md",
-    "bytes": 2963,
-    "sha256": "c044a639df009d70e1a85eea7faeea85a6a4aafd34dae02f9c7e839b58c36d10"
+    "bytes": 3324,
+    "sha256": "e315fdc5c5e0e9bd561526d7781bb1775b64a71ced0b4c21bbab941e6f607fdb"
   },
   {
     "path": "vault/Integrations/Integration Index.md",
-    "bytes": 1998,
-    "sha256": "0edf77157491fb150ffa0672f5a1cb607c93fe2229c3fbde3a11434a24dfc573"
+    "bytes": 2610,
+    "sha256": "c1ac3a4ccf61ef360ba36200ab70fda14879649d0b34d042af0daa3290a89900"
   },
   {
     "path": "vault/Integrations/Jupiter.md",
@@ -2268,6 +2413,11 @@
     "path": "vault/Integrations/Meteora.md",
     "bytes": 1713,
     "sha256": "571e212dd162f3b2a396d4cb6d20f5faa82282cf1765dd35ebabb386b3d4d56b"
+  },
+  {
+    "path": "vault/Integrations/Netlify.md",
+    "bytes": 711,
+    "sha256": "0889501334a12d7d1b1103053491ee12368d13dd11799a043addaaade6e48c5b"
   },
   {
     "path": "vault/Integrations/OTC Desks.md",
@@ -2295,14 +2445,24 @@
     "sha256": "b060cf5d1cec1bcf25583ab57252d6d14fb6203065510c93f8dab67d7f5f0263"
   },
   {
+    "path": "vault/Integrations/PostgreSQL.md",
+    "bytes": 881,
+    "sha256": "42e4d07cc8305ec5896ed4b38d1492018664029c962e62ebb749317d5c2bd058"
+  },
+  {
+    "path": "vault/Integrations/Raspberry Pi.md",
+    "bytes": 916,
+    "sha256": "1e2837c6d547721a81e7851a1f1f29798b1eb5321710f000933a0ba5b989a8e1"
+  },
+  {
     "path": "vault/Integrations/Raydium.md",
     "bytes": 1059,
     "sha256": "1dcf6c303aaccfb2a6267cf6d369a278b9e6e5adae3c0d5f775c46ac74f4f44e"
   },
   {
     "path": "vault/Integrations/Service Monitoring.md",
-    "bytes": 6294,
-    "sha256": "dfeacf9f673167bda50841d641db774802b8b8a3ee77b9005fd7ae31716b6543"
+    "bytes": 6655,
+    "sha256": "f9dbd3c7eaf386ab280e6e966208cd8fb14e2e6f1f7093931b651bb70379266c"
   },
   {
     "path": "vault/Integrations/Solana.md",
@@ -2313,6 +2473,21 @@
     "path": "vault/Integrations/Solflare.md",
     "bytes": 960,
     "sha256": "1ed8821640a6c3efef40baadbc3ae692aeefff0b6ecf4a12c01747786f25800d"
+  },
+  {
+    "path": "vault/Integrations/Supabase.md",
+    "bytes": 747,
+    "sha256": "e0503b519991243f40d7de48ba9184e4e768cc2083da6b800d0004208abd1f14"
+  },
+  {
+    "path": "vault/Integrations/Tailscale.md",
+    "bytes": 775,
+    "sha256": "f9e5caf8a66b6f7f16cc221b8d36cc41cab6744027be9a3d3eb7ba5df2eceabf"
+  },
+  {
+    "path": "vault/Integrations/Vercel.md",
+    "bytes": 702,
+    "sha256": "c223ae5f53dc34bd221f51e3c8d4f0e8a8f1a6b1f5de7001fced1c50224c3a47"
   },
   {
     "path": "vault/Integrations/X Money \u2014 payments.md",
@@ -2431,13 +2606,13 @@
   },
   {
     "path": "vault/Session Status.md",
-    "bytes": 3537,
-    "sha256": "bc9fd767013fc8f64d99b4857c1bd84beecd89425d3efe8d5e3c89375242b607"
+    "bytes": 3837,
+    "sha256": "5d30e4e66d597392935d0fec18c1eb21e796128e74094fcda9b52f69da6511af"
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 2754,
-    "sha256": "03f6fa3e38f1b33ec4e6468e40cf0938a6c10405adea7e751ce65aedc41dea9f"
+    "bytes": 2850,
+    "sha256": "39f00d6a4a1cb500a78c18475b6be07fa5d196fb628a60e88c621a73455e49bc"
   },
   {
     "path": "vault/Targeted Page Refinement.md",
@@ -2481,8 +2656,8 @@
   },
   {
     "path": "website/app.js",
-    "bytes": 59923,
-    "sha256": "7795a35bc0bc10d79cc5c5640a8bfd5499ab15ac692217caa6c93470abae24f8"
+    "bytes": 59941,
+    "sha256": "c1fdc347333bf4410e2d381e36cd87a1a18b983eae932f480b5186b86d567024"
   },
   {
     "path": "website/assets/motion/Manrope-OFL.txt",
@@ -2530,6 +2705,16 @@
     "sha256": "5119ef950a0d648b3fd62865791e73f07f32e18ddab84e4f21160f8c641c0f5f"
   },
   {
+    "path": "website/assets/partners/cloudflare.svg",
+    "bytes": 1178,
+    "sha256": "408096d99907fd99e0863cb5d73f77a72537c6a85fd8d5e2704178a83a891f08"
+  },
+  {
+    "path": "website/assets/partners/docker.svg",
+    "bytes": 1765,
+    "sha256": "65571291c261ef869c31540a38f3ca0f0ee3bb73f179c172211c8860f19a6359"
+  },
+  {
     "path": "website/assets/partners/gemini-color.svg",
     "bytes": 2836,
     "sha256": "8ab0a9bafec11f7e69bcb9fc4ffd8f1bc927d1ddcbbb6ff36dee5ae8b5a9d602"
@@ -2538,6 +2723,11 @@
     "path": "website/assets/partners/gemini.svg",
     "bytes": 401,
     "sha256": "a6228d8846040401e941a39ed17459785e8324dbb7b870ce84233c9b3e9863a0"
+  },
+  {
+    "path": "website/assets/partners/github.svg",
+    "bytes": 822,
+    "sha256": "3bf8cceead820aec50d4ee825a3fd02c5a1cd6665cc9cf4cbf3d9c8861a204bb"
   },
   {
     "path": "website/assets/partners/grok.svg",
@@ -2560,14 +2750,49 @@
     "sha256": "d5494619e99b6db62ce55a479b94926f5784d30f0d96c361172ee6458b8f3636"
   },
   {
+    "path": "website/assets/partners/netlify.svg",
+    "bytes": 656,
+    "sha256": "adbe4ef3579ca1ef95e1903ff8599a5a55e5c6531fab3f7edaf2b4adee0f4ef9"
+  },
+  {
     "path": "website/assets/partners/openai.svg",
     "bytes": 1585,
     "sha256": "a46b5cb87e476a525a0e9b063d15aa449210fbf6b1152b2e1c94f30dfe594f00"
   },
   {
+    "path": "website/assets/partners/otc.svg",
+    "bytes": 7365,
+    "sha256": "a2d81a76a1ff6b5a816270779aabb1ce6a6e9cdd95ed23ebbd8e85e2acc27831"
+  },
+  {
+    "path": "website/assets/partners/paid.ico",
+    "bytes": 3214,
+    "sha256": "e77e9a0dba965b2f28a967cba246b0dc0346966f2d5ab9a23259028c3e201306"
+  },
+  {
+    "path": "website/assets/partners/paymenter.svg",
+    "bytes": 624,
+    "sha256": "2952903928c9c1a1ef91e9e39e22d839cd73a31da5ef98fa339d9ebe155ad43a"
+  },
+  {
     "path": "website/assets/partners/phantom.svg",
     "bytes": 1108,
     "sha256": "f0a1e2263ef6cdf30ab88d2f53e6d4e16a40e66fc3f4d28755d6bc11bb19ec81"
+  },
+  {
+    "path": "website/assets/partners/postgresql.svg",
+    "bytes": 5205,
+    "sha256": "c8ccadbd88c9312c2ad3734c4861b31d3485ce179ee91d64793143f83cfa745c"
+  },
+  {
+    "path": "website/assets/partners/pump.ico",
+    "bytes": 182941,
+    "sha256": "a8f0d092855a78553b812e785e708c74b378476165e78a307fb895e683fbe02b"
+  },
+  {
+    "path": "website/assets/partners/raspberrypi.svg",
+    "bytes": 5936,
+    "sha256": "ab35cdb6cfd69779dfa54c8f15f0ed3c514ff6c07f1c941dd47a61115a208c59"
   },
   {
     "path": "website/assets/partners/raydium.ico",
@@ -2586,8 +2811,23 @@
   },
   {
     "path": "website/assets/partners/sources.json",
-    "bytes": 1957,
-    "sha256": "d6b456756a2f9792c28366a68c2c73d6e281d29d74c5f21aa0197d7a96a3b355"
+    "bytes": 3591,
+    "sha256": "e1a72f93cb8360a8667b037405d7ccb5399b4bc90a95916b14fb55bb56ddf717"
+  },
+  {
+    "path": "website/assets/partners/supabase.svg",
+    "bytes": 303,
+    "sha256": "61bf16d93be418f723ae1e137e57afdad4f185352fbc6dea9482af1e0a89ccf7"
+  },
+  {
+    "path": "website/assets/partners/tailscale.svg",
+    "bytes": 630,
+    "sha256": "80ecdde08c2a4cddaa64447fcbfafab81326864671cd33b7fc3d40c4c8661dfc"
+  },
+  {
+    "path": "website/assets/partners/vercel.svg",
+    "bytes": 141,
+    "sha256": "9b6cdab026cf954a0f369879d008da7d4bcd3e23250cb44982e6cb33530c8cec"
   },
   {
     "path": "website/assets/partners/x.svg",
@@ -2620,9 +2860,19 @@
     "sha256": "931803312613574402cb0dad9d887e1ec5f29dde674e94c32f353ec9116f8a96"
   },
   {
+    "path": "website/branding.css",
+    "bytes": 5024,
+    "sha256": "5513d67cd1c03e94296a4882006184fbd1c844acc0bec61e09d2989510dbe599"
+  },
+  {
+    "path": "website/branding.js",
+    "bytes": 2792,
+    "sha256": "52e02281c34dde9a2f4bfc5c81cb9174b03fe759e93be88a9c6ad22ec4919a48"
+  },
+  {
     "path": "website/coin.html",
-    "bytes": 6423,
-    "sha256": "3e99bd383ffc8da99a424abcc2c261bb32d083f065683edd2cbb31822ae3c362"
+    "bytes": 6635,
+    "sha256": "ef9cfb3cb9de593947e38c28b9e8810e93373e1e90932ee3e736825bc8a68650"
   },
   {
     "path": "website/creative-workspace.css",
@@ -2636,8 +2886,8 @@
   },
   {
     "path": "website/dashboard.html",
-    "bytes": 11205,
-    "sha256": "7134cbcb73124790446fd3e96042a8f79581a7a516984c5404c5fcff266086d2"
+    "bytes": 11417,
+    "sha256": "5b07b46207582f98c546d7642f22f556e080c37febd6e754fae58b356836c367"
   },
   {
     "path": "website/data/launchpads.json",
@@ -2646,13 +2896,13 @@
   },
   {
     "path": "website/data/service-status.json",
-    "bytes": 11605,
-    "sha256": "47caef464e0e556ff9405dc72138d3705c08ef7640e2791a81c86cda1113a8ab"
+    "bytes": 19700,
+    "sha256": "6a78940d90e35a4c998680a1918f4cd779850677a3a9032a5246d6c1cac4c0b5"
   },
   {
     "path": "website/data/services.json",
-    "bytes": 16423,
-    "sha256": "3f652b3a5ff00826f248d369a691b044f1200053d764174b3348af266b974c77"
+    "bytes": 24401,
+    "sha256": "19bfa5b87acb86ca5b2fc85d1afe7204b94054b5d2c24057d90e028321e7cad6"
   },
   {
     "path": "website/depth-motion.js",
@@ -2673,6 +2923,16 @@
     "path": "website/docs/APPROVED_SITE_MOTION.md",
     "bytes": 3378,
     "sha256": "ca14978f69b8e2f47bf4a12a1f62726dfd1e87208afcf28a19ff05c10c0d68d0"
+  },
+  {
+    "path": "website/docs/BRANDING_HARDWARE_VALIDATION.json",
+    "bytes": 309,
+    "sha256": "2db398639fe0a6e2e8e478d0220a4669e8cecc673b1b615454753afc50442578"
+  },
+  {
+    "path": "website/docs/BRANDING_OWN_HARDWARE.md",
+    "bytes": 4221,
+    "sha256": "c2a6564add05d4927a9a8de12ce63b63cca424e3988e23575686e55e343b2136"
   },
   {
     "path": "website/docs/CREATIVE_REFRESH.md",
@@ -2776,18 +3036,18 @@
   },
   {
     "path": "website/ecosystem.html",
-    "bytes": 10505,
-    "sha256": "56a87abb8767bd1f7320f8faf8d5ae6d1d9ecf6ab6fd82eefc98e7a1ac850da4"
+    "bytes": 12313,
+    "sha256": "38e8b30bc0892f7771f22629f536eec9090664841ad0b0ce2246097f9f164329"
   },
   {
     "path": "website/explorer.html",
-    "bytes": 12198,
-    "sha256": "9c22f2add3081f2634976278b57780096d0e9da0766cb2e44fb3044bd493d580"
+    "bytes": 12761,
+    "sha256": "c72b0adb1a26165df03a001184229db70d4c24af04a0c876df90463d08f05cea"
   },
   {
     "path": "website/flowmap.js",
-    "bytes": 5516,
-    "sha256": "5f19ebde80af057f723f19ee40afc675a54d8a667d6d6d7a340ff9ef29735c70"
+    "bytes": 5552,
+    "sha256": "a38a93872dc488cfc7a862e7fa4e0b8bd36b0ce46bf3f2b4d12ff63ef5bdbcc1"
   },
   {
     "path": "website/hosting-config.js",
@@ -2796,18 +3056,18 @@
   },
   {
     "path": "website/hosting.html",
-    "bytes": 13728,
-    "sha256": "eaaf9a8a1b93daf5b1f677e18076fff5c08ed3cb750aa8884d8b0913141e1b52"
+    "bytes": 15776,
+    "sha256": "6b8662b5f1e722580c40a77bb36f272ed905d6a6e21f52bae15ec37043e76be6"
   },
   {
     "path": "website/hosting.js",
-    "bytes": 7823,
-    "sha256": "a27bd028d6520e17347b5f56818bd07c11cfa11c91a66e091f8f97a351153bca"
+    "bytes": 10692,
+    "sha256": "c24075a80fb9bd16215f11b010874cfce29cfc1aa3e20dcc51768f112dcb286d"
   },
   {
     "path": "website/index.html",
-    "bytes": 43019,
-    "sha256": "0a1ce73da8d5968acfdba126eba3bb7e511bc116d4460edc218053810d7b71d7"
+    "bytes": 43713,
+    "sha256": "5ce59314de69772eff0352725724e54cceb6785e6a29530f1e2d73e3790c067f"
   },
   {
     "path": "website/launch-workbench.js",
@@ -2821,13 +3081,13 @@
   },
   {
     "path": "website/launchpad.html",
-    "bytes": 19835,
-    "sha256": "5533144055bf243831f32dc6dba04a07ff6f9bca9b893790c42abcc83e1076c2"
+    "bytes": 20305,
+    "sha256": "250affec1c98bf23313f8e0c0cf23859255f533edfd8741e9408189fb472fa4f"
   },
   {
     "path": "website/live-market.js",
-    "bytes": 16889,
-    "sha256": "9bd90c56961ef7e37f36a36260bbacdbf8fb79ff6fb63f88eb9cbbc7b54c3e65"
+    "bytes": 17070,
+    "sha256": "232155c3deea6d4375772a31531e68eb55f8f5b4d37d2b11bbb01becb6eaecdf"
   },
   {
     "path": "website/modular.css",
@@ -2851,13 +3111,13 @@
   },
   {
     "path": "website/operations.js",
-    "bytes": 14379,
-    "sha256": "b51b2c77433c72b3de3f2c2f0cb3b9db679b29207d364231cab7e65c8b372b62"
+    "bytes": 14698,
+    "sha256": "1df4429e801c148c8c4fb678d3b55514cf7f74418f88bf4715d2e3043497cebd"
   },
   {
     "path": "website/optimizer.html",
-    "bytes": 8984,
-    "sha256": "bfdb5fc1359b9220e65d32764cb767bf2b5b431a3155322b37c93dbdb6283ab8"
+    "bytes": 9197,
+    "sha256": "238bf7f5ae8e34a06e93cade1803f0f1dda895f53ffc8ae925be57abecba8db7"
   },
   {
     "path": "website/projects.js",
@@ -2866,8 +3126,8 @@
   },
   {
     "path": "website/provider-status.js",
-    "bytes": 5060,
-    "sha256": "057f99db06ea119c875796de663ca19672867d5666f987a0842f7f1655109878"
+    "bytes": 5109,
+    "sha256": "fb8100436ad5a8103e627846e1c5c21b9290adc9ab05414f60e1b1c70b7148d0"
   },
   {
     "path": "website/refinement.css",
@@ -2891,28 +3151,28 @@
   },
   {
     "path": "website/registry.html",
-    "bytes": 46336,
-    "sha256": "2c9b537cdf44ae9e2ec041fc813d2861febbd2d5cbdef1bb3983947a489f53ed"
+    "bytes": 46548,
+    "sha256": "4024ce66f60bb424e22f5d06e2e56c31820e17aa6b114b69ea5aa20e3db587bd"
   },
   {
     "path": "website/rewards.html",
-    "bytes": 9073,
-    "sha256": "de7796a8a639dc4748a78754f07b47c6e4702fa4100688338e321edb03b4de9c"
+    "bytes": 9286,
+    "sha256": "fa6e93d90984594c295d52cf55e0d377a1cf324b35db7fe2f00bb7fd62967482"
   },
   {
     "path": "website/roadmap.html",
-    "bytes": 8583,
-    "sha256": "1114d932564defd47564398361ea6661266a25794a8b36e7e744e8062028ae4e"
+    "bytes": 8793,
+    "sha256": "0f11d17907f985d060e3b5887db191539728e436deae55735bbaea7e336a5c18"
   },
   {
     "path": "website/status.html",
-    "bytes": 10300,
-    "sha256": "c53112a9d565a4e8363b2422959396e5fec6e7c3e12027491816ede2b8017e4b"
+    "bytes": 10511,
+    "sha256": "3a855b4956e6cce21770ff8c0b9023a972a43bf3b79914e449edd2e210e0dd82"
   },
   {
     "path": "website/studio.html",
-    "bytes": 13652,
-    "sha256": "d7723a7b424a8f3a3f48dd0a499aa58a417047bd77422c111ca594d7f897b9e1"
+    "bytes": 13864,
+    "sha256": "3fd403cd314ace2f1866d791521ae74af2b9ac6caeaa4231d9c783979405ed7a"
   },
   {
     "path": "website/styles.css",
@@ -2961,13 +3221,18 @@
   },
   {
     "path": "website/tools/review/README.md",
-    "bytes": 3759,
-    "sha256": "e2acad981a81d24d09396af0220ad1c37d95c6446c7ad3e1fbdf29fe5653c085"
+    "bytes": 4112,
+    "sha256": "1109eed680a36343e8fc07ca1d5088537c9d4412f4da68eccb409303e335e46e"
   },
   {
     "path": "website/tools/review/assemble-walkthrough.py",
     "bytes": 6691,
     "sha256": "dafdc516867a658f77037ae5c6c97652706a1112ccfca727dea074f9c3bafd6a"
+  },
+  {
+    "path": "website/tools/review/branding-hardware.cjs",
+    "bytes": 6445,
+    "sha256": "574e912ac9c39dc6c867a6ae652b85cae36a18ea10325c925fb0269446c61740"
   },
   {
     "path": "website/tools/review/creative-workspace.cjs",
@@ -2976,8 +3241,8 @@
   },
   {
     "path": "website/tools/review/flowmap-launchpads.cjs",
-    "bytes": 7926,
-    "sha256": "d16947d7333911fcd6a557d61a035e56faab0aa9ea851a665f8460346962dc7c"
+    "bytes": 8171,
+    "sha256": "c1bddf43209ea16ea3eb33623abdcb5ca98dade3b211b3df3b928409e49b361a"
   },
   {
     "path": "website/tools/review/interactions.cjs",
@@ -2991,8 +3256,8 @@
   },
   {
     "path": "website/tools/review/operations.cjs",
-    "bytes": 7136,
-    "sha256": "34c1cd9811a2af44fbd38221e5d9e9bcfdbd8f096daf1f1f03f02043013c06cc"
+    "bytes": 7549,
+    "sha256": "0d517a1ba2c982c1024b840a9c1593829a81227c120a3669502230ab0f0d19a7"
   },
   {
     "path": "website/tools/review/record-walkthrough.cjs",
@@ -3011,8 +3276,8 @@
   },
   {
     "path": "website/tools/review/working-features.cjs",
-    "bytes": 12433,
-    "sha256": "235c4a5bdad6532775447bd41751260da4bbe4007e21cb609ed21f27ffd336c7"
+    "bytes": 12712,
+    "sha256": "c33c6940dda1ef3d1a82a4dc77c29dd82b9719dae05662d82e846dd739fb4543"
   },
   {
     "path": "website/tools/status/.env.example",
@@ -3021,8 +3286,8 @@
   },
   {
     "path": "website/tools/status/monitor.cjs",
-    "bytes": 5116,
-    "sha256": "a2a365b5f8d89e7f0631cf692792fa222e2e2f5aa7a1edaca40b26600a3cd3ae"
+    "bytes": 5165,
+    "sha256": "d068cb40ad8ff5a94d8297c25453207dacf4fc5c8d076833a42aa601cadbbe52"
   },
   {
     "path": "website/tools/status/monitor.test.cjs",

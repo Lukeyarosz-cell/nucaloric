@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const catalog = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/services.json')));
 const TTL = 60_000, STALE_AFTER = 180_000;
-const ownConnectors=[{id:'project-api',name:'Project API & identity'},{id:'workspace-provisioner',name:'Workspace provisioner'},{id:'terminal-gateway',name:'Terminal gateway'},{id:'ai-gateway',name:'AI gateway'}];
+const ownConnectors=[{id:'project-api',name:'Project API & identity'},{id:'workspace-provisioner',name:'Workspace provisioner'},{id:'terminal-gateway',name:'Terminal gateway'},{id:'ai-gateway',name:'AI gateway'},{id:'machine-bridge',name:'Own-hardware bridge'}];
 const {parseProvider}=require('../../provider-status.js');
 async function getJSON(url, options={}) {
   const response = await fetch(url, { ...options, redirect:'error', signal:AbortSignal.timeout(10_000), headers:{ Accept:'application/json', ...options.headers } });
