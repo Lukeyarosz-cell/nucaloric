@@ -52,3 +52,7 @@ NUCALORIC v12 is a static front-end prototype for an AI-assisted Solana token la
 ## Website video
 
 [[Website Walkthrough]] — every page, scrolling from top to footer, with chapter navigation.
+
+## Live website
+
+[[Live Website]] — permanent HTTPS website and deployment instructions.

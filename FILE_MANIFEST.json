@@ -1640,6 +1640,11 @@
     "sha256": "3a42bdf67db2466a25acc2351a9239e55743677948b9fdf913e3add0c8cbc0d3"
   },
   {
+    "path": "vault/Live Website.md",
+    "bytes": 1060,
+    "sha256": "ea27a795b0417364be6e15c52fc005317cb27922de3e00b2537891b6db6fb7f4"
+  },
+  {
     "path": "vault/Local Development.md",
     "bytes": 833,
     "sha256": "a46219fbc10595d73b8f2b30d2703d36258621a861ca23d08783f32d72ffa95b"
@@ -1731,8 +1736,8 @@
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 1779,
-    "sha256": "361413e1ffadf7e4f3879b13181e025c40887e1b64499db99db2eaa683a06aa9"
+    "bytes": 1871,
+    "sha256": "5147b708815d7f3900853c6bd76c8e6ac5738e4b7d87df45277ed4c48f60f508"
   },
   {
     "path": "vault/Website Walkthrough.md",
@@ -1973,6 +1978,11 @@
     "path": "website/docs/LAUNCHPAD_RESEARCH.md",
     "bytes": 6439,
     "sha256": "3a42bdf67db2466a25acc2351a9239e55743677948b9fdf913e3add0c8cbc0d3"
+  },
+  {
+    "path": "website/docs/LIVE_WEBSITE.md",
+    "bytes": 1060,
+    "sha256": "ea27a795b0417364be6e15c52fc005317cb27922de3e00b2537891b6db6fb7f4"
   },
   {
     "path": "website/docs/LOCAL_DEVELOPMENT.md",
