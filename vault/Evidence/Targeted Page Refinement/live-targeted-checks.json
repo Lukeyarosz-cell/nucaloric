@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "Studio working sheet mirrors real project fields",
+    "Launch identity shows actual supply and venue",
+    "Launch portrait replaces the old launch-plan tag",
+    "real network supplies attributed listings",
+    "original Explore console is restored",
+    "initial page shows at most twelve listings",
+    "next page reveals twelve more listings",
+    "final page hides exhausted pagination",
+    "compact control changes actual result layout",
+    "compact real results fit 1440",
+    "compact real results fit 390",
+    "compact real results fit 320",
+    "source dates remain accessible",
+    "search clears nonmatching console and cards",
+    "no runtime errors"
+  ],
+  "errors": []
+}
