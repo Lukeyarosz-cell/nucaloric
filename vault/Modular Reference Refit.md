@@ -1,5 +1,7 @@
 # Modular reference refit — October 5, 2026
 
+> Partially superseded by [[Targeted Page Refinement]]: the original Home and Registry return, Explore uses its familiar console/cards, and Studio/Launch preview cards are refined. Hosting and Rewards retain this revision.
+
 Reference: `/home/luke/Downloads/Home _ X.jpeg` (preserved in `Evidence/Modular Reference Refit/Home_X-reference.jpeg`). The supplied image shows a floating black budget card, dot-matrix heading, square-segment meter and pixel-cut background. The site adapts these ideas with original canvas/CSS artwork; the reference image is not bundled on the public website. Preserve the original SVG wordmark and the ink, cream and pale-pink palette.
 
 ## Site structure

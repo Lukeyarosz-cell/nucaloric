@@ -78,4 +78,8 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 
 ## Modular reference direction / October 5
 
-[[Modular Reference Refit]] — latest site direction based on the supplied Home_X image: floating dark modules, square halftone, matrix headings, a personalized workspace, modular coin planning and native scroll depth. This supersedes the previous flat page treatment and eight-step launch interface.
+[[Modular Reference Refit]] — historical refit based on the supplied Home_X image: floating dark modules, square halftone, matrix headings, a personalized workspace, modular coin planning and native scroll depth. This supersedes the previous flat page treatment and eight-step launch interface.
+
+## Targeted refinements / October 5
+
+[[Targeted Page Refinement]] is the current direction. Restore the familiar homepage, Registry and Explore structures; keep Hosting and Rewards intact; refine Studio’s project sheet and Launch’s identity preview. Refresh the accepted design with dot motion rather than replacing each page.

@@ -806,8 +806,8 @@
   },
   {
     "path": "vault/Design System.md",
-    "bytes": 5487,
-    "sha256": "ad5d01c169a7863f0f18f8b763bb0fe0f054acb19be44796f1bafb78516b5d20"
+    "bytes": 5814,
+    "sha256": "655ab804a448015fa1782d277346aa59d9ecf1ca399bc2503d96345799938b12"
   },
   {
     "path": "vault/Dot Motion Update.md",
@@ -1720,6 +1720,186 @@
     "sha256": "5f2d1172ec7671529107c6ea9b5a8a75cd0364d7701c936e34adf0bb41b39978"
   },
   {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-creative-workspace.json",
+    "bytes": 2046,
+    "sha256": "8b41fc7278d4c3300489c564899186a237d19965ce097736711bb66a8e60deac"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-registry-1440.png",
+    "bytes": 968274,
+    "sha256": "5dc80fcbdd56dc00e67937763b80eab11be96d3130156b1288ae18b3051381d1"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-registry-390.png",
+    "bytes": 838400,
+    "sha256": "66e76e4d1c3202104d03f87deb59b7a31f92b8b70bfc6eb7e17618cb7861cfa6"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-roadmap-1440.png",
+    "bytes": 458441,
+    "sha256": "dc37f3a579997f63a36123833de11f641dc8c80bd82c71736f366f013d5e6939"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-roadmap-390.png",
+    "bytes": 292045,
+    "sha256": "2df17bf39c7a6507b0cf4d08a7d56546154102a422895288e4f4e60d9dffe21d"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-status-1440.png",
+    "bytes": 740843,
+    "sha256": "91178d161d547b51904b7bf516f0e6484508be5fa931877a112b942cf9dc20d3"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-status-390.png",
+    "bytes": 723786,
+    "sha256": "888a896ba20b32cb48f67cf4110f7f336759564edefba4f85a1451d6f471d39b"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-studio-1440.png",
+    "bytes": 440294,
+    "sha256": "61f1cffa693a1d44d511e6e6d0ac305149f0fef44f0212129bc95965f7b519ea"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/creative-workspace-studio-390.png",
+    "bytes": 303476,
+    "sha256": "ac26e2c99bbb1c1193762637577bce6d024b32bc743b869bf358a60f3a4eecdb"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/flowmap-launchpads-flowmap-launchpads.json",
+    "bytes": 2608,
+    "sha256": "db95410f03417fd9aa023890055264160d3652853701dafe7e325642e8599491"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/interactions-interactions.json",
+    "bytes": 1611,
+    "sha256": "a86191d056999e808ffefaff303e505f06ff869fd4f94e5e91270bbbfe3f32bc"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-index-modular-1440.png",
+    "bytes": 690756,
+    "sha256": "5efc216360b5a836db0868d5547cd2e3b8c268c825defe304269bb7e1849cd5f"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-index-modular-390.png",
+    "bytes": 457675,
+    "sha256": "b83f8cfa1bfbac06f01386d11f1b9c53be375c8e2b0d1d3fd2d2fb763fb6fed9"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-launchpad-modular-1440.png",
+    "bytes": 523096,
+    "sha256": "19091512bed2d0cb4fd346bcafa2c7062e872a58f3b33a65f991a368a10f13c9"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-launchpad-modular-390.png",
+    "bytes": 394942,
+    "sha256": "e507a3d9223cc32931c184c81fbc84e91a3935803829c4fb853e33a379cd5293"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-modular-workbench.json",
+    "bytes": 3530,
+    "sha256": "6c6e059ba7f93e240d55a1cc97f1ebfcce34efcc43872e16a00f9a37d88e9d9f"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-registry-modular-1440.png",
+    "bytes": 872291,
+    "sha256": "a39f5a1628faa85119c93687fd51db1af846feeeab86d0fb721a10739755920f"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-registry-modular-390.png",
+    "bytes": 756424,
+    "sha256": "b29932674c29e067d0c032a9b83a6fa7c53bba54134e9ab4383b3bb8636fb495"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-roadmap-modular-1440.png",
+    "bytes": 424641,
+    "sha256": "2da6e697957259038c72f7fe904684db7e8001ab027900d99817a6439ef00e7f"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-roadmap-modular-390.png",
+    "bytes": 262474,
+    "sha256": "9d89c03cf413dd80029b7aaef57708c2b551e4aa51080f060281f14515fb1b40"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-status-modular-1440.png",
+    "bytes": 687389,
+    "sha256": "fa167f4bf316b89ef52149f01529b64a2b753bcbaed17b2959f6067821b83b9e"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-status-modular-390.png",
+    "bytes": 656475,
+    "sha256": "a399b81e279bad424e6e19022610fbcc4a3c8a5c66ecf10961dc828b8318b332"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-studio-modular-1440.png",
+    "bytes": 403014,
+    "sha256": "6a93f503a3df8486638f466574d688a190e19f6fc0a093e012d76dfd2bc4510b"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/modular-workbench-studio-modular-390.png",
+    "bytes": 280039,
+    "sha256": "90bbd8bd41468c886d1b8f16f3cf06baa8ffac0504255f144519f0408f3c1c1b"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-explore-live-1440.png",
+    "bytes": 705951,
+    "sha256": "220a77cb2683282b2c28bd9c65c5f338f6baabc7b49de4df5332af8973a1a55c"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-explore-live-390.png",
+    "bytes": 498805,
+    "sha256": "57a04975f670f152e79408445f4f4a3e9a9d8c640b3a8b966054aaae326f069c"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-targeted-checks.json",
+    "bytes": 710,
+    "sha256": "22163626919913380f8c34b5d605e746bc756f9bdb69ef71d9e2325a8d3ef024"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-dashboard-working-1440.png",
+    "bytes": 450413,
+    "sha256": "3586d4d517a44e6cc3aa7b69ee4bdda5e828a07037c57e8f3f42442321936a84"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-dashboard-working-390.png",
+    "bytes": 367217,
+    "sha256": "bc9427e1b4112325617d4e2623052391be6cac917b9fac54b4d677c68d2ff9fb"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-explorer-working-1440.png",
+    "bytes": 362748,
+    "sha256": "0b5c99d8117f404cdd65dbbd5334dcc57e5a35f15e9b816cd9cee18b45bd1fd6"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-explorer-working-390.png",
+    "bytes": 271853,
+    "sha256": "63a2228bc32f38d92c9a44bcbbe647867eaff9e490d2e6dfcf02365506138ea8"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-status-working-1440.png",
+    "bytes": 582435,
+    "sha256": "fab1c2c5becf9bd65751c2dd306ece437e605cac913169244015b4dae00d191e"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-status-working-390.png",
+    "bytes": 594184,
+    "sha256": "a5e7575de51f25ce085d594a9bd0022a8908cfdd737a320ac42afad6d5e48001"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-studio-working-1440.png",
+    "bytes": 471089,
+    "sha256": "ec6652264f1bac377482a7d8f0190cf0144c7fcacaa0a8dc13b535e3033a5a9a"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-studio-working-390.png",
+    "bytes": 349865,
+    "sha256": "1462bc0f18672d7f49c6b6d19ada0a9baa475b83c84d9e255bb3a6dc61bcf4a6"
+  },
+  {
+    "path": "vault/Evidence/Targeted Page Refinement/working-features-working-features.json",
+    "bytes": 3565,
+    "sha256": "c2a712c3cd10202b2dc4811202c827427a9742c809336553baa276300b7014e4"
+  },
+  {
     "path": "vault/Evidence/Thin Native Color Logo Ribbon.png",
     "bytes": 356443,
     "sha256": "8ec2246eda6ef145e3e70e30746d6d459aaf897a145485069934067921be82cd"
@@ -2166,8 +2346,8 @@
   },
   {
     "path": "vault/Modular Reference Refit.md",
-    "bytes": 5305,
-    "sha256": "7a075fd96abc52238d1c953eee67106bb3db1995360a2ba5b81d8fc3a39d5e88"
+    "bytes": 5529,
+    "sha256": "17635456ad57c2d1aec615eda1d64c179cc4a79cb80862060bb1cbe2e6eb55c3"
   },
   {
     "path": "vault/Motion Style Guide.md",
@@ -2246,13 +2426,18 @@
   },
   {
     "path": "vault/Session Status.md",
-    "bytes": 3210,
-    "sha256": "349591d0bafb772b17beb8ca1a3793d70d956e25e2c9cf6ad927188f7e1457b9"
+    "bytes": 3537,
+    "sha256": "bc9fd767013fc8f64d99b4857c1bd84beecd89425d3efe8d5e3c89375242b607"
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 2665,
-    "sha256": "0b01449c8588d02d6f12209f172ca020827be3dc45507c1458e629b418406cf2"
+    "bytes": 2754,
+    "sha256": "03f6fa3e38f1b33ec4e6468e40cf0938a6c10405adea7e751ce65aedc41dea9f"
+  },
+  {
+    "path": "vault/Targeted Page Refinement.md",
+    "bytes": 2781,
+    "sha256": "218688315ecd5be3d7b7d35c6286777c67308e312f87e12e87b19792a5d8ea5c"
   },
   {
     "path": "vault/Website Walkthrough.md",
@@ -2565,6 +2750,16 @@
     "sha256": "5f2d1172ec7671529107c6ea9b5a8a75cd0364d7701c936e34adf0bb41b39978"
   },
   {
+    "path": "website/docs/TARGETED_PAGE_REFINEMENT.md",
+    "bytes": 2781,
+    "sha256": "218688315ecd5be3d7b7d35c6286777c67308e312f87e12e87b19792a5d8ea5c"
+  },
+  {
+    "path": "website/docs/TARGETED_PAGE_VALIDATION.json",
+    "bytes": 465,
+    "sha256": "e9ea40eec33e26d27327d46bf69cb3300ca45b454369f75a12d1d84f9663f5e0"
+  },
+  {
     "path": "website/docs/WORKING_FEATURES.md",
     "bytes": 4063,
     "sha256": "82398b6436a50df05f6bb589e68b88013bcd28ee0b3795bb018e757ae185afe2"
@@ -2581,8 +2776,8 @@
   },
   {
     "path": "website/explorer.html",
-    "bytes": 8228,
-    "sha256": "ef13d536fee229dd7fd6926bc19da396e7388a0b246489909c8802312e2b61e8"
+    "bytes": 12198,
+    "sha256": "9c22f2add3081f2634976278b57780096d0e9da0766cb2e44fb3044bd493d580"
   },
   {
     "path": "website/flowmap.js",
@@ -2606,8 +2801,8 @@
   },
   {
     "path": "website/index.html",
-    "bytes": 21263,
-    "sha256": "65fed5f37c15b3394d852f035eee82282f157b4c3732a580dd7b8190e12d9d0b"
+    "bytes": 43019,
+    "sha256": "0a1ce73da8d5968acfdba126eba3bb7e511bc116d4460edc218053810d7b71d7"
   },
   {
     "path": "website/launch-workbench.js",
@@ -2621,13 +2816,13 @@
   },
   {
     "path": "website/launchpad.html",
-    "bytes": 19546,
-    "sha256": "840e05cb339587eb40efd1f5c77f46a2ce404fb8637136fb39285f3b999ab019"
+    "bytes": 19835,
+    "sha256": "5533144055bf243831f32dc6dba04a07ff6f9bca9b893790c42abcc83e1076c2"
   },
   {
     "path": "website/live-market.js",
-    "bytes": 12921,
-    "sha256": "ddfdb74d428de641229803a9b6c0471c053d02b540f141d8b6f817186bef44d1"
+    "bytes": 16889,
+    "sha256": "9bd90c56961ef7e37f36a36260bbacdbf8fb79ff6fb63f88eb9cbbc7b54c3e65"
   },
   {
     "path": "website/modular.css",
@@ -2670,6 +2865,16 @@
     "sha256": "057f99db06ea119c875796de663ca19672867d5666f987a0842f7f1655109878"
   },
   {
+    "path": "website/refinement.css",
+    "bytes": 16258,
+    "sha256": "af368e44a8b1d2d48b091797db35eb60030f28ee9172321fee75a6ef3b7deb0e"
+  },
+  {
+    "path": "website/refinement.js",
+    "bytes": 2773,
+    "sha256": "9ca84992b27b7562c102d45a62fb6ea3dd4dfcbde1db4bda2c18b4de089bc33f"
+  },
+  {
     "path": "website/refresh.css",
     "bytes": 25516,
     "sha256": "a13a9b3ad4b3dba8de36f332252d8e763dcb817aee72fd7da1e1048f6046eb27"
@@ -2681,8 +2886,8 @@
   },
   {
     "path": "website/registry.html",
-    "bytes": 48269,
-    "sha256": "59788cd2118eab8f24cba17eeb3aa7351bc9a3ed441377bc17b43126abc311e0"
+    "bytes": 46336,
+    "sha256": "2c9b537cdf44ae9e2ec041fc813d2861febbd2d5cbdef1bb3983947a489f53ed"
   },
   {
     "path": "website/rewards.html",
@@ -2701,8 +2906,8 @@
   },
   {
     "path": "website/studio.html",
-    "bytes": 13255,
-    "sha256": "b2b32ed81cc35f896318e4831c8f59f9d2ae6f35cac0da05ff042660e35bc64c"
+    "bytes": 13652,
+    "sha256": "d7723a7b424a8f3a3f48dd0a499aa58a417047bd77422c111ca594d7f897b9e1"
   },
   {
     "path": "website/styles.css",
@@ -2751,8 +2956,8 @@
   },
   {
     "path": "website/tools/review/README.md",
-    "bytes": 3259,
-    "sha256": "6ced02afd5f8ba8ca06dafac9870403763e0f757952bffe96af8128f16e4d926"
+    "bytes": 3759,
+    "sha256": "e2acad981a81d24d09396af0220ad1c37d95c6446c7ad3e1fbdf29fe5653c085"
   },
   {
     "path": "website/tools/review/assemble-walkthrough.py",
@@ -2761,23 +2966,23 @@
   },
   {
     "path": "website/tools/review/creative-workspace.cjs",
-    "bytes": 4534,
-    "sha256": "ff072073815017b6bccce632a1844ecdcddc7a642409649500630000344e33d5"
+    "bytes": 4615,
+    "sha256": "00da9d3a9a80c2dbb3ac102fd3f68b97abb1433bb9a6603d623e39fa934eda56"
   },
   {
     "path": "website/tools/review/flowmap-launchpads.cjs",
-    "bytes": 7918,
-    "sha256": "37a05eddd6f3e815aef1324ab7ed223f3de039794f79270116da7b210f88aace"
+    "bytes": 7926,
+    "sha256": "d16947d7333911fcd6a557d61a035e56faab0aa9ea851a665f8460346962dc7c"
   },
   {
     "path": "website/tools/review/interactions.cjs",
-    "bytes": 6584,
-    "sha256": "9de7524d8599743c3583bd2f713a700a0d8285a98d9060541c89260efc5e4e6d"
+    "bytes": 6600,
+    "sha256": "8c135c57d9f3f00b06bc01924b04746f831ea1507779ca2d63a98d6fc2edaa49"
   },
   {
     "path": "website/tools/review/modular-workbench.cjs",
-    "bytes": 11339,
-    "sha256": "f5568e6a7760f92165c2d2aae2f250bdd4bf7f97701b4c32c18a312737726213"
+    "bytes": 9547,
+    "sha256": "7f3d468cb61568c9384c2034538a8a7fa8a0c409fbd59c027b58f339a7658753"
   },
   {
     "path": "website/tools/review/operations.cjs",
@@ -2795,9 +3000,14 @@
     "sha256": "7631ea0731fd60d639f4140a7a71a48c4aa9393374ef939cdbb181078c00e104"
   },
   {
+    "path": "website/tools/review/targeted-refinement.cjs",
+    "bytes": 3815,
+    "sha256": "7ea857f9f9fe48f140da860774cb03aff6ea44c97ccd072b0b1e793334c4ad63"
+  },
+  {
     "path": "website/tools/review/working-features.cjs",
-    "bytes": 12417,
-    "sha256": "b4d08e43ee236fcd6a3f5fba53642dba8ae72b941eb5afa5f62dc4cfa82cbe2f"
+    "bytes": 12433,
+    "sha256": "235c4a5bdad6532775447bd41751260da4bbe4007e21cb609ed21f27ffd336c7"
   },
   {
     "path": "website/tools/status/.env.example",

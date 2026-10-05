@@ -1,0 +1,32 @@
+[
+  {
+    "suite": "targeted-checks",
+    "checks": 15,
+    "errors": []
+  },
+  {
+    "suite": "interactions",
+    "checks": 18,
+    "errors": []
+  },
+  {
+    "suite": "creative-workspace",
+    "checks": 25,
+    "errors": []
+  },
+  {
+    "suite": "working-features",
+    "checks": 40,
+    "errors": []
+  },
+  {
+    "suite": "flowmap-launchpads",
+    "checks": 26,
+    "errors": []
+  },
+  {
+    "suite": "modular-workbench",
+    "checks": 41,
+    "errors": []
+  }
+]

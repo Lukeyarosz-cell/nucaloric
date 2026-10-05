@@ -1,0 +1,109 @@
+{
+  "checks": [
+    {
+      "name": "deep link selects the actual payment detail",
+      "passed": true
+    },
+    {
+      "name": "focus selects an eligible node without stale hash override",
+      "passed": true
+    },
+    {
+      "name": "keyboard selects stage and updates shareable URL",
+      "passed": true
+    },
+    {
+      "name": "selected stage exposes three real gates",
+      "passed": true
+    },
+    {
+      "name": "six connections have finite responsive geometry",
+      "passed": true
+    },
+    {
+      "name": "moving dot connections run when visible",
+      "passed": true
+    },
+    {
+      "name": "site motion control also pauses graph signals",
+      "passed": true
+    },
+    {
+      "name": "reading depth follows actual bottom of document",
+      "passed": true
+    },
+    {
+      "name": "reduced motion removes traveling signal",
+      "passed": true
+    },
+    {
+      "name": "mobile graph selection fits viewport",
+      "passed": true
+    },
+    {
+      "name": "network overview shows all 17 service signals",
+      "passed": true
+    },
+    {
+      "name": "selected provider components are visible up front",
+      "passed": true
+    },
+    {
+      "name": "density control changes board layout",
+      "passed": true
+    },
+    {
+      "name": "one control expands all available provider evidence",
+      "passed": true
+    },
+    {
+      "name": "overview opens intended service even after search",
+      "passed": true
+    },
+    {
+      "name": "observation history labels its scope without invented uptime",
+      "passed": true
+    },
+    {
+      "name": "primary listing membership excludes impostors and wrong-chain quotes",
+      "passed": true
+    },
+    {
+      "name": "unindexed listings never get substitute prices",
+      "passed": true
+    },
+    {
+      "name": "cards carry independently sourced origin links",
+      "passed": true
+    },
+    {
+      "name": "PAID snapshot date is distinct from live quote time",
+      "passed": true
+    },
+    {
+      "name": "PAID filter limits to its verified listing catalog",
+      "passed": true
+    },
+    {
+      "name": "mint and name search also works for unindexed coins",
+      "passed": true
+    },
+    {
+      "name": "registry failure explicitly identifies dated fallback",
+      "passed": true
+    },
+    {
+      "name": "Pump venues retain evidence limits and reject unrelated DEX pools",
+      "passed": true
+    },
+    {
+      "name": "quote failure clears outdated market cards",
+      "passed": true
+    },
+    {
+      "name": "no browser errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

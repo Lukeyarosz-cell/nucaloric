@@ -34,4 +34,8 @@ The lower-left page labels exist only in the recording. Browser preferences, wal
 
 ## Modular workspace and coin desk
 
-`modular-workbench.cjs` verifies personalized module order, focus and spacing, coin identity and budget updates, artwork upload, draft reload, portable export/import, invalid imports, legacy draft migration, blocked storage, native scroll depth, reduced motion and primary pages at 1440/390/320 pixels. Evidence: `Evidence/Modular Reference Refit/` in the vault.
+`modular-workbench.cjs` verifies retained workspace preferences, the original homepage wave, coin identity and budget updates, artwork upload, draft reload, portable export/import, invalid imports, legacy draft migration, blocked storage, native scroll depth, reduced motion and primary pages at 1440/390/320 pixels. Evidence: `Evidence/Modular Reference Refit/` in the vault.
+
+## Targeted page refinement
+
+`targeted-refinement.cjs` checks Studio’s actual project identity, Launch’s supply/venue portrait, and the restored Explore console against live network data. It checks twelve-card pagination, compact view at 1440/390/320px, accessible source dates and empty search. It requires the current catalog to contain more than 24 observed listings; deterministic market and failure handling are covered by `working-features.cjs` and `flowmap-launchpads.cjs`.

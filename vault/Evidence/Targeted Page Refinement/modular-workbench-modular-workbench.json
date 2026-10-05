@@ -1,0 +1,169 @@
+{
+  "checks": [
+    {
+      "name": "local workspace preferences apply to retained workbenches",
+      "passed": true
+    },
+    {
+      "name": "workspace preferences persist",
+      "passed": true
+    },
+    {
+      "name": "identity edits update both real preview cards",
+      "passed": true
+    },
+    {
+      "name": "budget reflects real planned amounts and over-limit state",
+      "passed": true
+    },
+    {
+      "name": "optional modules can be independently added",
+      "passed": true
+    },
+    {
+      "name": "hiding a module preserves its draft inputs",
+      "passed": true
+    },
+    {
+      "name": "distribution totals update without a fake AI score",
+      "passed": true
+    },
+    {
+      "name": "artwork is decoded and included in three previews",
+      "passed": true
+    },
+    {
+      "name": "draft, artwork and module choices restore",
+      "passed": true
+    },
+    {
+      "name": "export is a complete portable local plan",
+      "passed": true
+    },
+    {
+      "name": "import restores the full plan in a fresh browser",
+      "passed": true
+    },
+    {
+      "name": "invalid imports leave the current plan unchanged",
+      "passed": true
+    },
+    {
+      "name": "unsafe self-reported links cannot be exported",
+      "passed": true
+    },
+    {
+      "name": "fractional supplies cannot be exported",
+      "passed": true
+    },
+    {
+      "name": "unsupported artwork leaves existing artwork intact",
+      "passed": true
+    },
+    {
+      "name": "original homepage composition is restored",
+      "passed": true
+    },
+    {
+      "name": "original homepage wave animates",
+      "passed": true
+    },
+    {
+      "name": "retained homepage artwork responds to native scroll",
+      "passed": true
+    },
+    {
+      "name": "reduced motion keeps the homepage wave still",
+      "passed": true
+    },
+    {
+      "name": "previous launch draft migrates while retaining the original",
+      "passed": true
+    },
+    {
+      "name": "storage failures do not claim successful coin saves",
+      "passed": true
+    },
+    {
+      "name": "preference storage failures explain page-only state",
+      "passed": true
+    },
+    {
+      "name": "index fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "status fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "index fits 390px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 390px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 390px",
+      "passed": true
+    },
+    {
+      "name": "status fits 390px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 390px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 390px",
+      "passed": true
+    },
+    {
+      "name": "index fits 320px",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 320px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 320px",
+      "passed": true
+    },
+    {
+      "name": "status fits 320px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 320px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 320px",
+      "passed": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
