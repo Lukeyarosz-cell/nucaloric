@@ -1445,6 +1445,16 @@
     "sha256": "6f498bc736b613885d5ef61b3c76b532036712931f5e853aba51b4844e3cc7d9"
   },
   {
+    "path": "vault/Evidence/Working Features/public-explorer-390.png",
+    "bytes": 224355,
+    "sha256": "a8ab533a8104d7cc3ba96d36fbedd7c0081bcb3aa11dac22f6e60e225df22e11"
+  },
+  {
+    "path": "vault/Evidence/Working Features/public-verification.json",
+    "bytes": 362,
+    "sha256": "5d0d98fa399d1632ba309631708828237c4280a7d8512430768eb54f12b34987"
+  },
+  {
     "path": "vault/Evidence/Working Features/registry-1440.png",
     "bytes": 922717,
     "sha256": "557afe2eb01a9b9ed43d5c5ed8b983da44cdbe17eedfdba63e98c72ff2e5dcea"
