@@ -1,0 +1,277 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "mime_codec_string": "avc1.640028",
+      "width": 1440,
+      "height": 900,
+      "coded_width": 1440,
+      "coded_height": 900,
+      "has_b_frames": 2,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "8:5",
+      "pix_fmt": "yuv420p",
+      "level": 40,
+      "color_range": "tv",
+      "color_space": "bt470bg",
+      "chroma_location": "center",
+      "field_order": "progressive",
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "25/1",
+      "avg_frame_rate": "25/1",
+      "time_base": "1/12800",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 1589248,
+      "duration": "124.160000",
+      "bit_rate": "1215726",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "3104",
+      "extradata_size": 52,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "eng",
+        "handler_name": "VideoHandler",
+        "encoder": "Lavc63.1.102 libx264"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "bin_data",
+      "codec_long_name": "binary data",
+      "codec_type": "data",
+      "codec_tag_string": "text",
+      "codec_tag": "0x74786574",
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 124160,
+      "duration": "124.160000",
+      "bit_rate": "19",
+      "nb_frames": "13",
+      "extradata_size": 63,
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "eng",
+        "handler_name": "SubtitleHandler"
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "time_base": "1/1000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 14360,
+      "end_time": "14.360000",
+      "tags": {
+        "title": "Home"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/1000",
+      "start": 14360,
+      "start_time": "14.360000",
+      "end": 21000,
+      "end_time": "21.000000",
+      "tags": {
+        "title": "Explorer"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/1000",
+      "start": 21000,
+      "start_time": "21.000000",
+      "end": 28080,
+      "end_time": "28.080000",
+      "tags": {
+        "title": "Launchpad"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/1000",
+      "start": 28080,
+      "start_time": "28.080000",
+      "end": 51080,
+      "end_time": "51.080000",
+      "tags": {
+        "title": "Registry"
+      }
+    },
+    {
+      "id": 4,
+      "time_base": "1/1000",
+      "start": 51080,
+      "start_time": "51.080000",
+      "end": 60160,
+      "end_time": "60.160000",
+      "tags": {
+        "title": "Studio"
+      }
+    },
+    {
+      "id": 5,
+      "time_base": "1/1000",
+      "start": 60160,
+      "start_time": "60.160000",
+      "end": 69680,
+      "end_time": "69.680000",
+      "tags": {
+        "title": "Hosting"
+      }
+    },
+    {
+      "id": 6,
+      "time_base": "1/1000",
+      "start": 69680,
+      "start_time": "69.680000",
+      "end": 75800,
+      "end_time": "75.800000",
+      "tags": {
+        "title": "Dashboard"
+      }
+    },
+    {
+      "id": 7,
+      "time_base": "1/1000",
+      "start": 75800,
+      "start_time": "75.800000",
+      "end": 81160,
+      "end_time": "81.160000",
+      "tags": {
+        "title": "Rewards"
+      }
+    },
+    {
+      "id": 8,
+      "time_base": "1/1000",
+      "start": 81160,
+      "start_time": "81.160000",
+      "end": 87240,
+      "end_time": "87.240000",
+      "tags": {
+        "title": "Coin"
+      }
+    },
+    {
+      "id": 9,
+      "time_base": "1/1000",
+      "start": 87240,
+      "start_time": "87.240000",
+      "end": 92280,
+      "end_time": "92.280000",
+      "tags": {
+        "title": "Optimizer"
+      }
+    },
+    {
+      "id": 10,
+      "time_base": "1/1000",
+      "start": 92280,
+      "start_time": "92.280000",
+      "end": 99080,
+      "end_time": "99.080000",
+      "tags": {
+        "title": "Ecosystem"
+      }
+    },
+    {
+      "id": 11,
+      "time_base": "1/1000",
+      "start": 99080,
+      "start_time": "99.080000",
+      "end": 113360,
+      "end_time": "113.360000",
+      "tags": {
+        "title": "Service status"
+      }
+    },
+    {
+      "id": 12,
+      "time_base": "1/1000",
+      "start": 113360,
+      "start_time": "113.360000",
+      "end": 124160,
+      "end_time": "124.160000",
+      "tags": {
+        "title": "Implementation roadmap"
+      }
+    }
+  ],
+  "format": {
+    "filename": "/home/luke/Projects/nucaloric-walkthrough/2026-10-05/NUCALORIC-website-walkthrough-2026-10-05.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "124.160000",
+    "size": "18901430",
+    "bit_rate": "1217875",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "title": "NUCALORIC \u2014 Every page walkthrough",
+      "artist": "NUCALORIC",
+      "encoder": "Lavf63.1.102"
+    }
+  }
+}

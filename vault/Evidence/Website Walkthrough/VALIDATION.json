@@ -1,0 +1,24 @@
+{
+  "pages": 13,
+  "all_footers_reached": true,
+  "browser_errors": [],
+  "full_mp4_decode": "passed",
+  "chapters": 13,
+  "duration_seconds": 124.16,
+  "resolution": [
+    1440,
+    900
+  ],
+  "fps": 25,
+  "mobile_player": {
+    "viewport": [
+      390,
+      844
+    ],
+    "playback": "passed",
+    "chapter_seek": "passed",
+    "horizontal_overflow": false
+  },
+  "phone_delivery": "authenticated HTTPS download matches local MP4",
+  "unauthenticated_delivery": "login gate verified"
+}

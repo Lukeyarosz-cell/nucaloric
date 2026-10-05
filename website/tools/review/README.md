@@ -20,3 +20,14 @@ REVIEW_BROWSER=bundled PLAYWRIGHT_MODULE=/tmp/nucaloric-refresh/node_modules/pla
 ```
 
 All review runners accept `REVIEW_BROWSER=bundled` or a browser executable path. Default remains `/usr/bin/brave`. Evidence for this revision: `Evidence/Dark Creative Rebuild/` in the Obsidian vault.
+
+## Scrolling video walkthrough
+
+`record-walkthrough.cjs` records all 13 pages in an isolated Playwright Chromium profile, with normal animations at 1440 × 900. It scrolls every page to its footer and checks for browser errors. `assemble-walkthrough.py` combines the raw WebM clips into an H.264 MP4 with 13 named chapters, a coverage report, an Obsidian note, and a browser player. Requires Playwright's installed Chromium, FFmpeg, FFprobe, and Python 3.
+
+```bash
+PLAYWRIGHT_MODULE=/tmp/nucaloric-refresh/node_modules/playwright REVIEW_OUTPUT=/home/luke/Projects/nucaloric-walkthrough/2026-10-05 node tools/review/record-walkthrough.cjs
+python tools/review/assemble-walkthrough.py /home/luke/Projects/nucaloric-walkthrough/2026-10-05
+```
+
+The lower-left page labels exist only in the recording. Browser preferences, wallet state, and private project drafts are not used. Delivery files are archived in the vault under `Evidence/Website Walkthrough/`; raw clips remain in the local walkthrough directory.

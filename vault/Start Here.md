@@ -48,3 +48,7 @@ NUCALORIC v12 is a static front-end prototype for an AI-assisted Solana token la
 ## Current creative workspace direction
 
 [[Dark Creative Rebuild]] — rebuilt Status, Studio and Registry around dark surfaces and the approved dot motion.
+
+## Website video
+
+[[Website Walkthrough]] — every page, scrolling from top to footer, with chapter navigation.

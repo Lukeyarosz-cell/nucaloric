@@ -15,6 +15,11 @@
     "sha256": "5c55144a11a629f52bf70f5985424680c0c566daaf061224a59c9226e9bbc82d"
   },
   {
+    "path": "ad-assets/creative-refresh-2026-10-05.zip",
+    "bytes": 2478059,
+    "sha256": "0586a290fe092e0764f8ab07538bd4c74b3984a76315e068fa62b86ee1b72bba"
+  },
+  {
     "path": "ad-assets/creative-refresh-2026-10-05/README.md",
     "bytes": 1592,
     "sha256": "96097a9e2c6b288ca785aa53b9007ed438ec883234b220ad22c3653c059307e7"
@@ -168,11 +173,6 @@
     "path": "ad-assets/creative-refresh-2026-10-05/stills/together-square.svg",
     "bytes": 43200,
     "sha256": "8775e3f29de90cc48dae0f2102f8b5abb40d038e5c49d95b7e9a795e8c99c508"
-  },
-  {
-    "path": "ad-assets/creative-refresh-2026-10-05.zip",
-    "bytes": 2478059,
-    "sha256": "0586a290fe092e0764f8ab07538bd4c74b3984a76315e068fa62b86ee1b72bba"
   },
   {
     "path": "promo/NUCALORIC-edit-package.zip",
@@ -1360,6 +1360,46 @@
     "sha256": "8ec2246eda6ef145e3e70e30746d6d459aaf897a145485069934067921be82cd"
   },
   {
+    "path": "vault/Evidence/Website Walkthrough/NUCALORIC-website-walkthrough-2026-10-05.mp4",
+    "bytes": 18901430,
+    "sha256": "65ca090878ed078a566eb3d32fb04f4e222c3b42cf49aea2ead3761785660308"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/VALIDATION.json",
+    "bytes": 490,
+    "sha256": "98a5a95ee1d7fd282929ba819e9c00dbf5b5436529ab48e3ead50c702e1e0085"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/chapters.json",
+    "bytes": 1237,
+    "sha256": "08349fba8d06b707ed16045c2160ac1f1908f5cbf32a634a29ce4d442a9bde14"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/index.html",
+    "bytes": 3968,
+    "sha256": "6901995e9062640bb75b083d3b59f99cd978214f9ac5e50608ed1f83249c98e0"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/player-mobile.png",
+    "bytes": 73826,
+    "sha256": "e1fe20016a74da4ac67ad8503188c48aace1da3dc3245311532d5090322bb3ef"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/poster.jpg",
+    "bytes": 88416,
+    "sha256": "bcf85c93193704882b69674e1e2ee8c775faf17165ee6c810d1ce291f0edff2c"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/recording-coverage.json",
+    "bytes": 3058,
+    "sha256": "5cdcf1020199bfe85c5b8e4041972c2ed1da8126a04363c2b434ceef6af727a4"
+  },
+  {
+    "path": "vault/Evidence/Website Walkthrough/video-metadata.json",
+    "bytes": 6318,
+    "sha256": "400ca14bdd3e0b7e210c3cae62dfac3c7034b948db34afef82f2d19e8072fdca"
+  },
+  {
     "path": "vault/Evidence/audit.cjs",
     "bytes": 6140,
     "sha256": "f01d34c8f30691b5ada630480ea613b2272c43f8ec2379e5664679bae53aa9d9"
@@ -1686,13 +1726,18 @@
   },
   {
     "path": "vault/Session Status.md",
-    "bytes": 1768,
-    "sha256": "fc9a64cb89dba9cf5dfe2c893b3d808cb1162384b47c5a00075cc4ca3c183011"
+    "bytes": 2139,
+    "sha256": "fa46d5f7bb0848b6c4c982dd06763af65e54f57d706d99d48bbdea9291407594"
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 1665,
-    "sha256": "6e76a482b6171e11c8293bed81878ea34b87cea658c195c7f73f6787415f8fd7"
+    "bytes": 1779,
+    "sha256": "361413e1ffadf7e4f3879b13181e025c40887e1b64499db99db2eaa683a06aa9"
+  },
+  {
+    "path": "vault/Website Walkthrough.md",
+    "bytes": 951,
+    "sha256": "d63a01529efe9fc99d0babbd2b574cd34365951fcae0c59b8c9a32f99a986f9b"
   },
   {
     "path": "website/.gitignore",
@@ -2096,8 +2141,13 @@
   },
   {
     "path": "website/tools/review/README.md",
-    "bytes": 1853,
-    "sha256": "8f70d7d415f8e09b6da89c2a7ef4d2b1c44497cec11f40c3b7636d4af6b4e431"
+    "bytes": 2859,
+    "sha256": "e1d35b2f2ccf887e0880c855690b51c37496879c0c17dc4f5f3f591cf31951bd"
+  },
+  {
+    "path": "website/tools/review/assemble-walkthrough.py",
+    "bytes": 6691,
+    "sha256": "dafdc516867a658f77037ae5c6c97652706a1112ccfca727dea074f9c3bafd6a"
   },
   {
     "path": "website/tools/review/creative-workspace.cjs",
@@ -2113,6 +2163,11 @@
     "path": "website/tools/review/operations.cjs",
     "bytes": 6714,
     "sha256": "ec1299aeb5dca9115123dbddfdf929813911eb866473c59738f4e92235cc93cc"
+  },
+  {
+    "path": "website/tools/review/record-walkthrough.cjs",
+    "bytes": 4663,
+    "sha256": "9bf284b4269b281c3b7bc10a1b274e7eff4a48ddc772dc1e7cf92d21d6554a8e"
   },
   {
     "path": "website/tools/review/responsive.cjs",

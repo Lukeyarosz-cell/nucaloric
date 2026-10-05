@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NUCALORIC · Website walkthrough</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#080809;color:#f4f1ec;font:16px/1.6 system-ui,sans-serif}main{max-width:1480px;margin:auto;padding:32px 20px}p{color:#b9b6b4}h1{font-size:clamp(28px,5vw,52px);line-height:1.1;margin:8px 0 20px}.eyebrow{color:#e7b5c4;letter-spacing:.18em;font-size:12px}video{display:block;width:100%;background:#080809;border:1px solid #343033;border-radius:10px}a{color:#e7b5c4}#chapters{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}button{border:1px solid #484046;background:#151214;color:#f4f1ec;border-radius:6px;padding:10px 13px;cursor:pointer}button:hover,button:focus-visible{border-color:#e7b5c4}#loading{color:#e7b5c4}button:disabled{opacity:.5;cursor:wait}footer{margin-top:26px;font-size:13px;color:#b9b6b4}
+</style><main>
+<div class="eyebrow">NUCALORIC / OCTOBER 5, 2026</div>
+<h1>A walk through every page.</h1>
+<p>13 pages · 02:04 · Animated desktop walkthrough</p>
+<video id="video" controls playsinline preload="metadata" poster="poster.jpg"></video>
+<p id="loading" role="status">Loading the video…</p>
+<a id="download" href="NUCALORIC-website-walkthrough-2026-10-05.mp4" download>Download MP4 (18.9 MB)</a>
+<div id="chapters" aria-label="Jump to page"></div>
+<footer>Captured from the current local website. Page labels are added for the recording.</footer>
+</main><script>
+const chapters=[{"page": "index", "title": "Home", "start": 0.0, "end": 14.36}, {"page": "explorer", "title": "Explorer", "start": 14.36, "end": 21.0}, {"page": "launchpad", "title": "Launchpad", "start": 21.0, "end": 28.08}, {"page": "registry", "title": "Registry", "start": 28.08, "end": 51.08}, {"page": "studio", "title": "Studio", "start": 51.08, "end": 60.16}, {"page": "hosting", "title": "Hosting", "start": 60.16, "end": 69.68}, {"page": "dashboard", "title": "Dashboard", "start": 69.68, "end": 75.8}, {"page": "rewards", "title": "Rewards", "start": 75.8, "end": 81.16}, {"page": "coin", "title": "Coin", "start": 81.16, "end": 87.24}, {"page": "optimizer", "title": "Optimizer", "start": 87.24, "end": 92.28}, {"page": "ecosystem", "title": "Ecosystem", "start": 92.28, "end": 99.08}, {"page": "status", "title": "Service status", "start": 99.08, "end": 113.36}, {"page": "roadmap", "title": "Implementation roadmap", "start": 113.36, "end": 124.16}],video=document.getElementById('video'),status=document.getElementById('loading');
+for(const chapter of chapters){const button=document.createElement('button');button.textContent=chapter.title;button.disabled=true;button.addEventListener('click',()=>{video.currentTime=chapter.start;video.play().catch(()=>{});video.scrollIntoView({behavior:'smooth',block:'center'});});document.getElementById('chapters').append(button);}
+(async()=>{try{
+const response=await fetch('NUCALORIC-website-walkthrough-2026-10-05.mp4');
+if(!response.ok||response.headers.get('content-type')?.includes('text/html'))throw new Error('Please sign in with your remote desktop password, then reopen this video link.');
+const reader=response.body.getReader(),chunks=[];let received=0;
+while(true){const {done,value}=await reader.read();if(done)break;chunks.push(value);received+=value.length;status.textContent=`Loading the video… ${Math.min(100,Math.round(received/18901430*100))}%`;}
+video.src=URL.createObjectURL(new Blob(chunks,{type:'video/mp4'}));
+await new Promise((resolve,reject)=>{video.addEventListener('loadedmetadata',resolve,{once:true});video.addEventListener('error',()=>reject(new Error('This browser could not load the video. Use the MP4 download link.')),{once:true});});
+document.querySelectorAll('button').forEach(button=>button.disabled=false);status.textContent='Ready. Press play or choose a page.';
+}catch(error){status.textContent=error.message;}})();
+</script></html>

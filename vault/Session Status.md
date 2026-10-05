@@ -19,3 +19,7 @@ Added 17 official-source integration notes, a live public-feed monitor, a separa
 ## Dark creative workspace rebuild / October 5
 
 Rebuilt the three requested pages and paired roadmap styling after founder feedback about excess white. See [[Dark Creative Rebuild]] for current parameters, source files, motion behavior and browser evidence.
+
+## Website walkthrough / October 5
+
+Recorded all 13 pages with normal animations at 1440 × 900. The silent 2:04 MP4 has 13 named chapters, and every footer was reached without browser runtime errors. Saved under `Evidence/Website Walkthrough/`; see [[Website Walkthrough]]. A phone player is available through the existing password-protected remote desktop connection.

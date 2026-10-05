@@ -1,0 +1,145 @@
+[
+  {
+    "page": "index",
+    "title": "Home",
+    "file": "01-index.webm",
+    "startHeight": 5391,
+    "finalHeight": 5391,
+    "finalScroll": 4491,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "explorer",
+    "title": "Explorer",
+    "file": "02-explorer.webm",
+    "startHeight": 2142,
+    "finalHeight": 2142,
+    "finalScroll": 1242,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "launchpad",
+    "title": "Launchpad",
+    "file": "03-launchpad.webm",
+    "startHeight": 1915,
+    "finalHeight": 1915,
+    "finalScroll": 1015,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "registry",
+    "title": "Registry",
+    "file": "04-registry.webm",
+    "startHeight": 9802,
+    "finalHeight": 9802,
+    "finalScroll": 8902,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "studio",
+    "title": "Studio",
+    "file": "05-studio.webm",
+    "startHeight": 2905,
+    "finalHeight": 2905,
+    "finalScroll": 2005,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "hosting",
+    "title": "Hosting",
+    "file": "06-hosting.webm",
+    "startHeight": 3585,
+    "finalHeight": 3594,
+    "finalScroll": 2694,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "dashboard",
+    "title": "Dashboard",
+    "file": "07-dashboard.webm",
+    "startHeight": 1880,
+    "finalHeight": 1880,
+    "finalScroll": 980,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "rewards",
+    "title": "Rewards",
+    "file": "08-rewards.webm",
+    "startHeight": 1555,
+    "finalHeight": 1555,
+    "finalScroll": 655,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "coin",
+    "title": "Coin",
+    "file": "09-coin.webm",
+    "startHeight": 1891,
+    "finalHeight": 1891,
+    "finalScroll": 991,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "optimizer",
+    "title": "Optimizer",
+    "file": "10-optimizer.webm",
+    "startHeight": 1348,
+    "finalHeight": 1348,
+    "finalScroll": 448,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "ecosystem",
+    "title": "Ecosystem",
+    "file": "11-ecosystem.webm",
+    "startHeight": 2262,
+    "finalHeight": 2262,
+    "finalScroll": 1362,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "status",
+    "title": "Service status",
+    "file": "12-status.webm",
+    "startHeight": 4989,
+    "finalHeight": 4989,
+    "finalScroll": 4089,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  },
+  {
+    "page": "roadmap",
+    "title": "Implementation roadmap",
+    "file": "13-roadmap.webm",
+    "startHeight": 4250,
+    "finalHeight": 4250,
+    "finalScroll": 3350,
+    "viewportHeight": 900,
+    "reachedBottom": true,
+    "errors": []
+  }
+]
