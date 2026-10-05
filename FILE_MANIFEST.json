@@ -1841,13 +1841,13 @@
   },
   {
     "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-explore-live-1440.png",
-    "bytes": 705951,
-    "sha256": "220a77cb2683282b2c28bd9c65c5f338f6baabc7b49de4df5332af8973a1a55c"
+    "bytes": 694934,
+    "sha256": "d53780be0dfdb4b37aa7b749365b0bef38c1f0dae2cccd2286be16e31a86b8ef"
   },
   {
     "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-explore-live-390.png",
-    "bytes": 498805,
-    "sha256": "57a04975f670f152e79408445f4f4a3e9a9d8c640b3a8b966054aaae326f069c"
+    "bytes": 489491,
+    "sha256": "804ff90fabedec117c82c289deeb4cd7459fc6288965abb6299956668af1beb8"
   },
   {
     "path": "vault/Evidence/Targeted Page Refinement/nuc-targeted-targeted-checks.json",
@@ -2866,8 +2866,8 @@
   },
   {
     "path": "website/refinement.css",
-    "bytes": 16258,
-    "sha256": "af368e44a8b1d2d48b091797db35eb60030f28ee9172321fee75a6ef3b7deb0e"
+    "bytes": 16675,
+    "sha256": "a471cc1af2eac6950c555e8964ffa3ece2e02037275f7ec145ef1d339de41cee"
   },
   {
     "path": "website/refinement.js",
