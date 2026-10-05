@@ -1,0 +1,425 @@
+{
+  "checks": [
+    {
+      "name": "managed path retains configured Paymenter checkout",
+      "passed": true
+    },
+    {
+      "name": "own-machine choice exposes actual planning fields",
+      "passed": true
+    },
+    {
+      "name": "own-machine plan cannot start a managed purchase",
+      "passed": true
+    },
+    {
+      "name": "own-machine summary and guide reflect selections",
+      "passed": true
+    },
+    {
+      "name": "saved hardware plan clearly remains unpaired",
+      "passed": true
+    },
+    {
+      "name": "hardware plan restores its machine, connection and address",
+      "passed": true
+    },
+    {
+      "name": "portable JSON includes the own-hardware path",
+      "passed": true
+    },
+    {
+      "name": "setup export is scoped to the local machine",
+      "passed": true
+    },
+    {
+      "name": "app addresses reject embedded credential parameters",
+      "passed": true
+    },
+    {
+      "name": "managed path returns without deleting hardware draft",
+      "passed": true
+    },
+    {
+      "name": "catalog displays all 25 documented services with logos",
+      "passed": true
+    },
+    {
+      "name": "service search isolates the new provider",
+      "passed": true
+    },
+    {
+      "name": "category filter includes Docker and Raspberry Pi",
+      "passed": true
+    },
+    {
+      "name": "hosting roadmap documents both paths with provider logos",
+      "passed": true
+    },
+    {
+      "name": "status includes 25 branded provider identities",
+      "passed": true
+    },
+    {
+      "name": "machine bridge is separately unconfigured",
+      "passed": true
+    },
+    {
+      "name": "index fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "index shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "index has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "hosting fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "hosting shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "hosting has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "ecosystem fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "ecosystem shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "ecosystem has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "status fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "status shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "status has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "roadmap shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "roadmap has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "registry fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "registry shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "studio fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "studio shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "rewards fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "rewards shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "launchpad shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "explorer shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "dashboard shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "coin fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "coin shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "optimizer fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "optimizer shows full X Pay branding at 1440",
+      "passed": true
+    },
+    {
+      "name": "index fits 390px",
+      "passed": true
+    },
+    {
+      "name": "index shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "index has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "hosting fits 390px",
+      "passed": true
+    },
+    {
+      "name": "hosting shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "hosting has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "ecosystem fits 390px",
+      "passed": true
+    },
+    {
+      "name": "ecosystem shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "ecosystem has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "status fits 390px",
+      "passed": true
+    },
+    {
+      "name": "status shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "status has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 390px",
+      "passed": true
+    },
+    {
+      "name": "roadmap shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "roadmap has no broken brand assets",
+      "passed": true
+    },
+    {
+      "name": "registry fits 390px",
+      "passed": true
+    },
+    {
+      "name": "registry shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "studio fits 390px",
+      "passed": true
+    },
+    {
+      "name": "studio shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "rewards fits 390px",
+      "passed": true
+    },
+    {
+      "name": "rewards shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 390px",
+      "passed": true
+    },
+    {
+      "name": "launchpad shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 390px",
+      "passed": true
+    },
+    {
+      "name": "explorer shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 390px",
+      "passed": true
+    },
+    {
+      "name": "dashboard shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "coin fits 390px",
+      "passed": true
+    },
+    {
+      "name": "coin shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "optimizer fits 390px",
+      "passed": true
+    },
+    {
+      "name": "optimizer shows full X Pay branding at 390",
+      "passed": true
+    },
+    {
+      "name": "index fits 320px",
+      "passed": true
+    },
+    {
+      "name": "index shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "hosting fits 320px",
+      "passed": true
+    },
+    {
+      "name": "hosting shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "ecosystem fits 320px",
+      "passed": true
+    },
+    {
+      "name": "ecosystem shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "status fits 320px",
+      "passed": true
+    },
+    {
+      "name": "status shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 320px",
+      "passed": true
+    },
+    {
+      "name": "roadmap shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "registry fits 320px",
+      "passed": true
+    },
+    {
+      "name": "registry shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "studio fits 320px",
+      "passed": true
+    },
+    {
+      "name": "studio shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "rewards fits 320px",
+      "passed": true
+    },
+    {
+      "name": "rewards shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "launchpad fits 320px",
+      "passed": true
+    },
+    {
+      "name": "launchpad shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "explorer fits 320px",
+      "passed": true
+    },
+    {
+      "name": "explorer shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "dashboard fits 320px",
+      "passed": true
+    },
+    {
+      "name": "dashboard shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "coin fits 320px",
+      "passed": true
+    },
+    {
+      "name": "coin shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "optimizer fits 320px",
+      "passed": true
+    },
+    {
+      "name": "optimizer shows full X Pay branding at 320",
+      "passed": true
+    },
+    {
+      "name": "no browser errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

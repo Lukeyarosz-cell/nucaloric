@@ -930,6 +930,11 @@
     "sha256": "3f24765256cd052fa2e69ab743a8100e826799483c5bd2b12a1156a843fecdda"
   },
   {
+    "path": "vault/Evidence/Branding and Own Hardware/live-branding-hardware.json",
+    "bytes": 8929,
+    "sha256": "2419f9434d20a1ed8c0da7f09b6cd7a922f0d0e72e2d74194dfdb5ecf0081525"
+  },
+  {
     "path": "vault/Evidence/Branding and Own Hardware/nuc-brand-review-branding-hardware.json",
     "bytes": 8929,
     "sha256": "2419f9434d20a1ed8c0da7f09b6cd7a922f0d0e72e2d74194dfdb5ecf0081525"
