@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "name": "All 49 tools preserved",
+      "passed": true
+    },
+    {
+      "name": "Search and empty state",
+      "passed": true
+    },
+    {
+      "name": "Category and offline filter combine",
+      "passed": true
+    },
+    {
+      "name": "Registry uses ink panels including offline",
+      "passed": true
+    },
+    {
+      "name": "Creator kit adds four real catalog capabilities",
+      "passed": true
+    },
+    {
+      "name": "Add button does not open details",
+      "passed": true
+    },
+    {
+      "name": "Keyboard opens details and Escape returns focus",
+      "passed": true
+    },
+    {
+      "name": "Shortlist persists across pages",
+      "passed": true
+    },
+    {
+      "name": "Brief preview reflects input and split",
+      "passed": true
+    },
+    {
+      "name": "Save and reload preserves a brief",
+      "passed": true
+    },
+    {
+      "name": "Export downloads a useful Markdown brief",
+      "passed": true
+    },
+    {
+      "name": "Workspace link matches chosen workload",
+      "passed": true
+    },
+    {
+      "name": "Creative kits link to studio",
+      "passed": true
+    },
+    {
+      "name": "Black curtain has white wordmark and no stripes",
+      "passed": true
+    },
+    {
+      "name": "Reduced-motion dot field stays still",
+      "passed": true
+    },
+    {
+      "name": "Explore exposes real public pool search",
+      "passed": true
+    },
+    {
+      "name": "Account shows the locally saved project brief",
+      "passed": true
+    },
+    {
+      "name": "No runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

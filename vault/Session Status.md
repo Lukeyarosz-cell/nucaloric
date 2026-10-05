@@ -23,3 +23,7 @@ Rebuilt the three requested pages and paired roadmap styling after founder feedb
 ## Website walkthrough / October 5
 
 Recorded all 13 pages with normal animations at 1440 × 900. The silent 2:04 MP4 has 13 named chapters, and every footer was reached without browser runtime errors. Saved under `Evidence/Website Walkthrough/`; see [[Website Walkthrough]]. A phone player is available through the existing password-protected remote desktop connection.
+
+## First working integrations / October 5
+
+Implemented live public Solana pool search and saved watchlists, direct-browser official provider checks on the public site, and a multi-project library with milestones and portable JSON backups. Retired fake wallet connection success. See [[Working Features]] for limits and browser evidence.

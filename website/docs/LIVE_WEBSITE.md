@@ -12,4 +12,4 @@ GitHub Pages publishes the root of the `main` branch automatically. HTTPS is enf
 
 ## Runtime limits
 
-GitHub Pages hosts the website frontend. The Node status monitor remains local. On the public site, Status uses the dated snapshot and marks stale provider observations unknown. Live backend checkout, provisioning, terminals and financial execution remain unconfigured. The local preview still provides the live public-feed monitor.
+GitHub Pages hosts the website frontend. The Node status monitor remains local. The public site now checks verified official provider feeds directly in the browser; the local Node status API is still preferred in local preview. Backend connections remain explicitly unconfigured. Live backend checkout, provisioning, terminals and financial execution remain unconfigured. The local preview still provides the live public-feed monitor.

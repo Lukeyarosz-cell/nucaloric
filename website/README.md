@@ -27,3 +27,5 @@ Open `status.html` and `roadmap.html`. Run `node tools/status/server.cjs` for li
 ## Dark creative workspace
 
 Status, Studio and Registry now use ink surfaces, cream type, pink accents, and shared visibility-managed dot motion. The roadmap inherits the matching treatment. See [design direction](docs/DARK_CREATIVE_REBUILD.md) and [validation](docs/DARK_CREATIVE_VALIDATION.json).
+
+Working features (October 5): live public Solana pool search and watchlists, provider checks that work on GitHub Pages, and a project library with milestones and portable backups. See [implementation notes](docs/WORKING_FEATURES.md).

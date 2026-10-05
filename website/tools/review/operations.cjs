@@ -29,15 +29,15 @@ const base=process.env.REVIEW_BASE_URL||'http://127.0.0.1:8080',dir=process.env.
   check('internal failure does not invent Paymenter provider outage',await page.locator('[data-service="paymenter"] .service-signal:nth-child(2) [data-state="unknown"]').count()===1);
   await page.unroute('**/api/service-status');
   const snapshot=JSON.parse(fs.readFileSync(path.resolve(__dirname,'../../data/service-status.json')));snapshot.generatedAt=new Date(Date.now()-3600_000).toISOString();
-  await page.route('**/api/service-status',route=>route.abort());await page.route('**/data/service-status.json',route=>route.fulfill({json:snapshot}));
+  await page.route('**/api/service-status',route=>route.fulfill({json:snapshot}));
   await page.goto(base+'/status.html');await page.locator('.service-row').first().waitFor();
-  check('offline API exposes a dated snapshot warning',(await page.locator('#statusNotice').innerText()).includes('stale'));
+  check('stale monitor exposes expired evidence warning',(await page.locator('#statusNotice').innerText()).includes('stale'));
   check('stale snapshot cannot show green provider health',await page.locator('.service-row .service-signal:nth-child(2) [data-state="operational"]').count()===0);
-  check('offline API does not claim current website health',await page.locator('#ownHealth [data-state="operational"]').count()===0);
+  check('stale monitor does not claim current website health',await page.locator('#ownHealth [data-state="operational"]').count()===0);
   check('snapshot preserves integration readiness separately',await page.locator('.service-row .service-signal:last-child [data-state="not_connected"]').count()===17);
-  await page.route('**/data/service-status.json',route=>route.abort());await page.locator('#refreshStatus').click();await page.waitForFunction(()=>document.querySelector('#statusNotice').textContent.includes('saved observations are unavailable'));
-  check('missing API and snapshot are unknown, never all operational',await page.locator('.service-row [data-state="operational"]').count()===0);
-  await page.unroute('**/api/service-status');await page.unroute('**/data/service-status.json');
+  await page.route('**/api/service-status',route=>route.abort());for(const service of JSON.parse(fs.readFileSync(path.resolve(__dirname,'../../data/services.json'))).services){if(service.statusSource)await page.route(service.statusSource.url,route=>route.abort());}await page.route('**/data/service-status.json',route=>route.abort());await page.locator('#refreshStatus').click();await page.waitForFunction(()=>document.querySelector('#statusNotice').textContent.includes('0 of 17'));
+  check('unreadable public feeds are unknown, never all operational',await page.locator('.service-row [data-state="operational"]').count()===0);
+  await page.unroute('**/api/service-status');await page.unroute('**/data/service-status.json');for(const service of JSON.parse(fs.readFileSync(path.resolve(__dirname,'../../data/services.json'))).services){if(service.statusSource)await page.unroute(service.statusSource.url);}
   for(const name of ['status','roadmap']){await page.setViewportSize({width:390,height:844});await page.goto(base+'/'+name+'.html');await page.locator(name==='status'?'.service-row':'.roadmap-stage').first().waitFor();check(name+' mobile has no horizontal overflow',await page.evaluate(()=>document.documentElement.scrollWidth===innerWidth));await page.screenshot({path:path.join(dir,name+'-390.png'),fullPage:true});}
   check('no browser execution errors',errors.length===0);
  }finally{fs.writeFileSync(path.join(dir,'operations.json'),JSON.stringify({checks,errors},null,2));await b.close();}

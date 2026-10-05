@@ -27,3 +27,7 @@ Website: [service status](http://127.0.0.1:8080/status.html) · [implementation 
 | [[GitHub|GitHub]] | Developer tools | Foundation & visibility |
 
 Canonical website register: `data/services.json`. Update this register and the corresponding notes together. Public provider feeds require no API credentials; developer and merchant account approvals cannot be granted by installing a package.
+
+## Implemented public market access
+
+[[DEX Screener]] supplies the live read-only Explore and pool-detail workflow. This supplements the deployment/status register above. See [[Working Features]].

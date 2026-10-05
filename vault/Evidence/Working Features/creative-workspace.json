@@ -1,0 +1,105 @@
+{
+  "checks": [
+    {
+      "name": "status signal artwork animates",
+      "passed": true
+    },
+    {
+      "name": "pause control freezes the canvas",
+      "passed": true
+    },
+    {
+      "name": "pause announces its state",
+      "passed": true
+    },
+    {
+      "name": "motion preference survives page navigation",
+      "passed": true
+    },
+    {
+      "name": "resume restarts the shared dot motion",
+      "passed": true
+    },
+    {
+      "name": "each capability family has a dot composition",
+      "passed": true
+    },
+    {
+      "name": "reduced motion is static",
+      "passed": true
+    },
+    {
+      "name": "reduced motion cannot be bypassed with the pause toggle",
+      "passed": true
+    },
+    {
+      "name": "three project chapters are directly reachable",
+      "passed": true
+    },
+    {
+      "name": "draft detail meter reflects real entered fields",
+      "passed": true
+    },
+    {
+      "name": "chapter navigation reaches the evidence section",
+      "passed": true
+    },
+    {
+      "name": "refresh preserves open provider evidence",
+      "passed": true
+    },
+    {
+      "name": "status fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 1440px",
+      "passed": true
+    },
+    {
+      "name": "status fits 390px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 390px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 390px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 390px",
+      "passed": true
+    },
+    {
+      "name": "status fits 320px",
+      "passed": true
+    },
+    {
+      "name": "studio fits 320px",
+      "passed": true
+    },
+    {
+      "name": "registry fits 320px",
+      "passed": true
+    },
+    {
+      "name": "roadmap fits 320px",
+      "passed": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

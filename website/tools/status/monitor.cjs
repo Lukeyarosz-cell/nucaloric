@@ -3,30 +3,7 @@ const path = require('node:path');
 const catalog = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/services.json')));
 const TTL = 60_000, STALE_AFTER = 180_000;
 const ownConnectors=[{id:'project-api',name:'Project API & identity'},{id:'workspace-provisioner',name:'Workspace provisioner'},{id:'terminal-gateway',name:'Terminal gateway'},{id:'ai-gateway',name:'AI gateway'}];
-const ranks = { operational: 0, maintenance: 1, degraded: 2, outage: 3, unknown: 4 };
-const codes = { operational: 'operational', degraded_performance: 'degraded', partial_outage: 'degraded', major_outage: 'outage', under_maintenance: 'maintenance', degraded: 'degraded', outage: 'outage', maintenance: 'maintenance' };
-function worst(states) { return states.length ? states.reduce((a,b) => ranks[b] > ranks[a] ? b : a, 'operational') : 'unknown'; }
-function parseProvider(body, source) {
-  let components, reports, updatedAt, overall;
-  if (source.kind === 'statuspage') {
-    if (!Array.isArray(body.components) || !body.page || !Array.isArray(body.incidents)) throw new Error('schema');
-    components = body.components.map(c => ({ id: c.id, name: c.name, status: codes[c.status] || 'unknown' }));
-    reports = body.incidents.filter(i => !['resolved','postmortem'].includes(i.status)).map(i => ({ name: i.name, state: i.status, ids: (i.components || []).map(c=>c.id), url: i.shortlink || source.page, updatedAt: i.updated_at }));
-    updatedAt = body.page.updated_at; overall = body.status?.description || 'Provider summary unavailable';
-  } else if (source.kind === 'statuspal') {
-    if (!body.data?.attributes || !Array.isArray(body.included)) throw new Error('schema');
-    components = body.included.filter(c=>c.type === 'status_page_resource').map(c=>({ id:c.id, name:c.attributes.public_name || c.attributes.name, status: codes[c.attributes.state] || codes[c.attributes.status] || 'unknown' }));
-    reports = body.included.filter(i=>i.type === 'status_report' && !i.attributes?.resolved_at).map(i=>({ name:i.attributes.title || 'Provider incident', state:i.attributes.state || 'investigating', ids:(i.relationships?.resources?.data || []).map(c=>c.id), url:source.page, updatedAt:i.attributes.updated_at }));
-    updatedAt = body.data.attributes.updated_at; overall = body.data.attributes.aggregate_state || 'unknown';
-  } else throw new Error('adapter');
-  const selected = source.components.map(name => components.find(c=>c.name === name) || { name, status:'unknown', id:null });
-  const ids = new Set(selected.map(c=>c.id).filter(Boolean));
-  const incidents = reports.map(i=>({ name:String(i.name).slice(0,240), state:String(i.state).slice(0,40), url:source.page, updatedAt:i.updatedAt || null, scope:i.ids.some(id=>ids.has(id)) ? 'selected' : i.ids.length ? 'other' : 'unconfirmed' }));
-  const active = incidents.some(i=>i.scope === 'selected');
-  let status = worst(selected.map(c=>c.status));
-  if (active && status === 'operational') status = 'degraded';
-  return { status, components:selected.map(({name,status})=>({name,status})), incidents, providerSummary:String(overall).slice(0,200), providerUpdatedAt:updatedAt || null };
-}
+const {parseProvider}=require('../../provider-status.js');
 async function getJSON(url, options={}) {
   const response = await fetch(url, { ...options, redirect:'error', signal:AbortSignal.timeout(10_000), headers:{ Accept:'application/json', ...options.headers } });
   if (!response.ok) throw new Error('fetch');
