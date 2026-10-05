@@ -1,0 +1,36 @@
+{
+  "reviewedAt": "2026-10-05",
+  "pagesRebuilt": [
+    "status",
+    "studio",
+    "registry"
+  ],
+  "pairedPage": "roadmap",
+  "browser": "Playwright-paired Chromium 153.0.8010.12",
+  "suites": {
+    "creative-workspace": {
+      "passed": 25,
+      "failed": 0
+    },
+    "operations": {
+      "passed": 23,
+      "failed": 0
+    },
+    "interactions": {
+      "passed": 18,
+      "failed": 0
+    },
+    "responsive": {
+      "passed": 22,
+      "failed": 0
+    }
+  },
+  "newPageWidths": [
+    1440,
+    390,
+    320
+  ],
+  "localAssetLinks": "All 13 pages pass",
+  "sourceJS": "Syntax checks pass",
+  "nativeBraveReview": "Brave 154 headless intermittently segfaulted; complete suites passed in isolated paired Chromium. Desktop Brave settings unchanged."
+}

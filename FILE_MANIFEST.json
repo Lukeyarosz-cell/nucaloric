@@ -786,13 +786,18 @@
   },
   {
     "path": "vault/Capability Registry.md",
-    "bytes": 856,
-    "sha256": "29278436f505adaa10791c0a97ef3b14c4f6ca1adb8376693a9f2a39bc30d99e"
+    "bytes": 1169,
+    "sha256": "888c954026e92d4f737884160553eb541ab99fc08aa4b4a3ae46953b0f9e27ee"
   },
   {
     "path": "vault/Creative Refresh.md",
-    "bytes": 3329,
-    "sha256": "6c9102c966636357dfc7ea74a0af6ffe5a1a1a1889991ffc3b30b08d7191f723"
+    "bytes": 3568,
+    "sha256": "ba1ff90b568c935b18f0cf49ef9a109188ef01197f7e0871e57bef7a81f07e36"
+  },
+  {
+    "path": "vault/Dark Creative Rebuild.md",
+    "bytes": 4140,
+    "sha256": "a66f9ec50b63fa18bf6d1d1c380d92a861dd8152f6d0a8652cbb15da9a8dbf52"
   },
   {
     "path": "vault/Data and Persistence.md",
@@ -801,8 +806,8 @@
   },
   {
     "path": "vault/Design System.md",
-    "bytes": 4593,
-    "sha256": "e44945fffd5bba9540baf01014dbfaf10b52ae61ca91d0fdc22975a6843705f2"
+    "bytes": 4887,
+    "sha256": "ada9f49345b8f32aa7c250f2ec2b645d3392df3dbc89e0b0f351522ddb7b0507"
   },
   {
     "path": "vault/Dot Motion Update.md",
@@ -978,6 +983,111 @@
     "path": "vault/Evidence/Creative Refresh/studio-390.png",
     "bytes": 174299,
     "sha256": "709379d9acbbeed3b57fc3ba642055ea1853905403fd23e95bacce19d2992ad7"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/creative-workspace.json",
+    "bytes": 2046,
+    "sha256": "8b41fc7278d4c3300489c564899186a237d19965ce097736711bb66a8e60deac"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/index-1440.png",
+    "bytes": 531019,
+    "sha256": "7a697e455152b4136aa8791f3eb7cfc5c09d385c5af6afa6eb51902d7a8a0f01"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/index-390.png",
+    "bytes": 337812,
+    "sha256": "a2a5ed4e7ea551b470f6a0179eb09fccdf02051c632b39033c58ffbf3b72d35c"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/interactions.json",
+    "bytes": 1613,
+    "sha256": "eb0763e1294db9caa5ca57654421a1fd23f8bada576be3bbb23f8da39367bba7"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/operations.json",
+    "bytes": 2255,
+    "sha256": "124bc79b63e4da579263f54ec9f250c198c68e8cbc0f4b4330df6c8ba9625ce0"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/registry-1440.png",
+    "bytes": 922711,
+    "sha256": "063a8ab23d386c45edcf7be6f8b0ab996afb743e97e99d900e100cc934e0cab5"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/registry-390.png",
+    "bytes": 821829,
+    "sha256": "e3c58ff1d7c71c179a80ac429770d8913a816fc25c7bcbb5819a9d526337b5fe"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/registry-body.png",
+    "bytes": 290934,
+    "sha256": "ce5803a18cb093e25540cfccf4987b4cb1eb1f38bc6d8c4590ae07fb539f7bab"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/registry-top.png",
+    "bytes": 294731,
+    "sha256": "bfbe7d4b5f176f62f33ba690cb77b540d252247ef84a071848c092eab0654b85"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/responsive.json",
+    "bytes": 2255,
+    "sha256": "1b29ac21b5a566391d9a29ee57cdbf84bb6e729c600dfccd8e893b9ed0d0f74b"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/roadmap-1440.png",
+    "bytes": 416293,
+    "sha256": "0dc07f46958b261d847a873ae4d9cc6bc2179a0a62c79dbe57d55b9fd5e982c9"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/roadmap-390.png",
+    "bytes": 328895,
+    "sha256": "48b9130abca4a8f74bf06b1fd9b8df0a65d034ac68b23e37b2899f69e55e9e5d"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/status-1440.png",
+    "bytes": 407248,
+    "sha256": "1f54352c6829493bc9ebf3853eb04788f13b4552964e9d31ec35239584c1ddc2"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/status-390.png",
+    "bytes": 388305,
+    "sha256": "ed37e0edb3dd502480645d78e1862134502bc4f5709870d4625737eb6f215aac"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/status-body.png",
+    "bytes": 83182,
+    "sha256": "0e4548153483111544d9f5baf71739682d9136686efba825feb814d5ddbff48a"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/status-top.png",
+    "bytes": 92522,
+    "sha256": "54b72a81352ad8e93d509656490a2ed64cdfc7084c3c8d894388035809ee183f"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/studio-1440.png",
+    "bytes": 265962,
+    "sha256": "0855243c48a26df4d6f38ff7d383b7e75db68a4850de2263c2cc214da85bc2b2"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/studio-390.png",
+    "bytes": 202551,
+    "sha256": "fe70b23d883ffb217df04ca914cb4a4373888ff50e2eb3abdbbf6c5f96f3a0e4"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/studio-body.png",
+    "bytes": 114037,
+    "sha256": "158107115c3330fe131933439330980afcb6a9deaa3241a9eb7e01d25513587f"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/studio-top.png",
+    "bytes": 110360,
+    "sha256": "0788af1dffd0f458e0297d904dd793080ea9e1d79498bf7860c28ef065d5176e"
+  },
+  {
+    "path": "vault/Evidence/Dark Creative Rebuild/validation.json",
+    "bytes": 762,
+    "sha256": "a9c478ffc3b32f52eb084ee6d4b5c8271a0af5d323fc9d7783a488d3bdb498ec"
   },
   {
     "path": "vault/Evidence/Dot Motion Update/dot-results.json",
@@ -1361,8 +1471,8 @@
   },
   {
     "path": "vault/Future Site Motion.md",
-    "bytes": 6798,
-    "sha256": "9462f098743bf1ab41d063c9758bb9591cb2d07c1f0944d261d76c79e9ffc257"
+    "bytes": 7030,
+    "sha256": "095ad293923d6b552b8fbb03b34e8e691f680be03bad2695c3b283d628c05032"
   },
   {
     "path": "vault/GitHub Setup.md",
@@ -1576,13 +1686,13 @@
   },
   {
     "path": "vault/Session Status.md",
-    "bytes": 1509,
-    "sha256": "06829043d597fca65556fe95456a5d84d4f674316311ff308fdc74b8278f7da6"
+    "bytes": 1768,
+    "sha256": "fc9a64cb89dba9cf5dfe2c893b3d808cb1162384b47c5a00075cc4ca3c183011"
   },
   {
     "path": "vault/Start Here.md",
-    "bytes": 1507,
-    "sha256": "2b8ea4d5bf21fd47f70c30c62ac9a1c517deef671a63d3ea13f5dc774eac87bb"
+    "bytes": 1665,
+    "sha256": "6e76a482b6171e11c8293bed81878ea34b87cea658c195c7f73f6787415f8fd7"
   },
   {
     "path": "website/.gitignore",
@@ -1606,8 +1716,8 @@
   },
   {
     "path": "website/README.md",
-    "bytes": 2140,
-    "sha256": "19e4260dadc4d8d76aef05f17d16b20da621ee515644a5a93b5c569f393851a9"
+    "bytes": 2440,
+    "sha256": "c11a068694bb91dd5dda42486717a584fd477b87d50dd9431c56a924988651fe"
   },
   {
     "path": "website/app.js",
@@ -1755,6 +1865,16 @@
     "sha256": "469393e4fc036f0c685635838d7dbcfdc988653746a937468b76385fee8e8966"
   },
   {
+    "path": "website/creative-workspace.css",
+    "bytes": 33956,
+    "sha256": "7b44e5ce7e3e432292388279eb7edbc24dd1ee17ba06440327e7354764405dfa"
+  },
+  {
+    "path": "website/creative-workspace.js",
+    "bytes": 3075,
+    "sha256": "7530dd944d289cd6bc0963c019f676f7d7e9a453b73e0263f5c9efe0797823dd"
+  },
+  {
     "path": "website/dashboard.html",
     "bytes": 7892,
     "sha256": "e06c4a3fa467303497dd8830223002845333e5ec79c120e5a90e29bb37d6eb65"
@@ -1783,6 +1903,16 @@
     "path": "website/docs/CREATIVE_REFRESH.md",
     "bytes": 3329,
     "sha256": "6c9102c966636357dfc7ea74a0af6ffe5a1a1a1889991ffc3b30b08d7191f723"
+  },
+  {
+    "path": "website/docs/DARK_CREATIVE_REBUILD.md",
+    "bytes": 3780,
+    "sha256": "945392a5e532514132db4bae5bcd1523b82bde0c7338fc977efc0f5abb8bd0b3"
+  },
+  {
+    "path": "website/docs/DARK_CREATIVE_VALIDATION.json",
+    "bytes": 762,
+    "sha256": "a9c478ffc3b32f52eb084ee6d4b5c8271a0af5d323fc9d7783a488d3bdb498ec"
   },
   {
     "path": "website/docs/DOT_MOTION_UPDATE.md",
@@ -1876,8 +2006,8 @@
   },
   {
     "path": "website/operations.js",
-    "bytes": 10473,
-    "sha256": "aa487be9d4bb9c9cf8abfdcb746ee4e766eda2a8424c578e7cddd86a18758ccc"
+    "bytes": 10951,
+    "sha256": "6fd2eafb4d1f1f30ff468df92f91ca2a569633a63b9471e9fd16f36fdcfbbc54"
   },
   {
     "path": "website/optimizer.html",
@@ -1891,13 +2021,13 @@
   },
   {
     "path": "website/refresh.js",
-    "bytes": 13265,
-    "sha256": "d8ce1e02c124839f71ac24429467a86991292fd7e5e78dcca1fc2719e4472936"
+    "bytes": 14111,
+    "sha256": "4d4176b6cc59e062cf326258ee9e7a8452af141d7f60600bc3a0b70855ef7587"
   },
   {
     "path": "website/registry.html",
-    "bytes": 51190,
-    "sha256": "d604b16882632fe4fcb97f8d96d280f2a1ab9537db468dd3c88f76f2c946e64b"
+    "bytes": 45766,
+    "sha256": "34da35137d2cb59b08f871674bce43d77b623dae472338b069601fcca8fc7ac4"
   },
   {
     "path": "website/rewards.html",
@@ -1906,18 +2036,18 @@
   },
   {
     "path": "website/roadmap.html",
-    "bytes": 5422,
-    "sha256": "8b7a5966a69c6ef3af970f9e5558532fe967bb28cadd9cb8b1ab6ddaed9e5393"
+    "bytes": 5822,
+    "sha256": "92647acc0ea54fc540346c94b8a58f50bdfd8f713b632b9269be73e698e91246"
   },
   {
     "path": "website/status.html",
-    "bytes": 6277,
-    "sha256": "8eef4fdd1817c6456fa43a7eb7300bdc2bb5cd964fd0fde803a8ed557cab4d8e"
+    "bytes": 6874,
+    "sha256": "d90ad84b656bcb53a5173c7396847626615498085834d45935d9b0ed7400dccc"
   },
   {
     "path": "website/studio.html",
-    "bytes": 7867,
-    "sha256": "b56a8a11bf18b770aae1b4edbacb07f84006ea64ff88a073cb36280616fa0900"
+    "bytes": 9517,
+    "sha256": "274419fe49d3386e678e170ccb234ff4bb6e8b3ee38480010370c15d37e62c91"
   },
   {
     "path": "website/styles.css",
@@ -1966,23 +2096,28 @@
   },
   {
     "path": "website/tools/review/README.md",
-    "bytes": 857,
-    "sha256": "d1530a712d3bdaed510cc16b60ea962227729c10a5421e16c6948c52a47b3dc6"
+    "bytes": 1853,
+    "sha256": "8f70d7d415f8e09b6da89c2a7ef4d2b1c44497cec11f40c3b7636d4af6b4e431"
+  },
+  {
+    "path": "website/tools/review/creative-workspace.cjs",
+    "bytes": 4480,
+    "sha256": "48e0c818bb8cc479dd47a69344d9b1be74134ae38718fc152f9561a7195c2b2f"
   },
   {
     "path": "website/tools/review/interactions.cjs",
-    "bytes": 6516,
-    "sha256": "cacf05a9463e0dcaf6e30cada8ca195afb8d4040a4e4c82ff79847b1bd0dccd0"
+    "bytes": 6602,
+    "sha256": "2ad1e59484e24e8e56798c130ea701ea8ff3ea9ae9ae669939553df096dd10d8"
   },
   {
     "path": "website/tools/review/operations.cjs",
-    "bytes": 6619,
-    "sha256": "8be595c98d0d6f68a4bb3a3966dba28f18ed48843c53a5e3a375e9188687114c"
+    "bytes": 6714,
+    "sha256": "ec1299aeb5dca9115123dbddfdf929813911eb866473c59738f4e92235cc93cc"
   },
   {
     "path": "website/tools/review/responsive.cjs",
-    "bytes": 1198,
-    "sha256": "45210ff308212f428b28854e790a2b1e1e466cabbab2c3c60652b7d7a8749e30"
+    "bytes": 1293,
+    "sha256": "7631ea0731fd60d639f4140a7a71a48c4aa9393374ef939cdbb181078c00e104"
   },
   {
     "path": "website/tools/status/.env.example",

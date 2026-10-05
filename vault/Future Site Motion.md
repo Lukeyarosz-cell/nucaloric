@@ -72,3 +72,7 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 ## October 5 implementation
 
 The new website uses dot horizons, arched fields, signal waves, and ripples. Striped navigation, rotating Registry sculpture, and the demonstration cursor were retired. See [[Creative Refresh]]. The approved video remains a separate creative reference.
+
+## Latest dark workspace implementation
+
+[[Dark Creative Rebuild]] adds breathing bloom and crossing weave patterns, a shared 30fps dot clock, pause/resume, and once-only section entrances. This is the current workspace direction.

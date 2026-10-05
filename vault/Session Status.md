@@ -15,3 +15,7 @@ Paymenter checkout, provisioning, live CLI access, ownership verification, and r
 ## Service documentation and visibility / 2026-10-05
 
 Added 17 official-source integration notes, a live public-feed monitor, a separate provider/NUCALORIC status page, and a seven-stage implementation roadmap. Installed isolated read-only Solana/Meteora/X tools. Production account/merchant access and Paymenter portal remain unconfigured. See [[Integration Index]], [[Service Monitoring]], and [[API Access Setup]].
+
+## Dark creative workspace rebuild / October 5
+
+Rebuilt the three requested pages and paired roadmap styling after founder feedback about excess white. See [[Dark Creative Rebuild]] for current parameters, source files, motion behavior and browser evidence.

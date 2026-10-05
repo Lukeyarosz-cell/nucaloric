@@ -67,3 +67,7 @@ See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced b
 ## October 5 creative refresh
 
 [[Creative Refresh]] supersedes the stripe-transition and rotating-sculpture website directions above. Use black, paper, and pale pink; neutral supporting grays; editorial Registry rows; slow visibility-managed dot topography; and a black curtain with white chapter copy.
+
+## Latest dark workspace direction / October 5
+
+[[Dark Creative Rebuild]] supersedes the cream Registry and Studio surfaces. Use ink surfaces, cream type, pale pink accents, bold local Manrope headlines, and visibility-managed dot motion for Status, Studio, Registry and the matching roadmap.

@@ -37,3 +37,7 @@ Evidence is in `Evidence/Creative Refresh`. Automated checks cover 11 pages at d
 - GitHub collection: `/home/luke/Projects/nucaloric-github`
 
 Related: [[Launchpad Research]], [[Ad Asset Pack]], [[Design System]], [[Future Site Motion]].
+
+## Superseded workspace surfaces
+
+The founder rejected the large cream areas on Status, Studio and Registry. [[Dark Creative Rebuild]] is the current direction for those pages; the earlier cream editorial treatments above are historical.

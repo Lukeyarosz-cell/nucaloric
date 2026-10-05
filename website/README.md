@@ -23,3 +23,7 @@ Creative refresh (October 5): monochrome chapter transitions, neutral three-colo
 ## Service visibility and implementation
 
 Open `status.html` and `roadmap.html`. Run `node tools/status/server.cjs` for live provider observations; static previews show a clearly dated snapshot. See [service monitoring](docs/SERVICE_MONITORING.md), [API access](docs/API_ACCESS.md), and the canonical [service register](data/services.json). SDK tooling is separate from the dependency-free website server.
+
+## Dark creative workspace
+
+Status, Studio and Registry now use ink surfaces, cream type, pink accents, and shared visibility-managed dot motion. The roadmap inherits the matching treatment. See [design direction](docs/DARK_CREATIVE_REBUILD.md) and [validation](docs/DARK_CREATIVE_VALIDATION.json).

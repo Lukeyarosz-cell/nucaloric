@@ -1,7 +1,7 @@
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright'),fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const base=process.env.REVIEW_BASE_URL||'http://127.0.0.1:8080',dir=process.env.REVIEW_OUTPUT||path.resolve(__dirname,'../../docs/review-results');
 (async()=>{
- fs.mkdirSync(dir,{recursive:true});const b=await chromium.launch({executablePath:'/usr/bin/brave',headless:true});const page=await b.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});const checks=[],errors=[];page.on('pageerror',e=>errors.push(e.message));
+ fs.mkdirSync(dir,{recursive:true});const b=await chromium.launch({executablePath:process.env.REVIEW_BROWSER==='bundled'?chromium.executablePath():(process.env.REVIEW_BROWSER||'/usr/bin/brave'),headless:true});const page=await b.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});const checks=[],errors=[];page.on('pageerror',e=>errors.push(e.message));
  const check=(name,passed)=>{checks.push({name,passed});assert.ok(passed,name);};
  try{
   await page.goto(base+'/status.html');await page.locator('.service-row').first().waitFor();
