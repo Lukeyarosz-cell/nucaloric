@@ -1,0 +1,39 @@
+{
+  "videos": [
+    {
+      "file": "make-landscape-6s-30fps.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 180,
+      "fps": 30,
+      "seconds": 6,
+      "audio": false,
+      "full_decode": "passed"
+    },
+    {
+      "file": "make-portrait-6s-30fps.mp4",
+      "width": 1080,
+      "height": 1920,
+      "frames": 180,
+      "fps": 30,
+      "seconds": 6,
+      "audio": false,
+      "full_decode": "passed"
+    },
+    {
+      "file": "together-square-6s-30fps.mp4",
+      "width": 1080,
+      "height": 1080,
+      "frames": 180,
+      "fps": 30,
+      "seconds": 6,
+      "audio": false,
+      "full_decode": "passed"
+    }
+  ],
+  "stills": {
+    "svg": 9,
+    "png": 9,
+    "png_decode": "passed"
+  }
+}

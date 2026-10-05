@@ -32,3 +32,11 @@ Use [[Motion Style Guide]] as the visual reference. The founder explicitly appro
 - [ ] Evaluate halftone and original SVG logo reveals in selected editorial sections.
 
 The first five items have an implemented site adaptation; Registry uses the sphere option. See [[Approved Site Motion]] for results. Broader halftone treatments remain exploratory. Product integration work and the existing usability fixes remain on the roadmap.
+
+## From the creative refresh
+
+- Connect Studio drafts to authenticated project accounts and public project profiles.
+- Verify repository/domain ownership rather than treating pasted links as proof.
+- Track real project milestones and useful releases in discovery.
+- Design audited income routing only after backend and program requirements are specified.
+- Validate adoption hypotheses with dated original social posts and real usage, not price rankings.

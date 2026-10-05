@@ -63,3 +63,7 @@ The founder requested applying the approved style to the website. Implemented a 
 ## Latest site revision
 
 See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced by an interactive project starter, and stripe navigation has been slowed. Earlier descriptions of those two effects describe the prior implementation. The approved promo reel remains unchanged.
+
+## October 5 creative refresh
+
+[[Creative Refresh]] supersedes the stripe-transition and rotating-sculpture website directions above. Use black, paper, and pale pink; neutral supporting grays; editorial Registry rows; slow visibility-managed dot topography; and a black curtain with white chapter copy.

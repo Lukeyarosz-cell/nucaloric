@@ -68,3 +68,7 @@ A morphing Registry grid, broader halftone section reveals and interactive WebGL
 ## Latest site revision
 
 See [[Project Workspace Redesign]]. The homepage glossy loop has been replaced by an interactive project starter, and stripe navigation has been slowed. Earlier descriptions of those two effects describe the prior implementation. The approved promo reel remains unchanged.
+
+## October 5 implementation
+
+The new website uses dot horizons, arched fields, signal waves, and ripples. Striped navigation, rotating Registry sculpture, and the demonstration cursor were retired. See [[Creative Refresh]]. The approved video remains a separate creative reference.

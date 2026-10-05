@@ -1,0 +1,8 @@
+/* npm install playwright; node render-assets.cjs. Requires FFmpeg and Brave. */
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright'),fs=require('fs'),path=require('path'),{spawnSync}=require('child_process');
+(async()=>{const root=path.resolve(__dirname,'..'),b=await chromium.launch({executablePath:'/usr/bin/brave'}),p=await b.newPage();
+for(const [fmt,w,h] of [['landscape',1920,1080],['portrait',1080,1920],['square',1080,1080]]){await p.setViewportSize({width:w,height:h});for(const name of ['make','mind','together']){await p.goto('http://127.0.0.1:8081/stills/'+name+'-'+fmt+'.svg');await p.screenshot({path:root+'/stills/'+name+'-'+fmt+'.png'});console.log('Still',name,fmt);}}
+await p.goto('http://127.0.0.1:8081/source/motion-template.html');await p.evaluate(()=>window.ready);
+for(const [fmt,w,h,concept] of [['landscape',1920,1080,'make'],['portrait',1080,1920,'make'],['square',1080,1080,'together']]){const frames='/tmp/nucaloric-ad-frames-'+fmt;fs.mkdirSync(frames,{recursive:true});for(let i=0;i<180;i++){const png=await p.evaluate(([t,w,h,concept])=>window.drawAd(t,w,h,concept),[i/30,w,h,concept]);fs.writeFileSync(frames+'/'+String(i).padStart(4,'0')+'.jpg',Buffer.from(png,'base64'));if(i%60===0)console.log('Motion frames',fmt,i+'/180');}
+const out=root+'/motion/'+concept+'-'+fmt+'-6s-30fps.mp4';const result=spawnSync('ffmpeg',['-y','-xerror','-v','error','-framerate','30','-i',frames+'/%04d.jpg','-c:v','libx264','-preset','fast','-crf','18','-pix_fmt','yuv420p','-movflags','+faststart',out],{stdio:'inherit'});if(result.status)throw Error('FFmpeg failed');fs.rmSync(frames,{recursive:true,force:true});console.log('Rendered',out);}
+await b.close()})();

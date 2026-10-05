@@ -24,3 +24,9 @@ Open http://localhost:8080. Paymenter purchases, hosting provisioning, and termi
 This repository is prepared for Git LFS for video, audio, and ZIP assets. Install Git LFS and run `git lfs install` before staging or uploading. Source files remain standard Git files.
 
 Private chat histories, credentials, editor caches, and logs are excluded.
+
+## October 5 creative refresh
+
+The current website adds a creative Project Studio, a capability shortlist, purpose-based project kits, project discovery filters, monochrome chapter transitions, and quieter dot motion. See `website/docs/CREATIVE_REFRESH.md` and `website/docs/LAUNCHPAD_RESEARCH.md`.
+
+`ad-assets/creative-refresh-2026-10-05/` contains nine editable SVGs, nine PNGs, three silent motion clips, source files, and an asset gallery. A ZIP of that pack is alongside the folder.

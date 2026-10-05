@@ -1,14 +1,9 @@
 # GitHub setup
-Local `.git` exists. At inspection it had no commits, no remote, and all source files were untracked. GitHub CLI reports no authenticated hosts; VS Code account sign-in does not establish CLI authentication. Repository URL/name is pending user input.
 
-No remote repository was created and no code was uploaded in this resumed session.
+Private repository: https://github.com/Lukeyarosz-cell/nucaloric
 
-```bash
-gh auth login
-cd /home/luke/Projects/nucaloric-site
-git status
-```
+Working collection: `/home/luke/Projects/nucaloric-github`. Website source: `website/`; promotional projects: `promo/`; Obsidian vault: `vault/`; creative ad pack: `ad-assets/`.
 
-Choose the intended repository and configure your actual author identity before the first commit. Then commit the reviewed files and attach the supplied remote. For a new repository, prefer private visibility unless explicitly requested otherwise. `.gitignore` excludes dependencies, dotenv files, and logs.
+Authenticated GitHub CLI and Git LFS are configured. The repository uses the GitHub-provided no-reply author email. Video, audio, and ZIP files are stored with LFS. Clone with Git LFS installed to obtain the media contents.
 
-Documentation and review artifacts are prepared locally. Do not commit credentials or the private conversation archive to a public repository.
+`nucaloric-site` is the local authoring/preview folder. Sync its files into `nucaloric-github/website` before committing. Keep private chat transcripts, credentials, caches, and environment secrets out of the repository.

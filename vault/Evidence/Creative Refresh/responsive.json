@@ -1,0 +1,137 @@
+{
+  "checks": [
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "registry",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "studio",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "launchpad",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "explorer",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "hosting",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "dashboard",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "rewards",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "coin",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "optimizer",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "ecosystem",
+      "width": 1440,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "registry",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "studio",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "launchpad",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "explorer",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "hosting",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "dashboard",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "rewards",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "coin",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "optimizer",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    },
+    {
+      "page": "ecosystem",
+      "width": 390,
+      "overflow": 0,
+      "passed": true
+    }
+  ],
+  "errors": []
+}
