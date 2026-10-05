@@ -1,0 +1,38 @@
+[
+  {
+    "page": "index",
+    "errors": []
+  },
+  {
+    "page": "explorer",
+    "errors": []
+  },
+  {
+    "page": "coin",
+    "errors": []
+  },
+  {
+    "page": "launchpad",
+    "errors": []
+  },
+  {
+    "page": "optimizer",
+    "errors": []
+  },
+  {
+    "page": "rewards",
+    "errors": []
+  },
+  {
+    "page": "ecosystem",
+    "errors": []
+  },
+  {
+    "page": "registry",
+    "errors": []
+  },
+  {
+    "page": "dashboard",
+    "errors": []
+  }
+]

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.10">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p60" frameDuration="1/60s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="r2" name="NUCALORIC-motion-reel-silent.mp4" start="0s" duration="16s" hasVideo="1" hasAudio="0" format="r1" videoSources="1">
+      <media-rep kind="original-media" src="file:///home/luke/Projects/nucaloric-promo/v3/output/NUCALORIC-motion-reel-silent.mp4" />
+    </asset>
+    <asset id="r3" name="soundtrack-16s.wav" start="0s" duration="16s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///home/luke/Projects/nucaloric-promo/v3/output/soundtrack-16s.wav" />
+    </asset>
+  </resources>
+  <library>
+    <event name="NUCALORIC motion reel">
+      <project name="NUCALORIC / 16 seconds / 60fps">
+        <sequence format="r1" duration="16s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip ref="r2" name="Motion reel picture" offset="0s" start="0s" duration="16s" format="r1">
+              <asset-clip ref="r3" name="User supplied soundtrack" lane="-1" offset="0s" start="0s" duration="16s" audioRole="music" />
+              <marker start="0/60s" duration="1/60s" value="Beat 1" />
+              <marker start="0/60s" duration="1/60s" value="kinetic-type" />
+              <marker start="29/60s" duration="1/60s" value="Beat 2" />
+              <marker start="53/60s" duration="1/60s" value="Beat 3" />
+              <marker start="80/60s" duration="1/60s" value="Beat 4" />
+              <marker start="109/60s" duration="1/60s" value="morph-grid" />
+              <marker start="111/60s" duration="1/60s" value="Beat 5" />
+              <marker start="134/60s" duration="1/60s" value="Beat 6" />
+              <marker start="162/60s" duration="1/60s" value="Beat 7" />
+              <marker start="190/60s" duration="1/60s" value="Beat 8" />
+              <marker start="218/60s" duration="1/60s" value="particle-sphere" />
+              <marker start="218/60s" duration="1/60s" value="Beat 9" />
+              <marker start="242/60s" duration="1/60s" value="Beat 10" />
+              <marker start="271/60s" duration="1/60s" value="Beat 11" />
+              <marker start="298/60s" duration="1/60s" value="Beat 12" />
+              <marker start="327/60s" duration="1/60s" value="glossy-blobs" />
+              <marker start="327/60s" duration="1/60s" value="Beat 13" />
+              <marker start="353/60s" duration="1/60s" value="Beat 14" />
+              <marker start="380/60s" duration="1/60s" value="Beat 15" />
+              <marker start="410/60s" duration="1/60s" value="Beat 16" />
+              <marker start="436/60s" duration="1/60s" value="dashboard" />
+              <marker start="436/60s" duration="1/60s" value="Beat 17" />
+              <marker start="462/60s" duration="1/60s" value="Beat 18" />
+              <marker start="490/60s" duration="1/60s" value="Beat 19" />
+              <marker start="520/60s" duration="1/60s" value="Beat 20" />
+              <marker start="547/60s" duration="1/60s" value="Beat 21" />
+              <marker start="573/60s" duration="1/60s" value="Beat 22" />
+              <marker start="600/60s" duration="1/60s" value="Beat 23" />
+              <marker start="627/60s" duration="1/60s" value="Beat 24" />
+              <marker start="653/60s" duration="1/60s" value="Beat 25" />
+              <marker start="655/60s" duration="1/60s" value="stripe-transition" />
+              <marker start="682/60s" duration="1/60s" value="Beat 26" />
+              <marker start="707/60s" duration="1/60s" value="Beat 27" />
+              <marker start="734/60s" duration="1/60s" value="Beat 28" />
+              <marker start="764/60s" duration="1/60s" value="halftone-transition" />
+              <marker start="765/60s" duration="1/60s" value="Beat 29" />
+              <marker start="789/60s" duration="1/60s" value="Beat 30" />
+              <marker start="818/60s" duration="1/60s" value="Beat 31" />
+              <marker start="846/60s" duration="1/60s" value="Beat 32" />
+              <marker start="873/60s" duration="1/60s" value="Beat 33" />
+              <marker start="873/60s" duration="1/60s" value="logo-reveal" />
+              <marker start="903/60s" duration="1/60s" value="Beat 34" />
+              <marker start="928/60s" duration="1/60s" value="Beat 35" />
+              <marker start="955/60s" duration="1/60s" value="Beat 36" />
+            </asset-clip>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

@@ -1,0 +1,85 @@
+{
+  "checks": [
+    {
+      "name": "Headline settles into readable DOM text",
+      "pass": true
+    },
+    {
+      "name": "Silent visual plays only when visible",
+      "pass": true
+    },
+    {
+      "name": "Visual pause persists across visibility changes",
+      "pass": true
+    },
+    {
+      "name": "Visual stops offscreen",
+      "pass": true
+    },
+    {
+      "name": "Stripe navigation completes without the old delay",
+      "pass": true
+    },
+    {
+      "name": "Walkthrough reaches code after one entrance",
+      "pass": true
+    },
+    {
+      "name": "Walkthrough keyboard controls select readable examples",
+      "pass": true
+    },
+    {
+      "name": "Selected walkthrough step survives scrolling",
+      "pass": true
+    },
+    {
+      "name": "Replay begins the example again",
+      "pass": true
+    },
+    {
+      "name": "Depth sphere animates in the shared canvas",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion stops the Registry sphere",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion shows static headline and visual poster",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion stops the hero wave",
+      "pass": true
+    },
+    {
+      "name": "Reduced-motion navigation remains immediate",
+      "pass": true
+    },
+    {
+      "name": "Reduced-motion controls reveal the complete code",
+      "pass": true
+    },
+    {
+      "name": "index fits mobile width",
+      "pass": true
+    },
+    {
+      "name": "hosting fits mobile width",
+      "pass": true
+    },
+    {
+      "name": "registry fits mobile width",
+      "pass": true
+    },
+    {
+      "name": "Core message remains visible without JavaScript",
+      "pass": true
+    },
+    {
+      "name": "No uncaught page errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.10">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="r2" name="NUCALORIC-promo-v2-silent.mp4" start="0s" duration="1521/30s" hasVideo="1" hasAudio="0" format="r1" videoSources="1">
+      <media-rep kind="original-media" src="file:///home/luke/Projects/nucaloric-promo/v2/output/NUCALORIC-promo-v2-silent.mp4" />
+    </asset>
+    <asset id="r3" name="voiceover.wav" start="0s" duration="1521/30s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///home/luke/Projects/nucaloric-promo/v2/output/voiceover.wav" />
+    </asset>
+    <asset id="r4" name="swoosh-effects.wav" start="0s" duration="1521/30s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///home/luke/Projects/nucaloric-promo/v2/output/swoosh-effects.wav" />
+    </asset>
+  </resources>
+  <library>
+    <event name="NUCALORIC v2">
+      <project name="NUCALORIC • Voice + Swooshes • No Music">
+        <sequence format="r1" duration="1521/30s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip ref="r2" name="Motion picture" offset="0s" start="0s" duration="1521/30s" format="r1">
+              <asset-clip ref="r3" name="Voiceover" lane="-1" offset="0s" start="0s" duration="1521/30s" audioRole="dialogue" />
+              <asset-clip ref="r4" name="Swoosh effects" lane="-2" offset="0s" start="0s" duration="1521/30s" audioRole="effects">
+                <adjust-volume amount="-6dB" />
+              </asset-clip>
+              <marker start="0/30s" duration="1/30s" value="Scene 1" note="Everything on Solana starts with something you made." />
+              <marker start="180/30s" duration="1/30s" value="Scene 2" note="Get your project plan. Give your idea a direction." />
+              <marker start="344/30s" duration="1/30s" value="Scene 3" note="Experiment with tooling. Open up what you can build." />
+              <marker start="511/30s" duration="1/30s" value="Scene 4" note="With New Caloric, expand the capabilities of Solana. Go beyond token parameters." />
+              <marker start="732/30s" duration="1/30s" value="Scene 5" note="Hosting. APIs. Scripts. Local models. And more room to build." />
+              <marker start="1022/30s" duration="1/30s" value="Scene 6" note="Sell what you make. Turn your work into a product." />
+              <marker start="1181/30s" duration="1/30s" value="Scene 7" note="Grow your projects. And your community." />
+              <marker start="1331/30s" duration="1/30s" value="Scene 8" note="New Caloric. Utilize Solana. For real." />
+            </asset-clip>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

@@ -1,0 +1,71 @@
+{
+  "fps": 30,
+  "duration": 50.699999999999996,
+  "voice": "en-US-GuyNeural",
+  "scenes": [
+    {
+      "index": 0,
+      "start": 0,
+      "duration": 6,
+      "voice_start": 0.35,
+      "text": "Everything on Solana starts with something you made.",
+      "voice_file": "voice-01.mp3"
+    },
+    {
+      "index": 1,
+      "start": 6,
+      "duration": 5.466666666666667,
+      "voice_start": 6.35,
+      "text": "Get your project plan. Give your idea a direction.",
+      "voice_file": "voice-02.mp3"
+    },
+    {
+      "index": 2,
+      "start": 11.466666666666667,
+      "duration": 5.566666666666666,
+      "voice_start": 11.816666666666666,
+      "text": "Experiment with tooling. Open up what you can build.",
+      "voice_file": "voice-03.mp3"
+    },
+    {
+      "index": 3,
+      "start": 17.03333333333333,
+      "duration": 7.366666666666666,
+      "voice_start": 17.383333333333333,
+      "text": "With New Caloric, expand the capabilities of Solana. Go beyond token parameters.",
+      "voice_file": "voice-04.mp3"
+    },
+    {
+      "index": 4,
+      "start": 24.4,
+      "duration": 9.666666666666666,
+      "voice_start": 24.75,
+      "text": "Hosting. APIs. Scripts. Local models. And more room to build.",
+      "voice_file": "voice-05.mp3"
+    },
+    {
+      "index": 5,
+      "start": 34.06666666666666,
+      "duration": 5.3,
+      "voice_start": 34.416666666666664,
+      "text": "Sell what you make. Turn your work into a product.",
+      "voice_file": "voice-06.mp3"
+    },
+    {
+      "index": 6,
+      "start": 39.36666666666666,
+      "duration": 5,
+      "voice_start": 39.71666666666666,
+      "text": "Grow your projects. And your community.",
+      "voice_file": "voice-07.mp3"
+    },
+    {
+      "index": 7,
+      "start": 44.36666666666666,
+      "duration": 6.333333333333333,
+      "voice_start": 44.71666666666666,
+      "text": "New Caloric. Utilize Solana. For real.",
+      "voice_file": "voice-08.mp3"
+    }
+  ]
+}

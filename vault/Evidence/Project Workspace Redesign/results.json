@@ -1,0 +1,207 @@
+{
+  "tests": [
+    {
+      "name": "Home visual replaced with a functional project starter",
+      "pass": true
+    },
+    {
+      "name": "Account opens the clear dashboard directly",
+      "pass": true
+    },
+    {
+      "name": "CLI remains locked with disabled input and Paymenter caution tape",
+      "pass": true
+    },
+    {
+      "name": "Browser state cannot grant CLI access",
+      "pass": true
+    },
+    {
+      "name": "Configured Paymenter link does not unlock terminal",
+      "pass": true
+    },
+    {
+      "name": "Saved plan appears clearly on the dashboard",
+      "pass": true
+    },
+    {
+      "name": "Empty watchlist gives a useful starting state",
+      "pass": true
+    },
+    {
+      "name": "Registry preserves all 49 tools and eight purpose groups",
+      "pass": true
+    },
+    {
+      "name": "Registry theme below hero matches ink and pink",
+      "pass": true
+    },
+    {
+      "name": "Category selection isolates the correct family",
+      "pass": true
+    },
+    {
+      "name": "Search and offline filter remain functional",
+      "pass": true
+    },
+    {
+      "name": "Keyboard opens capability details",
+      "pass": true
+    },
+    {
+      "name": "Category deep links restore the selection",
+      "pass": true
+    },
+    {
+      "name": "Reward object replaced with readable progress",
+      "pass": true
+    },
+    {
+      "name": "Daily example check-in updates accurate XP and persists",
+      "pass": true
+    },
+    {
+      "name": "Rewards missions lead to usable product pages",
+      "pass": true
+    },
+    {
+      "name": "Page transition has a deliberate longer pace",
+      "pass": true
+    },
+    {
+      "name": "Reduced-motion navigation remains immediate",
+      "pass": true
+    },
+    {
+      "name": "All pages fit both viewports without errors",
+      "pass": true
+    },
+    {
+      "name": "No runtime errors from redesigned workflows",
+      "pass": true
+    }
+  ],
+  "pages": [
+    {
+      "name": "index",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "registry",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "rewards",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "dashboard",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "hosting",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "explorer",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "coin",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "launchpad",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "ecosystem",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "optimizer",
+      "width": 1440,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "registry",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "rewards",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "dashboard",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "hosting",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "explorer",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "coin",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "launchpad",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "ecosystem",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "name": "optimizer",
+      "width": 390,
+      "overflow": false,
+      "errors": []
+    }
+  ],
+  "errors": []
+}

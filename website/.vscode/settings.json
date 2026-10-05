@@ -1,0 +1,6 @@
+{
+  "livePreview.openPreviewTarget": "Embedded Preview",
+  "livePreview.defaultPreviewPath": "/index.html",
+  "livePreview.hostIP": "127.0.0.1",
+  "livePreview.autoRefreshPreview": "On Changes to Saved Files"
+}

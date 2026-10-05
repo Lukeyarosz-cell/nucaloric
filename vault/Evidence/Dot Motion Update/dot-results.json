@@ -1,0 +1,58 @@
+[
+  {
+    "name": "registry width 1440 no overflow",
+    "pass": true
+  },
+  {
+    "name": "launchpad width 1440 no overflow",
+    "pass": true
+  },
+  {
+    "name": "registry width 390 no overflow",
+    "pass": true
+  },
+  {
+    "name": "launchpad width 390 no overflow",
+    "pass": true
+  },
+  {
+    "name": "49 distinct signatures and no badges",
+    "pass": true
+  },
+  {
+    "name": "Sculpture animates",
+    "pass": true
+  },
+  {
+    "name": "Card patterns differ and move",
+    "pass": true
+  },
+  {
+    "name": "Card drawer restores focus",
+    "pass": true
+  },
+  {
+    "name": "Command arrows and Enter navigate",
+    "pass": true
+  },
+  {
+    "name": "Bad watchlist storage does not break UI",
+    "pass": true
+  },
+  {
+    "name": "Empty watchlist stays empty",
+    "pass": true
+  },
+  {
+    "name": "Workspace background moves",
+    "pass": true
+  },
+  {
+    "name": "registry reduced motion static",
+    "pass": true
+  },
+  {
+    "name": "launchpad reduced motion static",
+    "pass": true
+  }
+]

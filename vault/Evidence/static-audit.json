@@ -1,0 +1,1055 @@
+{
+  "coin.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Coin Detail"
+      ],
+      [
+        "h1",
+        "NUZERO"
+      ],
+      [
+        "h3",
+        "Protect depth before expansion."
+      ],
+      [
+        "h3",
+        "Fresh snapshot. Real pay."
+      ],
+      [
+        "h3",
+        "Distribution with a receipt."
+      ],
+      [
+        "h3",
+        "Reward social contribution without disconnecting it from the coin."
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "registry.html#observe",
+      "registry.html#mind",
+      "registry.html#research",
+      "registry.html#treasury",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "assets/tokens/nuzero.svg",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "watch-action",
+        "id": "coinWatch"
+      },
+      {
+        "tag": "button",
+        "class": "compare-action",
+        "id": "coinCompare"
+      },
+      {
+        "tag": "button",
+        "class": "buy-action",
+        "data-wallet": null
+      },
+      {
+        "tag": "button",
+        "class": "active",
+        "data-coin-tab": "overview"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "holders"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "launch"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "mind"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "treasury"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "rewards"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "social"
+      },
+      {
+        "tag": "button",
+        "data-coin-tab": "history"
+      },
+      {
+        "tag": "button",
+        "class": "ghost-btn"
+      },
+      {
+        "tag": "button",
+        "class": "btn"
+      },
+      {
+        "tag": "button",
+        "class": "btn",
+        "data-xpay": null
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "dashboard.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Dashboard"
+      ],
+      [
+        "h1",
+        "Your market, launches and rewards."
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "explorer.html",
+      "launchpad.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "assets/tokens/nuzero.svg",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button"
+      },
+      {
+        "tag": "button"
+      },
+      {
+        "tag": "button"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "ecosystem.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Ecosystem"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "registry.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://x.com/favicon.ico",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico",
+      "https://solana.com/src/img/branding/solanaLogoMark.svg",
+      "https://jup.ag/favicon.ico",
+      "https://raydium.io/favicon.ico",
+      "https://meteora.ag/favicon.ico",
+      "https://www.helius.dev/favicon.ico",
+      "https://birdeye.so/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solana.com/src/img/branding/solanaLogoMark.svg",
+      "https://raydium.io/favicon.ico",
+      "https://jup.ag/favicon.ico",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "explorer.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Explore"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "coin.html?coin=nuzero",
+      "coin.html?coin=vortex",
+      "coin.html?coin=parallax",
+      "coin.html?coin=pinknode",
+      "coin.html?coin=mirage",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "assets/tokens/nuzero.svg",
+      "assets/tokens/vortex.svg",
+      "assets/tokens/parallax.svg",
+      "assets/tokens/pinknode.svg",
+      "assets/tokens/mirage.svg",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "view-btn active",
+        "data-view": "grid"
+      },
+      {
+        "tag": "button",
+        "class": "view-btn",
+        "data-view": "compact"
+      },
+      {
+        "tag": "button",
+        "class": "filter-chip active",
+        "data-filter": "ALL"
+      },
+      {
+        "tag": "button",
+        "class": "filter-chip",
+        "data-filter": "TRENDING"
+      },
+      {
+        "tag": "button",
+        "class": "filter-chip",
+        "data-filter": "NEW"
+      },
+      {
+        "tag": "button",
+        "class": "filter-chip",
+        "data-filter": "AI90"
+      },
+      {
+        "tag": "button",
+        "class": "filter-chip",
+        "data-filter": "DISTRIBUTED"
+      },
+      {
+        "tag": "input",
+        "class": "filter-search",
+        "id": "coinSearch",
+        "placeholder": "SEARCH COIN / TICKER"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "index.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Solana Launch Intelligence"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "explorer.html",
+      "optimizer.html",
+      "launchpad.html",
+      "rewards.html",
+      "registry.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://solana.com/src/img/branding/solanaLogoMark.svg",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico",
+      "https://x.com/favicon.ico",
+      "https://jup.ag/favicon.ico",
+      "https://raydium.io/favicon.ico",
+      "https://meteora.ag/favicon.ico",
+      "https://www.helius.dev/favicon.ico",
+      "https://birdeye.so/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "launchpad.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Launch"
+      ],
+      [
+        "h2",
+        "Give the launch a recognizable shape."
+      ],
+      [
+        "h2",
+        "Make concentration visible before launch."
+      ],
+      [
+        "h2",
+        "Design the first market, not just the token."
+      ],
+      [
+        "h2",
+        "Let the model challenge the structure."
+      ],
+      [
+        "h2",
+        "Attach distribution to the same launch identity."
+      ],
+      [
+        "h2",
+        "Choose what the coin can actually do."
+      ],
+      [
+        "h2",
+        "Everything visible before signing."
+      ],
+      [
+        "h2",
+        "Ready for wallet signature."
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "builder-step active",
+        "data-step": "1"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "2"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "3"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "4"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "5"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "6"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "7"
+      },
+      {
+        "tag": "button",
+        "class": "builder-step",
+        "data-step": "8"
+      },
+      {
+        "tag": "input",
+        "id": "launchName",
+        "value": "NOVA"
+      },
+      {
+        "tag": "input",
+        "id": "launchTicker",
+        "value": "NVA"
+      },
+      {
+        "tag": "input",
+        "type": "number",
+        "id": "launchSupply",
+        "value": "1000000000"
+      },
+      {
+        "tag": "input",
+        "type": "range",
+        "id": "launchCreator",
+        "min": "0",
+        "max": "20",
+        "value": "8"
+      },
+      {
+        "tag": "select",
+        "id": "launchVest"
+      },
+      {
+        "tag": "input",
+        "type": "range",
+        "id": "launchLiquidity",
+        "min": "25",
+        "max": "500",
+        "value": "220"
+      },
+      {
+        "tag": "select",
+        "id": "launchVenue"
+      },
+      {
+        "tag": "select",
+        "id": "launchLock"
+      },
+      {
+        "tag": "button",
+        "data-ai-apply": "creator"
+      },
+      {
+        "tag": "button",
+        "data-ai-apply": "liquidity"
+      },
+      {
+        "tag": "button",
+        "data-ai-apply": "rewards"
+      },
+      {
+        "tag": "button",
+        "class": "dist-card selected"
+      },
+      {
+        "tag": "button",
+        "class": "dist-card selected"
+      },
+      {
+        "tag": "button",
+        "class": "dist-card"
+      },
+      {
+        "tag": "button",
+        "class": "dist-card"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select selected"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select selected"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select selected"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select selected"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select"
+      },
+      {
+        "tag": "button",
+        "class": "mind-select"
+      },
+      {
+        "tag": "button",
+        "class": "btn",
+        "data-wallet": null
+      },
+      {
+        "tag": "button",
+        "class": "ghost-btn",
+        "id": "builderPrev"
+      },
+      {
+        "tag": "button",
+        "class": "btn",
+        "id": "builderNext"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "optimizer.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Optimizer"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "input",
+        "id": "liq",
+        "max": "600",
+        "min": "40",
+        "type": "range",
+        "value": "220"
+      },
+      {
+        "tag": "input",
+        "id": "creator",
+        "max": "25",
+        "min": "0",
+        "type": "range",
+        "value": "8"
+      },
+      {
+        "tag": "input",
+        "id": "lock",
+        "max": "365",
+        "min": "0",
+        "type": "range",
+        "value": "180"
+      },
+      {
+        "tag": "input",
+        "id": "rewards",
+        "max": "30",
+        "min": "0",
+        "type": "range",
+        "value": "12"
+      },
+      {
+        "tag": "input",
+        "id": "reserve",
+        "max": "30",
+        "min": "0",
+        "type": "range",
+        "value": "10"
+      },
+      {
+        "tag": "button",
+        "class": "btn",
+        "id": "runSimulation"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "registry.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Registry v3"
+      ],
+      [
+        "h3",
+        "Provide liquidity"
+      ],
+      [
+        "h3",
+        "Pay an address"
+      ],
+      [
+        "h3",
+        "Chat with holders"
+      ],
+      [
+        "h3",
+        "Read X replies and posts"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "#observe",
+      "#mind",
+      "#research",
+      "#treasury",
+      "#rewards",
+      "#programs",
+      "#community",
+      "#create",
+      "index.html",
+      "explorer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "active",
+        "data-reg-filter": "all"
+      },
+      {
+        "tag": "button",
+        "data-reg-filter": "live"
+      },
+      {
+        "tag": "button",
+        "data-reg-filter": "offline"
+      },
+      {
+        "tag": "input",
+        "id": "registrySearch",
+        "placeholder": "SEARCH CAPABILITY / CATEGORY"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  },
+  "rewards.html": {
+    "headings": [
+      [
+        "title",
+        "NUCALORIC \u2014 Rewards"
+      ]
+    ],
+    "duplicate_ids": [],
+    "links": [
+      "index.html",
+      "index.html",
+      "explorer.html",
+      "launchpad.html",
+      "registry.html",
+      "rewards.html",
+      "index.html",
+      "explorer.html",
+      "optimizer.html",
+      "ecosystem.html",
+      "registry.html"
+    ],
+    "assets": [
+      "",
+      "styles.css",
+      "app.js",
+      "https://x.com/favicon.ico",
+      "https://x.com/favicon.ico",
+      "https://phantom.com/favicon.ico",
+      "https://solflare.com/assets/logo-128.png",
+      "https://backpack.app/favicon.ico"
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "class": "xpay-btn",
+        "data-xpay": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-btn",
+        "data-wallet": ""
+      },
+      {
+        "tag": "button",
+        "class": "btn",
+        "id": "claimReward",
+        "style": "margin-top:24px;background:#050505;color:#f3f1ec;border-color:#050505"
+      },
+      {
+        "tag": "button",
+        "class": "ghost-btn",
+        "data-xpay": "",
+        "style": "border-color:#b88495;color:#050505;background:transparent"
+      },
+      {
+        "tag": "button",
+        "class": "copy-btn",
+        "id": "copyReferral",
+        "style": "padding:0 16px;border-color:#c9c4bd;background:#fff;color:#050505"
+      },
+      {
+        "tag": "button",
+        "class": "modal-close",
+        "data-close-modal": ""
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Phantom"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Solflare"
+      },
+      {
+        "tag": "button",
+        "class": "wallet-choice",
+        "data-name": "Backpack"
+      }
+    ]
+  }
+}

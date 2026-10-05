@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "name": "launchpad",
+      "width": 1440,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "registry",
+      "width": 1440,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "launchpad",
+      "width": 390,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "registry",
+      "width": 390,
+      "errors": [],
+      "overflow": false
+    }
+  ],
+  "tests": [
+    {
+      "name": "Blank identity blocked",
+      "pass": true
+    },
+    {
+      "name": "Draft survives reload",
+      "pass": true
+    },
+    {
+      "name": "Rewards apply and review",
+      "pass": true
+    },
+    {
+      "name": "Complete selections in review",
+      "pass": true
+    },
+    {
+      "name": "Blueprint download",
+      "pass": true
+    },
+    {
+      "name": "Registry search and empty reset",
+      "pass": true
+    },
+    {
+      "name": "Offline filter",
+      "pass": true
+    },
+    {
+      "name": "Keyboard card opens named drawer",
+      "pass": true
+    },
+    {
+      "name": "Atlas links to category",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion stops atlas",
+      "pass": true
+    }
+  ]
+}

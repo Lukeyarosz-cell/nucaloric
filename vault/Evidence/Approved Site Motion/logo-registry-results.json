@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "name": "index",
+      "width": 1440,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "registry",
+      "width": 1440,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "index",
+      "width": 390,
+      "errors": [],
+      "overflow": false
+    },
+    {
+      "name": "registry",
+      "width": 390,
+      "errors": [],
+      "overflow": false
+    }
+  ],
+  "tests": [
+    {
+      "name": "Landing takes full viewport; logos below it",
+      "pass": true
+    },
+    {
+      "name": "Ribbon contains only logos and no controls",
+      "pass": true
+    },
+    {
+      "name": "All 14 local logos load",
+      "pass": true
+    },
+    {
+      "name": "Logo ribbon continuously moves",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion stops ribbon",
+      "pass": true
+    },
+    {
+      "name": "Directory contains all tools and no card animations",
+      "pass": true
+    },
+    {
+      "name": "Category selects Treasury",
+      "pass": true
+    },
+    {
+      "name": "Search combines with category",
+      "pass": true
+    },
+    {
+      "name": "Reset restores all categories and filters",
+      "pass": true
+    },
+    {
+      "name": "Offline shows six tools",
+      "pass": true
+    },
+    {
+      "name": "Keyboard opens tool details",
+      "pass": true
+    },
+    {
+      "name": "Reference disclosures open",
+      "pass": true
+    },
+    {
+      "name": "Category deep link survives reload",
+      "pass": true
+    }
+  ]
+}

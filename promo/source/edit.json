@@ -1,0 +1,48 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 45,
+  "scenes": [
+    {
+      "name": "01_origin",
+      "start": 0,
+      "duration": 6
+    },
+    {
+      "name": "02_plan",
+      "start": 6,
+      "duration": 5
+    },
+    {
+      "name": "03_tooling",
+      "start": 11,
+      "duration": 5
+    },
+    {
+      "name": "04_capabilities",
+      "start": 16,
+      "duration": 6
+    },
+    {
+      "name": "05_infrastructure",
+      "start": 22,
+      "duration": 8
+    },
+    {
+      "name": "06_create",
+      "start": 30,
+      "duration": 5
+    },
+    {
+      "name": "07_community",
+      "start": 35,
+      "duration": 5
+    },
+    {
+      "name": "08_brand",
+      "start": 40,
+      "duration": 5
+    }
+  ]
+}

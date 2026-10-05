@@ -1,0 +1,797 @@
+{
+  "date": "2026-10-04T19:19:40.441Z",
+  "pages": [
+    {
+      "page": "index",
+      "size": 1440,
+      "title": "NUCALORIC — Solana Launch Intelligence",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 3,
+      "h1": 0,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png",
+        "https://meteora.ag/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "explorer",
+      "size": 1440,
+      "title": "NUCALORIC — Explore",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 8,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "coinSearch",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "coin",
+      "size": 1440,
+      "title": "NUCALORIC — NUZERO",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 5,
+      "h1": 2,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "launchpad",
+      "size": 1440,
+      "title": "NUCALORIC — Launch",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "optimizer",
+      "size": 1440,
+      "title": "NUCALORIC — Optimizer",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "liq",
+        "creator",
+        "lock",
+        "rewards",
+        "reserve",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "rewards",
+      "size": 1440,
+      "title": "NUCALORIC — Rewards",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 2,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "ecosystem",
+      "size": 1440,
+      "title": "NUCALORIC — Ecosystem",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 1,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png",
+        "https://meteora.ag/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "registry",
+      "size": 1440,
+      "title": "NUCALORIC — Registry v3",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "registrySearch",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "dashboard",
+      "size": 1440,
+      "title": "NUCALORIC — Dashboard",
+      "documentWidth": 1440,
+      "viewportWidth": 1440,
+      "canvases": 2,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "index",
+      "size": 390,
+      "title": "NUCALORIC — Solana Launch Intelligence",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 3,
+      "h1": 0,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png",
+        "https://meteora.ag/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "explorer",
+      "size": 390,
+      "title": "NUCALORIC — Explore",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 8,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "coinSearch",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "coin",
+      "size": 390,
+      "title": "NUCALORIC — NUZERO",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 5,
+      "h1": 2,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "launchpad",
+      "size": 390,
+      "title": "NUCALORIC — Launch",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "BUTTON.builder-step",
+        "I.",
+        "SPAN.",
+        "BUTTON.builder-step",
+        "I.",
+        "SPAN.",
+        "BUTTON.builder-step",
+        "I.",
+        "SPAN.",
+        "BUTTON.builder-step",
+        "I.",
+        "SPAN."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "optimizer",
+      "size": 390,
+      "title": "NUCALORIC — Optimizer",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "liq",
+        "creator",
+        "lock",
+        "rewards",
+        "reserve",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "rewards",
+      "size": 390,
+      "title": "NUCALORIC — Rewards",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 2,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.reward-visual-label",
+        "B.",
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "ecosystem",
+      "size": 390,
+      "title": "NUCALORIC — Ecosystem",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 1,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png",
+        "https://meteora.ag/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "registry",
+      "size": 390,
+      "title": "NUCALORIC — Registry v3",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 3,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "registrySearch",
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    },
+    {
+      "page": "dashboard",
+      "size": 390,
+      "title": "NUCALORIC — Dashboard",
+      "documentWidth": 390,
+      "viewportWidth": 390,
+      "canvases": 2,
+      "h1": 1,
+      "description": false,
+      "missingAlt": 0,
+      "brokenImages": [
+        "https://phantom.com/favicon.ico",
+        "https://solflare.com/assets/logo-128.png"
+      ],
+      "unlabelledInputs": [
+        "commandSearch"
+      ],
+      "overflow": [
+        "DIV.drawer-head",
+        "SPAN.",
+        "BUTTON.drawer-close",
+        "DIV.account-profile",
+        "DIV.account-orb",
+        "DIV.",
+        "B.",
+        "SPAN.",
+        "DIV.account-grid",
+        "A.",
+        "SPAN.",
+        "B."
+      ],
+      "errors": [],
+      "failures": [
+        {
+          "url": "https://solflare.com/assets/logo-128.png",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        }
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "name": "Explore search filters coins",
+      "pass": false,
+      "error": "Expected one coin"
+    },
+    {
+      "name": "Quick View opens",
+      "pass": false,
+      "error": "Drawer absent"
+    },
+    {
+      "name": "Watchlist persists across reload",
+      "pass": false,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('[data-watch]').first()\u001b[22m\n"
+    },
+    {
+      "name": "Compare modal opens with two coins",
+      "pass": false,
+      "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('[data-compare]').first()\u001b[22m\n"
+    },
+    {
+      "name": "Command palette filters and navigates",
+      "pass": true
+    },
+    {
+      "name": "Dashboard shows persisted watchlist",
+      "pass": true
+    },
+    {
+      "name": "Launch builder traverses eight stages",
+      "pass": true
+    },
+    {
+      "name": "Optimizer updates score and outputs",
+      "pass": true
+    },
+    {
+      "name": "Registry offline filter",
+      "pass": true
+    },
+    {
+      "name": "Registry capability detail opens",
+      "pass": false,
+      "error": "Capability drawer absent"
+    },
+    {
+      "name": "Coin query selects Vortex",
+      "pass": false,
+      "error": "locator.innerText: Error: strict mode violation: locator('h1') resolved to 2 elements:\n    1) <h1 class=\"display\" aria-label=\"How the coin entered the market.\">…</h1> aka getByRole('heading', { name: 'How the coin entered the' })\n    2) <h1 id=\"coinName\" class=\"display\">VORTEX</h1> aka getByRole('he"
+    },
+    {
+      "name": "Coin tabs switch panels",
+      "pass": true
+    },
+    {
+      "name": "Wallet choice stores demo wallet",
+      "pass": true
+    }
+  ]
+}

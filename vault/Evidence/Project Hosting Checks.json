@@ -1,0 +1,182 @@
+{
+  "pages": [
+    {
+      "page": "hosting",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "registry",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "dashboard",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "launchpad",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "explorer",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "coin",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "optimizer",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "rewards",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "ecosystem",
+      "width": 1440,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "hosting",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "registry",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "dashboard",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "launchpad",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "explorer",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "coin",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "optimizer",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "rewards",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    },
+    {
+      "page": "ecosystem",
+      "width": 390,
+      "errors": [],
+      "overflow": false,
+      "hostingLink": 1
+    }
+  ],
+  "tests": [
+    {
+      "name": "No purchase possible without configured Paymenter",
+      "pass": true
+    },
+    {
+      "name": "Required project blocks saving",
+      "pass": true
+    },
+    {
+      "name": "Plan saves and restores across reload",
+      "pass": true
+    },
+    {
+      "name": "Invalid mint and insecure repositories rejected",
+      "pass": true
+    },
+    {
+      "name": "Repository commands preserve shell literals",
+      "pass": true
+    },
+    {
+      "name": "Workspace plan export downloads JSON",
+      "pass": true
+    },
+    {
+      "name": "Setup script downloads real commands without fake execution",
+      "pass": true
+    },
+    {
+      "name": "Configured same-origin product enables checkout",
+      "pass": true
+    },
+    {
+      "name": "Unreviewed workload and mismatched checkout origin stay unavailable",
+      "pass": true
+    }
+  ]
+}

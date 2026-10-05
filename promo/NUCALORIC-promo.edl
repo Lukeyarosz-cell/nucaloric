@@ -1,0 +1,26 @@
+TITLE: NUCALORIC PROMO
+FCM: NON-DROP FRAME
+
+001  001      V     C        00:00:00:00 00:00:06:00 00:00:00:00 00:00:06:00
+* FROM CLIP NAME: 01_origin.mov
+
+002  002      V     C        00:00:00:00 00:00:05:00 00:00:06:00 00:00:11:00
+* FROM CLIP NAME: 02_plan.mov
+
+003  003      V     C        00:00:00:00 00:00:05:00 00:00:11:00 00:00:16:00
+* FROM CLIP NAME: 03_tooling.mov
+
+004  004      V     C        00:00:00:00 00:00:06:00 00:00:16:00 00:00:22:00
+* FROM CLIP NAME: 04_capabilities.mov
+
+005  005      V     C        00:00:00:00 00:00:08:00 00:00:22:00 00:00:30:00
+* FROM CLIP NAME: 05_infrastructure.mov
+
+006  006      V     C        00:00:00:00 00:00:05:00 00:00:30:00 00:00:35:00
+* FROM CLIP NAME: 06_create.mov
+
+007  007      V     C        00:00:00:00 00:00:05:00 00:00:35:00 00:00:40:00
+* FROM CLIP NAME: 07_community.mov
+
+008  008      V     C        00:00:00:00 00:00:05:00 00:00:40:00 00:00:45:00
+* FROM CLIP NAME: 08_brand.mov

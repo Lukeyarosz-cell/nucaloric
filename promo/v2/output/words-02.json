@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Get",
+    "offset": 0.098083,
+    "duration": 0.240375
+  },
+  {
+    "text": "your",
+    "offset": 0.3625,
+    "duration": 0.15625
+  },
+  {
+    "text": "project",
+    "offset": 0.542791,
+    "duration": 0.45675
+  },
+  {
+    "text": "plan",
+    "offset": 1.023541,
+    "duration": 0.372583
+  },
+  {
+    "text": "Give",
+    "offset": 2.235583,
+    "duration": 0.216333
+  },
+  {
+    "text": "your",
+    "offset": 2.475958,
+    "duration": 0.180291
+  },
+  {
+    "text": "idea",
+    "offset": 2.66825,
+    "duration": 0.408666
+  },
+  {
+    "text": "a",
+    "offset": 3.100958,
+    "duration": 0.072125
+  },
+  {
+    "text": "direction",
+    "offset": 3.197125,
+    "duration": 0.564916
+  }
+]

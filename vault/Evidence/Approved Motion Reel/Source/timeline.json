@@ -1,0 +1,234 @@
+{
+  "duration": 16,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "audio_file": "tiktokdownload.online_1791156644577.mp3",
+  "audio_offset": 14.03,
+  "bpm": 131.96493855437603,
+  "beat_period": 0.4546662216288386,
+  "beats": [
+    {
+      "index": 0,
+      "time": 0.0,
+      "strength": 0.4897910875728013
+    },
+    {
+      "index": 1,
+      "time": 0.48,
+      "strength": 0.04069511421672234
+    },
+    {
+      "index": 2,
+      "time": 0.88,
+      "strength": 0.019038804280087092
+    },
+    {
+      "index": 3,
+      "time": 1.33,
+      "strength": 0.025128463519837912
+    },
+    {
+      "index": 4,
+      "time": 1.85,
+      "strength": 0.013495024685130004
+    },
+    {
+      "index": 5,
+      "time": 2.24,
+      "strength": 0.03722833862756521
+    },
+    {
+      "index": 6,
+      "time": 2.7,
+      "strength": 0.02794976650536976
+    },
+    {
+      "index": 7,
+      "time": 3.16,
+      "strength": 0.01495302189733893
+    },
+    {
+      "index": 8,
+      "time": 3.64,
+      "strength": 0.4215127461539031
+    },
+    {
+      "index": 9,
+      "time": 4.04,
+      "strength": 0.0669116421098287
+    },
+    {
+      "index": 10,
+      "time": 4.52,
+      "strength": 0.022847607688965012
+    },
+    {
+      "index": 11,
+      "time": 4.97,
+      "strength": 0.040857497277879254
+    },
+    {
+      "index": 12,
+      "time": 5.455995,
+      "strength": 0
+    },
+    {
+      "index": 13,
+      "time": 5.88,
+      "strength": 0.04969349223276119
+    },
+    {
+      "index": 14,
+      "time": 6.33,
+      "strength": 0.02945343368680485
+    },
+    {
+      "index": 15,
+      "time": 6.83,
+      "strength": 0.07264334604523144
+    },
+    {
+      "index": 16,
+      "time": 7.27,
+      "strength": 0.47548751775904374
+    },
+    {
+      "index": 17,
+      "time": 7.7,
+      "strength": 0.03371897209557554
+    },
+    {
+      "index": 18,
+      "time": 8.16,
+      "strength": 0.019555818936840576
+    },
+    {
+      "index": 19,
+      "time": 8.66,
+      "strength": 0.030995077670929325
+    },
+    {
+      "index": 20,
+      "time": 9.12,
+      "strength": 0.008889504016597428
+    },
+    {
+      "index": 21,
+      "time": 9.55,
+      "strength": 0.46827495128305135
+    },
+    {
+      "index": 22,
+      "time": 10.0,
+      "strength": 0.0555311862941103
+    },
+    {
+      "index": 23,
+      "time": 10.45,
+      "strength": 0.04611766797147034
+    },
+    {
+      "index": 24,
+      "time": 10.88,
+      "strength": 0.04294887902263926
+    },
+    {
+      "index": 25,
+      "time": 11.366656,
+      "strength": 0
+    },
+    {
+      "index": 26,
+      "time": 11.79,
+      "strength": 0.021087827387207953
+    },
+    {
+      "index": 27,
+      "time": 12.24,
+      "strength": 0.04592014888523461
+    },
+    {
+      "index": 28,
+      "time": 12.75,
+      "strength": 0.011274599484348821
+    },
+    {
+      "index": 29,
+      "time": 13.15,
+      "strength": 0.045856276354532335
+    },
+    {
+      "index": 30,
+      "time": 13.639987,
+      "strength": 0
+    },
+    {
+      "index": 31,
+      "time": 14.1,
+      "strength": 0.056183020553310356
+    },
+    {
+      "index": 32,
+      "time": 14.55,
+      "strength": 0.2584558617927781
+    },
+    {
+      "index": 33,
+      "time": 15.05,
+      "strength": 0.010470797250951819
+    },
+    {
+      "index": 34,
+      "time": 15.458652,
+      "strength": 0
+    },
+    {
+      "index": 35,
+      "time": 15.913318,
+      "strength": 0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "kinetic-type",
+      "start": 0.0,
+      "duration": 1.8166666666666667
+    },
+    {
+      "name": "morph-grid",
+      "start": 1.8166666666666667,
+      "duration": 1.8166666666666667
+    },
+    {
+      "name": "particle-sphere",
+      "start": 3.6333333333333333,
+      "duration": 1.8166666666666669
+    },
+    {
+      "name": "glossy-blobs",
+      "start": 5.45,
+      "duration": 1.8166666666666664
+    },
+    {
+      "name": "dashboard",
+      "start": 7.266666666666667,
+      "duration": 3.6499999999999995
+    },
+    {
+      "name": "stripe-transition",
+      "start": 10.916666666666666,
+      "duration": 1.8166666666666664
+    },
+    {
+      "name": "halftone-transition",
+      "start": 12.733333333333333,
+      "duration": 1.8166666666666682
+    },
+    {
+      "name": "logo-reveal",
+      "start": 14.55,
+      "duration": 1.4499999999999993
+    }
+  ]
+}

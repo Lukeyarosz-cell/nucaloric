@@ -1,0 +1,17 @@
+NUCALORIC — Utilize Solana. For real.
+45 seconds / 1920 × 1080 / 30 fps
+
+00:00–00:06  Everything on Solana starts with something you made.
+00:06–00:11  Get your project plan. Give your idea a direction.
+00:11–00:16  Experiment with tooling. Open up what you can build.
+00:16–00:22  With NUCALORIC, go beyond token parameters. More ways to utilize Solana.
+00:22–00:30  Hosting. APIs. Scripts. Models. More room to build.
+00:30–00:35  Sell what you make. Turn your work into a product.
+00:35–00:40  Grow your projects. And community.
+00:40–00:45  NUCALORIC. Utilize Solana. For real.
+
+Presentation: kinetic on-screen typography, procedural motion graphics,
+original instrumental synth bed and sound effects. No voice-over.
+
+The video expresses the platform direction. Hosting provisioning, browser
+terminal access and commerce are not live features of the static site.

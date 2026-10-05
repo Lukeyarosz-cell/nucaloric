@@ -1,0 +1,31 @@
+1
+00:00:00,448 --> 00:00:02,900
+Everything on Solana starts with something you made.
+
+2
+00:00:06,448 --> 00:00:10,112
+Get your project plan. Give your idea a direction.
+
+3
+00:00:11,915 --> 00:00:15,699
+Experiment with tooling. Open up what you can build.
+
+4
+00:00:17,481 --> 00:00:23,020
+With NUCALORIC, expand the capabilities of Solana. Go beyond token parameters.
+
+5
+00:00:24,848 --> 00:00:32,731
+Hosting. APIs. Scripts. Local models. And more room to build.
+
+6
+00:00:34,515 --> 00:00:38,022
+Sell what you make. Turn your work into a product.
+
+7
+00:00:39,815 --> 00:00:42,926
+Grow your projects. And your community.
+
+8
+00:00:44,815 --> 00:00:49,368
+NUCALORIC. Utilize Solana. For real.

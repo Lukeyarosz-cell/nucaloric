@@ -1,0 +1,1154 @@
+[
+  {
+    "path": "website/README.md",
+    "bytes": 1372
+  },
+  {
+    "path": "website/dashboard.html",
+    "bytes": 7491
+  },
+  {
+    "path": "website/app.js",
+    "bytes": 65222
+  },
+  {
+    "path": "website/registry.html",
+    "bytes": 49962
+  },
+  {
+    "path": "website/optimizer.html",
+    "bytes": 9335
+  },
+  {
+    "path": "website/coin.html",
+    "bytes": 13883
+  },
+  {
+    "path": "website/styles.css",
+    "bytes": 205980
+  },
+  {
+    "path": "website/rewards.html",
+    "bytes": 9960
+  },
+  {
+    "path": "website/index.html",
+    "bytes": 39987
+  },
+  {
+    "path": "website/launchpad.html",
+    "bytes": 23272
+  },
+  {
+    "path": "website/explorer.html",
+    "bytes": 12569
+  },
+  {
+    "path": "website/ecosystem.html",
+    "bytes": 11057
+  },
+  {
+    "path": "website/.gitignore",
+    "bytes": 56
+  },
+  {
+    "path": "website/hosting.html",
+    "bytes": 11140
+  },
+  {
+    "path": "website/hosting-config.js",
+    "bytes": 522
+  },
+  {
+    "path": "website/hosting.js",
+    "bytes": 7823
+  },
+  {
+    "path": "website/motion.js",
+    "bytes": 5619
+  },
+  {
+    "path": "website/workspace.js",
+    "bytes": 3710
+  },
+  {
+    "path": "website/assets/nucaloric-wordmark.svg",
+    "bytes": 2550
+  },
+  {
+    "path": "website/.vscode/settings.json",
+    "bytes": 211
+  },
+  {
+    "path": "website/.vscode/extensions.json",
+    "bytes": 82
+  },
+  {
+    "path": "website/.vscode/tasks.json",
+    "bytes": 356
+  },
+  {
+    "path": "website/docs/PROJECT_REVIEW.md",
+    "bytes": 3728
+  },
+  {
+    "path": "website/docs/LOCAL_DEVELOPMENT.md",
+    "bytes": 833
+  },
+  {
+    "path": "website/docs/EXPERIENCE_REFRESH.md",
+    "bytes": 3519
+  },
+  {
+    "path": "website/docs/DOT_MOTION_UPDATE.md",
+    "bytes": 2240
+  },
+  {
+    "path": "website/docs/paymenter-integration.md",
+    "bytes": 4193
+  },
+  {
+    "path": "website/docs/APPROVED_SITE_MOTION.md",
+    "bytes": 3378
+  },
+  {
+    "path": "website/docs/PROJECT_WORKSPACE_REDESIGN.md",
+    "bytes": 2227
+  },
+  {
+    "path": "website/tools/motion/gpu.py",
+    "bytes": 1069
+  },
+  {
+    "path": "website/tools/motion/glossy.frag",
+    "bytes": 2314
+  },
+  {
+    "path": "website/tools/motion/render-loop.py",
+    "bytes": 684
+  },
+  {
+    "path": "website/tools/motion/requirements.txt",
+    "bytes": 32
+  },
+  {
+    "path": "website/assets/tokens/pinknode.svg",
+    "bytes": 542
+  },
+  {
+    "path": "website/assets/tokens/nuzero.svg",
+    "bytes": 415
+  },
+  {
+    "path": "website/assets/tokens/vortex.svg",
+    "bytes": 420
+  },
+  {
+    "path": "website/assets/tokens/mirage.svg",
+    "bytes": 415
+  },
+  {
+    "path": "website/assets/tokens/parallax.svg",
+    "bytes": 301
+  },
+  {
+    "path": "website/assets/partners/openai.svg",
+    "bytes": 1585
+  },
+  {
+    "path": "website/assets/partners/x.svg",
+    "bytes": 267
+  },
+  {
+    "path": "website/assets/partners/claude.svg",
+    "bytes": 1936
+  },
+  {
+    "path": "website/assets/partners/gemini.svg",
+    "bytes": 401
+  },
+  {
+    "path": "website/assets/partners/jupiter.ico",
+    "bytes": 15406
+  },
+  {
+    "path": "website/assets/partners/solana.svg",
+    "bytes": 1246
+  },
+  {
+    "path": "website/assets/partners/raydium.ico",
+    "bytes": 25418
+  },
+  {
+    "path": "website/assets/partners/helius.ico",
+    "bytes": 15086
+  },
+  {
+    "path": "website/assets/partners/birdeye.png",
+    "bytes": 3418
+  },
+  {
+    "path": "website/assets/partners/solflare.ico",
+    "bytes": 68174
+  },
+  {
+    "path": "website/assets/partners/backpack.ico",
+    "bytes": 36534
+  },
+  {
+    "path": "website/assets/partners/sources.json",
+    "bytes": 1957
+  },
+  {
+    "path": "website/assets/partners/phantom.svg",
+    "bytes": 1108
+  },
+  {
+    "path": "website/assets/partners/meteora.svg",
+    "bytes": 2123
+  },
+  {
+    "path": "website/assets/partners/grok.svg",
+    "bytes": 751
+  },
+  {
+    "path": "website/assets/partners/gemini-color.svg",
+    "bytes": 2836
+  },
+  {
+    "path": "website/assets/partners/README.md",
+    "bytes": 1279
+  },
+  {
+    "path": "website/assets/motion/Manrope.ttf",
+    "bytes": 164700
+  },
+  {
+    "path": "website/assets/motion/Manrope-OFL.txt",
+    "bytes": 4387
+  },
+  {
+    "path": "website/assets/motion/possibilities-loop.mp4",
+    "bytes": 187295
+  },
+  {
+    "path": "website/assets/motion/possibilities-poster.jpg",
+    "bytes": 32959
+  },
+  {
+    "path": "promo/storyboard.jpg",
+    "bytes": 134549
+  },
+  {
+    "path": "promo/poster.png",
+    "bytes": 104599
+  },
+  {
+    "path": "promo/NUCALORIC-promo.otio",
+    "bytes": 16981
+  },
+  {
+    "path": "promo/NUCALORIC-promo.edl",
+    "bytes": 938
+  },
+  {
+    "path": "promo/NUCALORIC-promo-master.mov",
+    "bytes": 827029592
+  },
+  {
+    "path": "promo/NUCALORIC-promo.mp4",
+    "bytes": 5436405
+  },
+  {
+    "path": "promo/README.md",
+    "bytes": 680
+  },
+  {
+    "path": "promo/watch.html",
+    "bytes": 859
+  },
+  {
+    "path": "promo/NUCALORIC-edit-package.zip",
+    "bytes": 238528433
+  },
+  {
+    "path": "promo/source/Manrope.ttf",
+    "bytes": 164700
+  },
+  {
+    "path": "promo/source/Manrope-OFL.txt",
+    "bytes": 4387
+  },
+  {
+    "path": "promo/source/render.py",
+    "bytes": 5316
+  },
+  {
+    "path": "promo/source/nucaloric-wordmark.svg",
+    "bytes": 2545
+  },
+  {
+    "path": "promo/source/edit.json",
+    "bytes": 731
+  },
+  {
+    "path": "promo/source/requirements.txt",
+    "bytes": 184
+  },
+  {
+    "path": "promo/source/script.txt",
+    "bytes": 886
+  },
+  {
+    "path": "promo/source/voice-test.mp3",
+    "bytes": 21312
+  },
+  {
+    "path": "promo/media/music.wav",
+    "bytes": 8640044
+  },
+  {
+    "path": "promo/media/sound-effects.wav",
+    "bytes": 8640044
+  },
+  {
+    "path": "promo/media/mix.wav",
+    "bytes": 8640044
+  },
+  {
+    "path": "promo/media/01_origin.mov",
+    "bytes": 109118931
+  },
+  {
+    "path": "promo/media/02_plan.mov",
+    "bytes": 90932571
+  },
+  {
+    "path": "promo/media/03_tooling.mov",
+    "bytes": 90932571
+  },
+  {
+    "path": "promo/media/04_capabilities.mov",
+    "bytes": 109118931
+  },
+  {
+    "path": "promo/media/05_infrastructure.mov",
+    "bytes": 145491651
+  },
+  {
+    "path": "promo/media/06_create.mov",
+    "bytes": 90932571
+  },
+  {
+    "path": "promo/media/07_community.mov",
+    "bytes": 90932571
+  },
+  {
+    "path": "promo/media/08_brand.mov",
+    "bytes": 90932571
+  },
+  {
+    "path": "promo/media/concat.txt",
+    "bytes": 183
+  },
+  {
+    "path": "promo/output/original-score.wav",
+    "bytes": 8640044
+  },
+  {
+    "path": "promo/output/NUCALORIC-promo.mp4",
+    "bytes": 4176808
+  },
+  {
+    "path": "promo/output/preview-1.jpg",
+    "bytes": 87570
+  },
+  {
+    "path": "promo/output/preview-5.jpg",
+    "bytes": 86587
+  },
+  {
+    "path": "promo/output/preview-8.jpg",
+    "bytes": 90857
+  },
+  {
+    "path": "promo/output/NUCALORIC.edl",
+    "bytes": 159
+  },
+  {
+    "path": "promo/v2/README.md",
+    "bytes": 1742
+  },
+  {
+    "path": "promo/v3/README.md",
+    "bytes": 2228
+  },
+  {
+    "path": "promo/v3/reference/reference-a.jpg",
+    "bytes": 94405
+  },
+  {
+    "path": "promo/v3/reference/reference-b.jpg",
+    "bytes": 123176
+  },
+  {
+    "path": "promo/v3/reference/user-audio.wav",
+    "bytes": 6214298
+  },
+  {
+    "path": "promo/v3/reference/audio-waveform.jpg",
+    "bytes": 61432
+  },
+  {
+    "path": "promo/v3/reference/tiktokdownload.online_1791156644577.mp3",
+    "bytes": 517896
+  },
+  {
+    "path": "promo/v3/source/analyze_audio.py",
+    "bytes": 2258
+  },
+  {
+    "path": "promo/v3/source/audio-analysis.json",
+    "bytes": 9467
+  },
+  {
+    "path": "promo/v3/source/timeline.json",
+    "bytes": 4316
+  },
+  {
+    "path": "promo/v3/source/Manrope.ttf",
+    "bytes": 164700
+  },
+  {
+    "path": "promo/v3/source/Manrope-OFL.txt",
+    "bytes": 4387
+  },
+  {
+    "path": "promo/v3/source/nucaloric-wordmark.svg",
+    "bytes": 2550
+  },
+  {
+    "path": "promo/v3/source/glossy.frag",
+    "bytes": 2314
+  },
+  {
+    "path": "promo/v3/source/gpu.py",
+    "bytes": 1069
+  },
+  {
+    "path": "promo/v3/source/render.py",
+    "bytes": 15265
+  },
+  {
+    "path": "promo/v3/source/package.py",
+    "bytes": 4777
+  },
+  {
+    "path": "promo/v3/source/requirements.txt",
+    "bytes": 47
+  },
+  {
+    "path": "promo/v3/output/glossy-test.jpg",
+    "bytes": 70776
+  },
+  {
+    "path": "promo/v3/output/scene-01.jpg",
+    "bytes": 65693
+  },
+  {
+    "path": "promo/v3/output/scene-02.jpg",
+    "bytes": 111540
+  },
+  {
+    "path": "promo/v3/output/scene-03.jpg",
+    "bytes": 270262
+  },
+  {
+    "path": "promo/v3/output/scene-04.jpg",
+    "bytes": 109540
+  },
+  {
+    "path": "promo/v3/output/scene-05.jpg",
+    "bytes": 189941
+  },
+  {
+    "path": "promo/v3/output/scene-06.jpg",
+    "bytes": 276854
+  },
+  {
+    "path": "promo/v3/output/scene-07.jpg",
+    "bytes": 630887
+  },
+  {
+    "path": "promo/v3/output/scene-08.jpg",
+    "bytes": 78937
+  },
+  {
+    "path": "promo/v3/output/storyboard.jpg",
+    "bytes": 378326
+  },
+  {
+    "path": "promo/v3/output/soundtrack-16s.wav",
+    "bytes": 3072078
+  },
+  {
+    "path": "promo/v3/output/NUCALORIC-motion-reel-16s-60fps.mp4",
+    "bytes": 12332690
+  },
+  {
+    "path": "promo/v3/output/NUCALORIC-motion-reel-silent.mp4",
+    "bytes": 11679593
+  },
+  {
+    "path": "promo/v3/output/render-contact-sheet.jpg",
+    "bytes": 304354
+  },
+  {
+    "path": "promo/v3/output/NUCALORIC-motion-reel-DNxHR.mov",
+    "bytes": 880808451
+  },
+  {
+    "path": "promo/v3/output/NUCALORIC-Resolve-60fps.fcpxml",
+    "bytes": 4670
+  },
+  {
+    "path": "promo/v2/source/narration.py",
+    "bytes": 2721
+  },
+  {
+    "path": "promo/v2/source/timeline.json",
+    "bytes": 1954
+  },
+  {
+    "path": "promo/v2/source/voiceover-script.txt",
+    "bytes": 512
+  },
+  {
+    "path": "promo/v2/source/render.py",
+    "bytes": 14416
+  },
+  {
+    "path": "promo/v2/source/Manrope.ttf",
+    "bytes": 164700
+  },
+  {
+    "path": "promo/v2/source/Manrope-OFL.txt",
+    "bytes": 4387
+  },
+  {
+    "path": "promo/v2/source/package.py",
+    "bytes": 4996
+  },
+  {
+    "path": "promo/v2/source/requirements.txt",
+    "bytes": 28
+  },
+  {
+    "path": "promo/v2/output/voice-01.mp3",
+    "bytes": 20448
+  },
+  {
+    "path": "promo/v2/output/voice-01.wav",
+    "bytes": 327246
+  },
+  {
+    "path": "promo/v2/output/voice-02.mp3",
+    "bytes": 27648
+  },
+  {
+    "path": "promo/v2/output/voice-02.wav",
+    "bytes": 442446
+  },
+  {
+    "path": "promo/v2/output/voice-03.mp3",
+    "bytes": 28368
+  },
+  {
+    "path": "promo/v2/output/voice-03.wav",
+    "bytes": 453966
+  },
+  {
+    "path": "promo/v2/output/voice-04.mp3",
+    "bytes": 39024
+  },
+  {
+    "path": "promo/v2/output/voice-04.wav",
+    "bytes": 624462
+  },
+  {
+    "path": "promo/v2/output/voice-05.mp3",
+    "bytes": 52992
+  },
+  {
+    "path": "promo/v2/output/voice-05.wav",
+    "bytes": 847950
+  },
+  {
+    "path": "promo/v2/output/voice-06.mp3",
+    "bytes": 26784
+  },
+  {
+    "path": "promo/v2/output/voice-06.wav",
+    "bytes": 428622
+  },
+  {
+    "path": "promo/v2/output/voice-07.mp3",
+    "bytes": 24336
+  },
+  {
+    "path": "promo/v2/output/voice-07.wav",
+    "bytes": 389454
+  },
+  {
+    "path": "promo/v2/output/voice-08.mp3",
+    "bytes": 32976
+  },
+  {
+    "path": "promo/v2/output/voice-08.wav",
+    "bytes": 527694
+  },
+  {
+    "path": "promo/v2/output/voiceover.wav",
+    "bytes": 9734444
+  },
+  {
+    "path": "promo/v2/output/voice-name.txt",
+    "bytes": 15
+  },
+  {
+    "path": "promo/v2/output/swoosh-effects.wav",
+    "bytes": 9734444
+  },
+  {
+    "path": "promo/v2/output/voice-and-effects.wav",
+    "bytes": 9734444
+  },
+  {
+    "path": "promo/v2/output/scene-01.jpg",
+    "bytes": 123782
+  },
+  {
+    "path": "promo/v2/output/scene-02.jpg",
+    "bytes": 132881
+  },
+  {
+    "path": "promo/v2/output/scene-03.jpg",
+    "bytes": 117817
+  },
+  {
+    "path": "promo/v2/output/scene-04.jpg",
+    "bytes": 125660
+  },
+  {
+    "path": "promo/v2/output/scene-05.jpg",
+    "bytes": 103927
+  },
+  {
+    "path": "promo/v2/output/scene-06.jpg",
+    "bytes": 137194
+  },
+  {
+    "path": "promo/v2/output/scene-07.jpg",
+    "bytes": 123054
+  },
+  {
+    "path": "promo/v2/output/scene-08.jpg",
+    "bytes": 96242
+  },
+  {
+    "path": "promo/v2/output/storyboard.jpg",
+    "bytes": 231333
+  },
+  {
+    "path": "promo/v2/output/words-01.json",
+    "bytes": 636
+  },
+  {
+    "path": "promo/v2/output/words-02.json",
+    "bytes": 703
+  },
+  {
+    "path": "promo/v2/output/words-03.json",
+    "bytes": 702
+  },
+  {
+    "path": "promo/v2/output/words-04.json",
+    "bytes": 948
+  },
+  {
+    "path": "promo/v2/output/words-05.json",
+    "bytes": 778
+  },
+  {
+    "path": "promo/v2/output/words-06.json",
+    "bytes": 775
+  },
+  {
+    "path": "promo/v2/output/words-07.json",
+    "bytes": 472
+  },
+  {
+    "path": "promo/v2/output/words-08.json",
+    "bytes": 469
+  },
+  {
+    "path": "promo/v2/output/NUCALORIC-promo-v2.mp4",
+    "bytes": 4303206
+  },
+  {
+    "path": "promo/v2/output/NUCALORIC-promo-v2-silent.mp4",
+    "bytes": 3141717
+  },
+  {
+    "path": "promo/v2/output/NUCALORIC-captions.srt",
+    "bytes": 689
+  },
+  {
+    "path": "promo/v2/output/NUCALORIC-Resolve-timeline.fcpxml",
+    "bytes": 2939
+  },
+  {
+    "path": "vault/Start Here.md",
+    "bytes": 1285
+  },
+  {
+    "path": "vault/Product Brief.md",
+    "bytes": 1192
+  },
+  {
+    "path": "vault/Architecture.md",
+    "bytes": 1192
+  },
+  {
+    "path": "vault/Design System.md",
+    "bytes": 4289
+  },
+  {
+    "path": "vault/Interaction Map.md",
+    "bytes": 1083
+  },
+  {
+    "path": "vault/Data and Persistence.md",
+    "bytes": 1242
+  },
+  {
+    "path": "vault/Audit Findings.md",
+    "bytes": 3728
+  },
+  {
+    "path": "vault/Roadmap.md",
+    "bytes": 2437
+  },
+  {
+    "path": "vault/Local Development.md",
+    "bytes": 833
+  },
+  {
+    "path": "vault/GitHub Setup.md",
+    "bytes": 879
+  },
+  {
+    "path": "vault/History and Decisions.md",
+    "bytes": 9332
+  },
+  {
+    "path": "vault/Session Status.md",
+    "bytes": 2660
+  },
+  {
+    "path": "vault/Capability Registry.md",
+    "bytes": 856
+  },
+  {
+    "path": "vault/Experience Direction.md",
+    "bytes": 3519
+  },
+  {
+    "path": "vault/Dot Motion Update.md",
+    "bytes": 2240
+  },
+  {
+    "path": "vault/Logo Ribbon and Registry Redesign.md",
+    "bytes": 1124
+  },
+  {
+    "path": "vault/Project Hosting.md",
+    "bytes": 1645
+  },
+  {
+    "path": "vault/Promo Video.md",
+    "bytes": 3208
+  },
+  {
+    "path": "vault/Motion Style Guide.md",
+    "bytes": 6020
+  },
+  {
+    "path": "vault/Future Site Motion.md",
+    "bytes": 6515
+  },
+  {
+    "path": "vault/Approved Site Motion.md",
+    "bytes": 2495
+  },
+  {
+    "path": "vault/Project Workspace Redesign.md",
+    "bytes": 2522
+  },
+  {
+    "path": "vault/Pages/coin.md",
+    "bytes": 1370
+  },
+  {
+    "path": "vault/Pages/dashboard.md",
+    "bytes": 800
+  },
+  {
+    "path": "vault/Pages/ecosystem.md",
+    "bytes": 1006
+  },
+  {
+    "path": "vault/Pages/explorer.md",
+    "bytes": 1069
+  },
+  {
+    "path": "vault/Pages/index.md",
+    "bytes": 1008
+  },
+  {
+    "path": "vault/Pages/launchpad.md",
+    "bytes": 1795
+  },
+  {
+    "path": "vault/Pages/optimizer.md",
+    "bytes": 939
+  },
+  {
+    "path": "vault/Pages/registry.md",
+    "bytes": 1372
+  },
+  {
+    "path": "vault/Pages/rewards.md",
+    "bytes": 798
+  },
+  {
+    "path": "vault/Evidence/runtime-audit.json",
+    "bytes": 18843
+  },
+  {
+    "path": "vault/Evidence/static-audit.json",
+    "bytes": 22187
+  },
+  {
+    "path": "vault/Evidence/audit.cjs",
+    "bytes": 6140
+  },
+  {
+    "path": "vault/Evidence/NUCALORIC_COMPLETE_PROJECT_ARCHIVE.txt",
+    "bytes": 701712
+  },
+  {
+    "path": "vault/Evidence/Logo Ribbon and Registry Checks.json",
+    "bytes": 1515
+  },
+  {
+    "path": "vault/Evidence/Registry Visual Groups Desktop.png",
+    "bytes": 239015
+  },
+  {
+    "path": "vault/Evidence/Registry Visual Groups Mobile.png",
+    "bytes": 124594
+  },
+  {
+    "path": "vault/Evidence/Thin Native Color Logo Ribbon.png",
+    "bytes": 356443
+  },
+  {
+    "path": "vault/Evidence/Project Hosting Desktop.png",
+    "bytes": 104503
+  },
+  {
+    "path": "vault/Evidence/Project Hosting Mobile.png",
+    "bytes": 52917
+  },
+  {
+    "path": "vault/Evidence/Project Hosting Checks.json",
+    "bytes": 3441
+  },
+  {
+    "path": "vault/Evidence/Promo Storyboard.jpg",
+    "bytes": 134549
+  },
+  {
+    "path": "vault/Evidence/screenshots/dashboard-390.png",
+    "bytes": 228556
+  },
+  {
+    "path": "vault/Evidence/screenshots/registry-390.png",
+    "bytes": 698688
+  },
+  {
+    "path": "vault/Evidence/screenshots/ecosystem-390.png",
+    "bytes": 264287
+  },
+  {
+    "path": "vault/Evidence/screenshots/rewards-390.png",
+    "bytes": 274810
+  },
+  {
+    "path": "vault/Evidence/screenshots/optimizer-390.png",
+    "bytes": 226189
+  },
+  {
+    "path": "vault/Evidence/screenshots/launchpad-390.png",
+    "bytes": 302961
+  },
+  {
+    "path": "vault/Evidence/screenshots/coin-390.png",
+    "bytes": 324700
+  },
+  {
+    "path": "vault/Evidence/screenshots/explorer-390.png",
+    "bytes": 243477
+  },
+  {
+    "path": "vault/Evidence/screenshots/index-390.png",
+    "bytes": 197163
+  },
+  {
+    "path": "vault/Evidence/screenshots/dashboard-1440.png",
+    "bytes": 400229
+  },
+  {
+    "path": "vault/Evidence/screenshots/registry-1440.png",
+    "bytes": 1048894
+  },
+  {
+    "path": "vault/Evidence/screenshots/ecosystem-1440.png",
+    "bytes": 411409
+  },
+  {
+    "path": "vault/Evidence/screenshots/rewards-1440.png",
+    "bytes": 529795
+  },
+  {
+    "path": "vault/Evidence/screenshots/optimizer-1440.png",
+    "bytes": 401408
+  },
+  {
+    "path": "vault/Evidence/screenshots/launchpad-1440.png",
+    "bytes": 480397
+  },
+  {
+    "path": "vault/Evidence/screenshots/coin-1440.png",
+    "bytes": 560177
+  },
+  {
+    "path": "vault/Evidence/screenshots/explorer-1440.png",
+    "bytes": 470997
+  },
+  {
+    "path": "vault/Evidence/screenshots/index-1440.png",
+    "bytes": 340212
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/refresh-results.json",
+    "bytes": 1192
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/refresh-smoke.json",
+    "bytes": 448
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/refresh-review.cjs",
+    "bytes": 5286
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/launchpad-after-1440.png",
+    "bytes": 411117
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/launchpad-after-390.png",
+    "bytes": 304175
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/registry-after-1440.png",
+    "bytes": 1009492
+  },
+  {
+    "path": "vault/Evidence/Launch Registry Refresh/registry-after-390.png",
+    "bytes": 913566
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/dot-review.cjs",
+    "bytes": 4907
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/dot-results.json",
+    "bytes": 1009
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/dot-smoke.json",
+    "bytes": 448
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/refresh-results.json",
+    "bytes": 1192
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/launchpad-dots-390-body.png",
+    "bytes": 233206
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/launchpad-dots-390-top.png",
+    "bytes": 219129
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/registry-dots-390-body.png",
+    "bytes": 231712
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/registry-dots-390-top.png",
+    "bytes": 271357
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/launchpad-dots-1440-body.png",
+    "bytes": 375964
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/launchpad-dots-1440-top.png",
+    "bytes": 333358
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/registry-dots-1440-body.png",
+    "bytes": 324265
+  },
+  {
+    "path": "vault/Evidence/Dot Motion Update/registry-dots-1440-top.png",
+    "bytes": 404775
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/NUCALORIC-motion-reel-16s-60fps.mp4",
+    "bytes": 12332690
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/storyboard.jpg",
+    "bytes": 378326
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/soundtrack-16s.wav",
+    "bytes": 3072078
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/results.json",
+    "bytes": 1807
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/registry-mobile.png",
+    "bytes": 241450
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/hosting-mobile.png",
+    "bytes": 52647
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/index-mobile.png",
+    "bytes": 230626
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/registry-desktop.png",
+    "bytes": 341220
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/hosting-desktop.png",
+    "bytes": 110742
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/home-desktop.png",
+    "bytes": 464889
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/hosting-results.json",
+    "bytes": 3441
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/logo-registry-results.json",
+    "bytes": 1515
+  },
+  {
+    "path": "vault/Evidence/Approved Site Motion/motion-review.cjs",
+    "bytes": 7954
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/results.json",
+    "bytes": 4031
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/dashboard-390.png",
+    "bytes": 211608
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/rewards-390.png",
+    "bytes": 205948
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/registry-390.png",
+    "bytes": 242319
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/index-390.png",
+    "bytes": 204076
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/dashboard-1440.png",
+    "bytes": 354149
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/rewards-1440.png",
+    "bytes": 346172
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/registry-1440.png",
+    "bytes": 377703
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/index-1440.png",
+    "bytes": 313224
+  },
+  {
+    "path": "vault/Evidence/Project Workspace Redesign/hosting-results.json",
+    "bytes": 3441
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/render.py",
+    "bytes": 15265
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/gpu.py",
+    "bytes": 1069
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/glossy.frag",
+    "bytes": 2314
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/timeline.json",
+    "bytes": 4316
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/Manrope.ttf",
+    "bytes": 164700
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/Manrope-OFL.txt",
+    "bytes": 4387
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/nucaloric-wordmark.svg",
+    "bytes": 2550
+  },
+  {
+    "path": "vault/Evidence/Approved Motion Reel/Source/requirements.txt",
+    "bytes": 47
+  }
+]
